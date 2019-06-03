@@ -1,0 +1,4345 @@
+@relation '_Users_uhura_eclipse-workspace_TCC_classes-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute @@class@@ {neutro,hate}
+@attribute A numeric
+@attribute AAA numeric
+@attribute AAAAA numeric
+@attribute AAAAAAAAA numeric
+@attribute ABASTECIMENTO numeric
+@attribute ABERTINHA numeric
+@attribute ABRAM numeric
+@attribute ABRE numeric
+@attribute ABRIL numeric
+@attribute ABRINDO numeric
+@attribute ABRIR numeric
+@attribute ACABAR numeric
+@attribute ACABE numeric
+@attribute ACABEI numeric
+@attribute ACABOU numeric
+@attribute ACADEMICA numeric
+@attribute ACAI numeric
+@attribute ACEITAS numeric
+@attribute ACELEROU numeric
+@attribute ACENDE numeric
+@attribute ACERTOU numeric
+@attribute ACHA numeric
+@attribute ACHANDO numeric
+@attribute ACHAR numeric
+@attribute ACHAVA numeric
+@attribute ACHEI numeric
+@attribute ACHO numeric
+@attribute ACOLHA numeric
+@attribute ACONTECESSE numeric
+@attribute ACONTECEU numeric
+@attribute ACONTECIMENTO numeric
+@attribute ACORDEI numeric
+@attribute ACREDITE numeric
+@attribute ACREDITO numeric
+@attribute ACTION numeric
+@attribute ACUCAR numeric
+@attribute ADOCANTE numeric
+@attribute ADOLESCENTE numeric
+@attribute ADORANDO numeric
+@attribute ADORO numeric
+@attribute AEEEEEEE numeric
+@attribute AF numeric
+@attribute AFASTAR numeric
+@attribute AFF numeric
+@attribute AFFFFFFFF numeric
+@attribute AFILHADA numeric
+@attribute AFILHADO numeric
+@attribute AFTER numeric
+@attribute AGARRANDO numeric
+@attribute AGORA numeric
+@attribute AGR numeric
+@attribute AGRADA numeric
+@attribute AGRADECO numeric
+@attribute AGROTOXICOS numeric
+@attribute AGUA numeric
+@attribute AGUENTAR numeric
+@attribute AGUENTEM numeric
+@attribute AGUENTO numeric
+@attribute AH numeric
+@attribute AHHHH numeric
+@attribute AI numeric
+@attribute AINDA numeric
+@attribute AJUDA numeric
+@attribute AJUDANDO numeric
+@attribute AJUDAR numeric
+@attribute AKAKKSKSKSKSKSKKSKSS numeric
+@attribute ALAGAMENTOS numeric
+@attribute ALEM numeric
+@attribute ALGO numeric
+@attribute ALGUEM numeric
+@attribute ALGUMA numeric
+@attribute ALI numeric
+@attribute ALIAS numeric
+@attribute ALINHAMENTO numeric
+@attribute ALIQUANDO numeric
+@attribute ALMA numeric
+@attribute ALMOCADO numeric
+@attribute ALMOCANDO numeric
+@attribute ALTA numeric
+@attribute ALTO numeric
+@attribute AMASSADAO numeric
+@attribute AMASSADO numeric
+@attribute AMASSAR numeric
+@attribute AMAVA numeric
+@attribute AMBOS numeric
+@attribute AMEI numeric
+@attribute AMERICANO numeric
+@attribute AMG numeric
+@attribute AMIGA numeric
+@attribute AMIGO numeric
+@attribute AMIGOS numeric
+@attribute AMO numeric
+@attribute AMOO numeric
+@attribute AMOOO numeric
+@attribute AMOR numeric
+@attribute AMORIM numeric
+@attribute ANAC numeric
+@attribute ANALFABETO numeric
+@attribute ANANDA numeric
+@attribute ANAVITORIA numeric
+@attribute ANDA numeric
+@attribute ANDAM numeric
+@attribute ANDANDO numeric
+@attribute ANDANTE numeric
+@attribute ANDAR numeric
+@attribute ANIVERSARIO numeric
+@attribute ANO numeric
+@attribute ANOS numeric
+@attribute ANSIEDADE numeric
+@attribute ANSIOSO numeric
+@attribute ANTECIPADO numeric
+@attribute ANTI numeric
+@attribute ANTIGA numeric
+@attribute ANUNCIEM numeric
+@attribute APAGUEI numeric
+@attribute APAIXONADA numeric
+@attribute APAIXONAR numeric
+@attribute APAIXONO numeric
+@attribute APANHAR numeric
+@attribute APARECER numeric
+@attribute APARECEU numeric
+@attribute APARECIA numeric
+@attribute APELEI numeric
+@attribute APENAS numeric
+@attribute APLICA numeric
+@attribute APOIANDO numeric
+@attribute APPLE numeric
+@attribute APREENDIDO numeric
+@attribute APRENDER numeric
+@attribute APRENDI numeric
+@attribute APRESENTACAO numeric
+@attribute AQ numeric
+@attribute AQUECER numeric
+@attribute AQUELA numeric
+@attribute AQUELE numeric
+@attribute AQUELES numeric
+@attribute AQUI numeric
+@attribute AR numeric
+@attribute ARDE numeric
+@attribute ARMA numeric
+@attribute ARMADO numeric
+@attribute ARMY numeric
+@attribute ARRANCA numeric
+@attribute ARRANCAO numeric
+@attribute ARREMATAR numeric
+@attribute ARREPENDA numeric
+@attribute ARREPENDIMENTO numeric
+@attribute ARRUMA numeric
+@attribute ARRUMAR numeric
+@attribute ARRUMEI numeric
+@attribute AS numeric
+@attribute ASSALTARAM numeric
+@attribute ASSASSINADO numeric
+@attribute ASSIM numeric
+@attribute ASSISTE numeric
+@attribute ASSISTI numeric
+@attribute ASSISTIMOS numeric
+@attribute ASSISTINDO numeric
+@attribute ASSISTIR numeric
+@attribute ASSOCIACAO numeric
+@attribute ASSUNTO numeric
+@attribute ASSUSTEI numeric
+@attribute ASUDAHSDUH numeric
+@attribute ATACAR numeric
+@attribute ATENDENTE numeric
+@attribute ATENDER numeric
+@attribute ATERRORIZADA numeric
+@attribute ATLETICA numeric
+@attribute ATOA numeric
+@attribute ATOR numeric
+@attribute ATRALHA numeric
+@attribute ATRAPALHA numeric
+@attribute ATRAS numeric
+@attribute ATRASADA numeric
+@attribute ATRASADO numeric
+@attribute ATRIZ numeric
+@attribute ATUALIZADA numeric
+@attribute ATUALMENTE numeric
+@attribute AUGE numeric
+@attribute AULA numeric
+@attribute AULAS numeric
+@attribute AUMENTA numeric
+@attribute AURA numeric
+@attribute AUTOESCOLA numeric
+@attribute AUTOESTIMA numeric
+@attribute AVENIDA numeric
+@attribute AVIAO numeric
+@attribute AVISAR numeric
+@attribute AVO numeric
+@attribute AXISZR numeric
+@attribute AZAR numeric
+@attribute AZEITONAS numeric
+@attribute AZUL numeric
+@attribute BAHIA numeric
+@attribute BAIRRO numeric
+@attribute BAIXANDO numeric
+@attribute BAIXO numeric
+@attribute BANCO numeric
+@attribute BANE numeric
+@attribute BANHO numeric
+@attribute BAR numeric
+@attribute BARCO numeric
+@attribute BARON numeric
+@attribute BARRA numeric
+@attribute BARROSO numeric
+@attribute BATALHA numeric
+@attribute BATE numeric
+@attribute BBTHCRUZ numeric
+@attribute BEACH numeric
+@attribute BEBA numeric
+@attribute BEBE numeric
+@attribute BEBEDOUROS numeric
+@attribute BEBENDO numeric
+@attribute BEBER numeric
+@attribute BEBES numeric
+@attribute BEBI numeric
+@attribute BEBO numeric
+@attribute BEIJA numeric
+@attribute BEIJANDO numeric
+@attribute BEIJAVA numeric
+@attribute BEIJOS numeric
+@attribute BEIRA numeric
+@attribute BELA numeric
+@attribute BELO numeric
+@attribute BEM numeric
+@attribute BENTO numeric
+@attribute BESTEIROL numeric
+@attribute BIBLIOTECA numeric
+@attribute BICA numeric
+@attribute BIL numeric
+@attribute BILHOES numeric
+@attribute BIODIESEL numeric
+@attribute BISCOITO numeric
+@attribute BK numeric
+@attribute BOA numeric
+@attribute BOAS numeric
+@attribute BOATO numeric
+@attribute BOCA numeric
+@attribute BOLACHA numeric
+@attribute BOLINHAS numeric
+@attribute BOLO numeric
+@attribute BOLSA numeric
+@attribute BOM numeric
+@attribute BOMBA numeric
+@attribute BOMBEIROS numeric
+@attribute BOMBOM numeric
+@attribute BOMMAS numeric
+@attribute BONITA numeric
+@attribute BONITO numeric
+@attribute BORA numeric
+@attribute BORDA numeric
+@attribute BOTAR numeric
+@attribute BOTOU numeric
+@attribute BR numeric
+@attribute BRABA numeric
+@attribute BRADA numeric
+@attribute BRANCA numeric
+@attribute BRAS numeric
+@attribute BRASILEIRO numeric
+@attribute BRIAN numeric
+@attribute BRIGAM numeric
+@attribute BRINCAR numeric
+@attribute BROTA numeric
+@attribute BROTO numeric
+@attribute BROWN numeric
+@attribute BROWNIE numeric
+@attribute BRUXA numeric
+@attribute BU numeric
+@attribute BUQUE numeric
+@attribute BUSCA numeric
+@attribute BUSCAR numeric
+@attribute BUXO numeric
+@attribute C numeric
+@attribute CABO numeric
+@attribute CABULAR numeric
+@attribute CACAU numeric
+@attribute CACHORRO numeric
+@attribute CACHORROS numeric
+@attribute CADEIRA numeric
+@attribute CAFE numeric
+@attribute CAFEINA numeric
+@attribute CAFEZINHO numeric
+@attribute CAGAR numeric
+@attribute CAGAVA numeric
+@attribute CAIR numeric
+@attribute CAIRAM numeric
+@attribute CAIRU numeric
+@attribute CAIU numeric
+@attribute CALCA numeric
+@attribute CALCADA numeric
+@attribute CALCINHA numeric
+@attribute CALDO numeric
+@attribute CALHAR numeric
+@attribute CALOR numeric
+@attribute CAMA numeric
+@attribute CAMERA numeric
+@attribute CAMILA numeric
+@attribute CAMINHAR numeric
+@attribute CAMOMILA numeric
+@attribute CAMPANHA numeric
+@attribute CAMPEAO numeric
+@attribute CAMPO numeric
+@attribute CANAL numeric
+@attribute CANCELA numeric
+@attribute CANCELAMENTO numeric
+@attribute CANECA numeric
+@attribute CANELA numeric
+@attribute CANETA numeric
+@attribute CANIBALISMO numeric
+@attribute CANTINA numeric
+@attribute CAOS numeric
+@attribute CAPETA numeric
+@attribute CAPIM numeric
+@attribute CAPPUCCINO numeric
+@attribute CAPRICCIO numeric
+@attribute CAPUCCINO numeric
+@attribute CARA numeric
+@attribute CARACA numeric
+@attribute CARACTERISTICAS numeric
+@attribute CARAI numeric
+@attribute CARALHO numeric
+@attribute CARDOSOH numeric
+@attribute CARGA numeric
+@attribute CARINHO numeric
+@attribute CARONA numeric
+@attribute CARREGOU numeric
+@attribute CARRINHO numeric
+@attribute CARRO numeric
+@attribute CARROS numeric
+@attribute CARTAO numeric
+@attribute CARTAZ numeric
+@attribute CARTEIRA numeric
+@attribute CASA numeric
+@attribute CASAL numeric
+@attribute CASAMENTO numeric
+@attribute CASQUINHA numeric
+@attribute CATALOGO numeric
+@attribute CATEDRAL numeric
+@attribute CAUSA numeric
+@attribute CAZINHO numeric
+@attribute CCH numeric
+@attribute CE numeric
+@attribute CEDO numeric
+@attribute CEGO numeric
+@attribute CENA numeric
+@attribute CENARIO numeric
+@attribute CENTAVOS numeric
+@attribute CENTIMETRO numeric
+@attribute CENTINEOH numeric
+@attribute CENTRO numeric
+@attribute CERCADA numeric
+@attribute CEREBRO numeric
+@attribute CEREDJA numeric
+@attribute CEREJAS numeric
+@attribute CERSEI numeric
+@attribute CERTA numeric
+@attribute CERTO numeric
+@attribute CERVEJA numeric
+@attribute CES numeric
+@attribute CHA numeric
+@attribute CHAMA numeric
+@attribute CHAMANDO numeric
+@attribute CHAMAR numeric
+@attribute CHAMAS numeric
+@attribute CHAMEI numeric
+@attribute CHAMP numeric
+@attribute CHAO numeric
+@attribute CHAVENA numeric
+@attribute CHEFAO numeric
+@attribute CHEFE numeric
+@attribute CHEFF numeric
+@attribute CHEGANDO numeric
+@attribute CHEGAR numeric
+@attribute CHEGO numeric
+@attribute CHEGOU numeric
+@attribute CHEGUE numeric
+@attribute CHEGUEI numeric
+@attribute CHEIA numeric
+@attribute CHEIAS numeric
+@attribute CHEIO numeric
+@attribute CHEIRA numeric
+@attribute CHEIRANDO numeric
+@attribute CHEIRAR numeric
+@attribute CHEIRE numeric
+@attribute CHEIRINHO numeric
+@attribute CHEIRO numeric
+@attribute CHICLETE numeric
+@attribute CHINA numeric
+@attribute CHOCOLATE numeric
+@attribute CHOQUE numeric
+@attribute CHORA numeric
+@attribute CHORANDO numeric
+@attribute CHORAR numeric
+@attribute CHOREI numeric
+@attribute CHOROLADOS numeric
+@attribute CHORONA numeric
+@attribute CHURRAS numeric
+@attribute CIBORGUE numeric
+@attribute CIDADE numeric
+@attribute CIDADES numeric
+@attribute CIGARRO numeric
+@attribute CIMA numeric
+@attribute CINEMA numeric
+@attribute CIRCO numeric
+@attribute CLARA numeric
+@attribute CLARAMENTE numeric
+@attribute CLARO numeric
+@attribute CLASSIFICACAO numeric
+@attribute CLOSE numeric
+@attribute CLUBE numeric
+@attribute CMG numeric
+@attribute CNH numeric
+@attribute COBICAR numeric
+@attribute COCA numeric
+@attribute COCAINA numeric
+@attribute CODORNXS numeric
+@attribute COINCIDENCIA numeric
+@attribute COISA numeric
+@attribute COISINHAS numeric
+@attribute COLAPSO numeric
+@attribute COLAR numeric
+@attribute COLEGA numeric
+@attribute COLOCA numeric
+@attribute COLOCALA numeric
+@attribute COLOCAR numeric
+@attribute COLOCO numeric
+@attribute COLOCOU numeric
+@attribute COM numeric
+@attribute COMA numeric
+@attribute COMECEI numeric
+@attribute COMECO numeric
+@attribute COMECOU numeric
+@attribute COMEDIA numeric
+@attribute COMENDO numeric
+@attribute COMENTARIO numeric
+@attribute COMENTARISTAS numeric
+@attribute COMER numeric
+@attribute COMI numeric
+@attribute COMIDA numeric
+@attribute COMIGO numeric
+@attribute COMO numeric
+@attribute COMPADRES numeric
+@attribute COMPENSAR numeric
+@attribute COMPLETO numeric
+@attribute COMPRA numeric
+@attribute COMPRAR numeric
+@attribute COMPRAREM numeric
+@attribute COMPREI numeric
+@attribute COMPROMETER numeric
+@attribute COMPROU numeric
+@attribute COMPROVAM numeric
+@attribute COMUNICAR numeric
+@attribute CONCEITO numeric
+@attribute CONCENTRA numeric
+@attribute CONCENTRADA numeric
+@attribute CONCENTRAR numeric
+@attribute CONDE numeric
+@attribute CONDICIONADO numeric
+@attribute CONDICOES numeric
+@attribute CONFIANCA numeric
+@attribute CONFORTAVEIS numeric
+@attribute CONGELA numeric
+@attribute CONGELADA numeric
+@attribute CONHECE numeric
+@attribute CONHECEU numeric
+@attribute CONHECIDO numeric
+@attribute CONSEGUE numeric
+@attribute CONSEGUEM numeric
+@attribute CONSEGUI numeric
+@attribute CONSEGUIA numeric
+@attribute CONSEGUIR numeric
+@attribute CONSEGUIRIA numeric
+@attribute CONSIGA numeric
+@attribute CONSIGO numeric
+@attribute CONSOME numeric
+@attribute CONTAMINADA numeric
+@attribute CONTAS numeric
+@attribute CONTO numeric
+@attribute CONTOLE numeric
+@attribute CONTOU numeric
+@attribute CONTRAMAO numeric
+@attribute CONTROLAR numeric
+@attribute CONVERSA numeric
+@attribute CONVERSAR numeric
+@attribute CONVIDADOS numeric
+@attribute COPO numeric
+@attribute COPOS numeric
+@attribute CORACAO numeric
+@attribute CORAGEM numeric
+@attribute COREIA numeric
+@attribute CORES numeric
+@attribute CORINTHIANS numeric
+@attribute CORPO numeric
+@attribute CORTA numeric
+@attribute CORTADA numeric
+@attribute CORVO numeric
+@attribute COUVEFLOR numeric
+@attribute COUVEFRUTO numeric
+@attribute CRATERAS numeric
+@attribute CRESCIMENTO numeric
+@attribute CRIACAO numeric
+@attribute CRIANCA numeric
+@attribute CRIANCAS numeric
+@attribute CRIAR numeric
+@attribute CRIATIVAS numeric
+@attribute CRISE numeric
+@attribute CRITICA numeric
+@attribute CRL numeric
+@attribute CRONOS numeric
+@attribute CS numeric
+@attribute CUIDA numeric
+@attribute CUIDADO numeric
+@attribute CUIDE numeric
+@attribute CULTIVA numeric
+@attribute CULTO numeric
+@attribute CUNHADA numeric
+@attribute CUOU numeric
+@attribute CURSO numeric
+@attribute CURTAS numeric
+@attribute CURTO numeric
+@attribute D numeric
+@attribute DA numeric
+@attribute DADA numeric
+@attribute DADOS numeric
+@attribute DAEMPRESA numeric
+@attribute DAGUA numeric
+@attribute DAI numeric
+@attribute DAME numeric
+@attribute DANDO numeric
+@attribute DAO numeric
+@attribute DAORA numeric
+@attribute DAQUELAS numeric
+@attribute DAQUI numeric
+@attribute DAR numeric
+@attribute DAVA numeric
+@attribute DC numeric
+@attribute DE numeric
+@attribute DEBAIXO numeric
+@attribute DECORACAO numeric
+@attribute DEDES numeric
+@attribute DEDO numeric
+@attribute DEFESA numeric
+@attribute DEFINITIVAMENTE numeric
+@attribute DEGUSTACAO numeric
+@attribute DEI numeric
+@attribute DEITADO numeric
+@attribute DEIXA numeric
+@attribute DEIXAREM numeric
+@attribute DEIXARIA numeric
+@attribute DEIXE numeric
+@attribute DEIXEI numeric
+@attribute DELA numeric
+@attribute DELE numeric
+@attribute DELICIA numeric
+@attribute DELICIO numeric
+@attribute DEMAIS numeric
+@attribute DEMAISSS numeric
+@attribute DEMORA numeric
+@attribute DENTRO numeric
+@attribute DEPOIS numeric
+@attribute DEPUTADA numeric
+@attribute DERIK numeric
+@attribute DERRAMEI numeric
+@attribute DERRETER numeric
+@attribute DERRETEU numeric
+@attribute DERRETIDO numeric
+@attribute DERRUBOU numeric
+@attribute DESC numeric
+@attribute DESCE numeric
+@attribute DESCOBRI numeric
+@attribute DESCONHECO numeric
+@attribute DESCREVER numeric
+@attribute DESCULPA numeric
+@attribute DESCULPAS numeric
+@attribute DESDE numeric
+@attribute DESENHO numeric
+@attribute DESESPERADA numeric
+@attribute DESESPERADAMENTE numeric
+@attribute DESFILAR numeric
+@attribute DESGRACA numeric
+@attribute DESISTA numeric
+@attribute DESISTI numeric
+@attribute DESORGANIZADA numeric
+@attribute DESORIENTADO numeric
+@attribute DESREGULASSE numeric
+@attribute DESSALINIZACAO numeric
+@attribute DETIDA numeric
+@attribute DEU numeric
+@attribute DEUS numeric
+@attribute DEVIDO numeric
+@attribute DEVOLVER numeric
+@attribute DEVOR numeric
+@attribute DIA numeric
+@attribute DIABETES numeric
+@attribute DIAMANTE numeric
+@attribute DIAS numeric
+@attribute DICA numeric
+@attribute DIESEL numeric
+@attribute DIETA numeric
+@attribute DIFERENTE numeric
+@attribute DIFICIL numeric
+@attribute DIFICULDADES numeric
+@attribute DILO numeric
+@attribute DINHEIRO numeric
+@attribute DINOSSAURO numeric
+@attribute DIONYSUS numeric
+@attribute DIREITINHO numeric
+@attribute DIREITO numeric
+@attribute DIREITOS numeric
+@attribute DIRETRIZES numeric
+@attribute DIRIGIR numeric
+@attribute DIRIJO numeric
+@attribute DISCUSSAO numeric
+@attribute DISFARCANDO numeric
+@attribute DISNEY numeric
+@attribute DISSO numeric
+@attribute DIVIRTO numeric
+@attribute DIVULGAR numeric
+@attribute DIVULGAREM numeric
+@attribute DIZER numeric
+@attribute DIZIA numeric
+@attribute DM numeric
+@attribute DNV numeric
+@attribute DOCE numeric
+@attribute DOCUMENTOS numeric
+@attribute DODO numeric
+@attribute DOENCA numeric
+@attribute DOENDO numeric
+@attribute DOENTES numeric
+@attribute DOIS numeric
+@attribute DONA numeric
+@attribute DONO numeric
+@attribute DONOEMBORA numeric
+@attribute DONUTS numeric
+@attribute DOQUE numeric
+@attribute DOR numeric
+@attribute DORMI numeric
+@attribute DORMINDO numeric
+@attribute DPS numeric
+@attribute DR numeric
+@attribute DROGAR numeric
+@attribute DUAS numeric
+@attribute DUNKIN numeric
+@attribute DURANTE numeric
+@attribute DUTRA numeric
+@attribute DUVIDAS numeric
+@attribute E numeric
+@attribute ECOMMERCE numeric
+@attribute EDICAO numeric
+@attribute EDUCACAO numeric
+@attribute EH numeric
+@attribute EI numeric
+@attribute EINS numeric
+@attribute ELAS numeric
+@attribute ELE numeric
+@attribute EM numeric
+@attribute EMBORA numeric
+@attribute EMPADINHA numeric
+@attribute EMPADINHAS numeric
+@attribute EMPREGO numeric
+@attribute EMPRESA numeric
+@attribute EMPRESTEI numeric
+@attribute ENCHER numeric
+@attribute ENCONTREI numeric
+@attribute ENCONTRO numeric
+@attribute ENFERMAGEM numeric
+@attribute ENFORCADO numeric
+@attribute ENFORQUE numeric
+@attribute ENJOADA numeric
+@attribute ENJOADO numeric
+@attribute ENROLANDO numeric
+@attribute ENSAIANDO numeric
+@attribute ENTANTO numeric
+@attribute ENTAO numeric
+@attribute ENTENDER numeric
+@attribute ENTIDADE numeric
+@attribute ENTRA numeric
+@attribute ENTRAR numeric
+@attribute ENTREGA numeric
+@attribute ENTREGAR numeric
+@attribute EQUILIBRAR numeric
+@attribute EQUIPE numeric
+@attribute ERA numeric
+@attribute ERRO numeric
+@attribute ERROS numeric
+@attribute ERRR numeric
+@attribute ES numeric
+@attribute ESCANDALO numeric
+@attribute ESCAPAMENTO numeric
+@attribute ESCAPAR numeric
+@attribute ESCOLA numeric
+@attribute ESCOLHER numeric
+@attribute ESCONDIDO numeric
+@attribute ESCORREGAR numeric
+@attribute ESCREVE numeric
+@attribute ESCREVER numeric
+@attribute ESCUTANDO numeric
+@attribute ESCUTAR numeric
+@attribute ESCUTEI numeric
+@attribute ESFORCOU numeric
+@attribute ESFRIA numeric
+@attribute ESPANTA numeric
+@attribute ESPECIAL numeric
+@attribute ESPERAM numeric
+@attribute ESPERANDO numeric
+@attribute ESPEREI numeric
+@attribute ESPERO numeric
+@attribute ESPETACULO numeric
+@attribute ESPIOES numeric
+@attribute ESQUECAS numeric
+@attribute ESQUECE numeric
+@attribute ESQUECI numeric
+@attribute ESQUENTA numeric
+@attribute ESSA numeric
+@attribute ESSE numeric
+@attribute ESSENCIA numeric
+@attribute ESTA numeric
+@attribute ESTACIONADA numeric
+@attribute ESTACIONEI numeric
+@attribute ESTAGIO numeric
+@attribute ESTAR numeric
+@attribute ESTAVA numeric
+@attribute ESTAVEL numeric
+@attribute ESTEJA numeric
+@attribute ESTIVESSE numeric
+@attribute ESTOMAGO numeric
+@attribute ESTOU numeric
+@attribute ESTRANHA numeric
+@attribute ESTUDANTE numeric
+@attribute ESTUDAR numeric
+@attribute ESTUDAVA numeric
+@attribute ESTUDIO numeric
+@attribute ESTUDO numeric
+@attribute ESTUDOS numeric
+@attribute ESVAZIAR numeric
+@attribute ETC numeric
+@attribute EU numeric
+@attribute EUA numeric
+@attribute EVEEER numeric
+@attribute EVEJRHZ numeric
+@attribute EXCLUSIVA numeric
+@attribute EXCURSAO numeric
+@attribute EXEMPLO numeric
+@attribute EXERCICIO numeric
+@attribute EXERCITO numeric
+@attribute EXISTEM numeric
+@attribute EXISTIA numeric
+@attribute EXPERIENCIA numeric
+@attribute EXPERIMENTA numeric
+@attribute EXPERIMENTEI numeric
+@attribute EXPLICADO numeric
+@attribute EXPLICAR numeric
+@attribute EXPLODE numeric
+@attribute EXPLODIR numeric
+@attribute EXTRA numeric
+@attribute EXTREMAMENTE numeric
+@attribute F numeric
+@attribute FACAM numeric
+@attribute FACIL numeric
+@attribute FACO numeric
+@attribute FACULDADE numeric
+@attribute FAIXA numeric
+@attribute FALA numeric
+@attribute FALAM numeric
+@attribute FALANDO numeric
+@attribute FALAR numeric
+@attribute FALEI numeric
+@attribute FALO numeric
+@attribute FALOU numeric
+@attribute FALTA numeric
+@attribute FALTAR numeric
+@attribute FAMILIA numeric
+@attribute FATO numeric
+@attribute FAVORITA numeric
+@attribute FAZ numeric
+@attribute FAZEM numeric
+@attribute FAZEMOS numeric
+@attribute FAZEREM numeric
+@attribute FDP numeric
+@attribute FDS numeric
+@attribute FECHADO numeric
+@attribute FECHAR numeric
+@attribute FEIA numeric
+@attribute FEIO numeric
+@attribute FELICIDADE numeric
+@attribute FELIZ numeric
+@attribute FENIX numeric
+@attribute FERIADO numeric
+@attribute FERNANDA numeric
+@attribute FERVENDO numeric
+@attribute FERVER numeric
+@attribute FESTIVAIS numeric
+@attribute FEZ numeric
+@attribute FICA numeric
+@attribute FICAMOS numeric
+@attribute FICAR numeric
+@attribute FICARAM numeric
+@attribute FICO numeric
+@attribute FICOU numeric
+@attribute FIFA numeric
+@attribute FILHOS numeric
+@attribute FILME numeric
+@attribute FILMES numeric
+@attribute FILOSOFIA numeric
+@attribute FIM numeric
+@attribute FINAL numeric
+@attribute FINANCIADO numeric
+@attribute FINKEROFICIAL numeric
+@attribute FIO numeric
+@attribute FIQUEI numeric
+@attribute FISCAL numeric
+@attribute FITA numeric
+@attribute FIZ numeric
+@attribute FIZEMOS numeric
+@attribute FIZEREM numeric
+@attribute FIZESSE numeric
+@attribute FLAMENGO numeric
+@attribute FLOR numeric
+@attribute FLORECA numeric
+@attribute FLORES numeric
+@attribute FLORESCE numeric
+@attribute FLORICULTURA numeric
+@attribute FLORSO numeric
+@attribute FODA numeric
+@attribute FODAC numeric
+@attribute FODAO numeric
+@attribute FODENDO numeric
+@attribute FOFO numeric
+@attribute FOGO numeric
+@attribute FOLGA numeric
+@attribute FOLHAMERCADO numeric
+@attribute FOME numeric
+@attribute FONE numeric
+@attribute FORA numeric
+@attribute FORCA numeric
+@attribute FORCAS numeric
+@attribute FORMA numeric
+@attribute FORMAM numeric
+@attribute FORMAS numeric
+@attribute FORMATO numeric
+@attribute FORTE numeric
+@attribute FORTESMAIS numeric
+@attribute FORUM numeric
+@attribute FOSTER numeric
+@attribute FOTO numeric
+@attribute FOTOS numeric
+@attribute FRALDA numeric
+@attribute FRANCA numeric
+@attribute FREI numeric
+@attribute FREIADA numeric
+@attribute FRENTE numeric
+@attribute FRIO numeric
+@attribute FRITO numeric
+@attribute FROZEN numeric
+@attribute FRUTO numeric
+@attribute FRUTOS numeric
+@attribute FUDE numeric
+@attribute FUDEU numeric
+@attribute FUDIDA numeric
+@attribute FUI numeric
+@attribute FULANO numeric
+@attribute FULL numeric
+@attribute FUNCAO numeric
+@attribute FUNCIONAR numeric
+@attribute FUNCIONO numeric
+@attribute FUROU numeric
+@attribute FUTEBOL numeric
+@attribute GABRIELLY numeric
+@attribute GAIOLA numeric
+@attribute GALERA numeric
+@attribute GANHA numeric
+@attribute GANHAR numeric
+@attribute GANHE numeric
+@attribute GANHEI numeric
+@attribute GARAGEM numeric
+@attribute GAROTO numeric
+@attribute GARRAFA numeric
+@attribute GARRAFAS numeric
+@attribute GARRAFOES numeric
+@attribute GASOLINA numeric
+@attribute GASTANDO numeric
+@attribute GASTEI numeric
+@attribute GATOS numeric
+@attribute GAY numeric
+@attribute GB numeric
+@attribute GELADA numeric
+@attribute GELADO numeric
+@attribute GELO numeric
+@attribute GENGIBRE numeric
+@attribute GENTE numeric
+@attribute GEROMEL numeric
+@attribute GIOVANA numeric
+@attribute GIRASSOL numeric
+@attribute GIRO numeric
+@attribute GLAENNYG numeric
+@attribute GOKUCPLOL numeric
+@attribute GOL numeric
+@attribute GONCALVESRS numeric
+@attribute GOSTA numeric
+@attribute GOSTAR numeric
+@attribute GOSTO numeric
+@attribute GOSTOOOOO numeric
+@attribute GOSTOSA numeric
+@attribute GOSTOU numeric
+@attribute GOT numeric
+@attribute GOTA numeric
+@attribute GOVERNO numeric
+@attribute GRACA numeric
+@attribute GRACAS numeric
+@attribute GRANULADO numeric
+@attribute GRATA numeric
+@attribute GRATIDAO numeric
+@attribute GROSSA numeric
+@attribute GRUDA numeric
+@attribute GRUDAR numeric
+@attribute GRUPO numeric
+@attribute GTBRIEL numeric
+@attribute GTI numeric
+@attribute GUERREIRO numeric
+@attribute GURI numeric
+@attribute H numeric
+@attribute HA numeric
+@attribute HAHAHA numeric
+@attribute HAHAHAHAHAH numeric
+@attribute HAHAHHAHA numeric
+@attribute HAND numeric
+@attribute HELENA numeric
+@attribute HELICOCA numeric
+@attribute HENRIQUE numeric
+@attribute HEROIS numeric
+@attribute HIBISCO numeric
+@attribute HIBISCUS numeric
+@attribute HISTORIA numeric
+@attribute HJ numeric
+@attribute HOJE numeric
+@attribute HOMEM numeric
+@attribute HORA numeric
+@attribute HORARIO numeric
+@attribute HORAS numeric
+@attribute HQS numeric
+@attribute HRR numeric
+@attribute HTTPS numeric
+@attribute HUMANO numeric
+@attribute HUMANOSDA numeric
+@attribute HUMILHADA numeric
+@attribute HUUMMM numeric
+@attribute I numeric
+@attribute IA numeric
+@attribute IDADE numeric
+@attribute IDEIAS numeric
+@attribute IF numeric
+@attribute IFOOD numeric
+@attribute IGNORANT numeric
+@attribute IGNORAR numeric
+@attribute IGUAL numeric
+@attribute III numeric
+@attribute ILHA numeric
+@attribute IMAGENS numeric
+@attribute IMAGINA numeric
+@attribute IMAGINEI numeric
+@attribute IMBECIL numeric
+@attribute IMBECIS numeric
+@attribute IMITAR numeric
+@attribute IMPEDIMENTO numeric
+@attribute IMPLANTACAO numeric
+@attribute IMPORTAR numeric
+@attribute IMPOS numeric
+@attribute IMPOSSIVEL numeric
+@attribute INAUGURADO numeric
+@attribute INCENDIO numeric
+@attribute INCLUSIVE numeric
+@attribute INCOMODO numeric
+@attribute INCREDULO numeric
+@attribute INCRIVEL numeric
+@attribute INDECISAO numeric
+@attribute INDEPENDENTE numeric
+@attribute INDO numeric
+@attribute INFANTIL numeric
+@attribute INFELIZMENTE numeric
+@attribute INFERNAL numeric
+@attribute INFERNO numeric
+@attribute INFLAMATORIO numeric
+@attribute INFORMACAO numeric
+@attribute INFORMAR numeric
+@attribute INGLESES numeric
+@attribute INJUSTICADO numeric
+@attribute INSANIDADE numeric
+@attribute INSATISFACAO numeric
+@attribute INSTA numeric
+@attribute INSTRUCOES numeric
+@attribute INTEIRA numeric
+@attribute INTEIRO numeric
+@attribute INTER numeric
+@attribute INTERCAMBIO numeric
+@attribute INTERESS numeric
+@attribute INTERIOR numeric
+@attribute INTERNET numeric
+@attribute INTERVALO numeric
+@attribute INTIMOS numeric
+@attribute INVADE numeric
+@attribute INVENCOES numeric
+@attribute INVES numeric
+@attribute IOS numeric
+@attribute IPHONE numeric
+@attribute IPTU numeric
+@attribute IPVA numeric
+@attribute IR numeric
+@attribute IRES numeric
+@attribute IRMA numeric
+@attribute IRMAO numeric
+@attribute ISABELA numeric
+@attribute ISSO numeric
+@attribute JA numeric
+@attribute JAA numeric
+@attribute JACONTHAIS numeric
+@attribute JADEREIGN numeric
+@attribute JANAINA numeric
+@attribute JANEIRO numeric
+@attribute JANTANDO numeric
+@attribute JARDIM numeric
+@attribute JAYMES numeric
+@attribute JEAN numeric
+@attribute JEANCAVALINI numeric
+@attribute JEITINHO numeric
+@attribute JEITO numeric
+@attribute JENO numeric
+@attribute JEQUITIBA numeric
+@attribute JIKOOK numeric
+@attribute JLLE numeric
+@attribute JOAO numeric
+@attribute JOGA numeric
+@attribute JOGADO numeric
+@attribute JOGANDO numeric
+@attribute JOGO numeric
+@attribute JOGUEI numeric
+@attribute JONN numeric
+@attribute JONZZ numeric
+@attribute JOSE numeric
+@attribute JOVEM numeric
+@attribute JUIZO numeric
+@attribute JUMPSCARE numeric
+@attribute JUNTAMENTE numeric
+@attribute JUNTANDO numeric
+@attribute JUNTAS numeric
+@attribute JUNTO numeric
+@attribute JUVENTUDE numeric
+@attribute KHH numeric
+@attribute KINDER numeric
+@attribute KITKAT numeric
+@attribute KK numeric
+@attribute KKK numeric
+@attribute KKKJJJJKK numeric
+@attribute KKKK numeric
+@attribute KKKKJJJ numeric
+@attribute KKKKK numeric
+@attribute KKKKKK numeric
+@attribute KKKKKKKK numeric
+@attribute KKKKKKKKK numeric
+@attribute KKKKKKKKKK numeric
+@attribute KKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKKKKKKKKKKKKKKKKK numeric
+@attribute KPAKSOAKSPAKSOAKKSA numeric
+@attribute L numeric
+@attribute LA numeric
+@attribute LADO numeric
+@attribute LAGRIMA numeric
+@attribute LAJOTA numeric
+@attribute LAKA numeric
+@attribute LALU numeric
+@attribute LAMCLSMFLAJCOWMDLS numeric
+@attribute LANCA numeric
+@attribute LANCAMENTO numeric
+@attribute LANCE numeric
+@attribute LANCHONETE numeric
+@attribute LAURA numeric
+@attribute LAVAGEM numeric
+@attribute LCD numeric
+@attribute LEANDRINHO numeric
+@attribute LEAO numeric
+@attribute LEGENDA numeric
+@attribute LEITE numeric
+@attribute LEMBRA numeric
+@attribute LEMBRANCAS numeric
+@attribute LEMBRAR numeric
+@attribute LEMBREM numeric
+@attribute LEMBRO numeric
+@attribute LEO numeric
+@attribute LEOES numeric
+@attribute LER numeric
+@attribute LESMA numeric
+@attribute LEVAR numeric
+@attribute LEVOU numeric
+@attribute LIBERADO numeric
+@attribute LIBRAS numeric
+@attribute LIGA numeric
+@attribute LIGEIRO numeric
+@attribute LIMAO numeric
+@attribute LIMITADA numeric
+@attribute LIMITES numeric
+@attribute LIMPA numeric
+@attribute LIMPAR numeric
+@attribute LIMPO numeric
+@attribute LINDA numeric
+@attribute LINDO numeric
+@attribute LINDOS numeric
+@attribute LINGUA numeric
+@attribute LISINHO numeric
+@attribute LITRO numeric
+@attribute LIVE numeric
+@attribute LIVRARIA numeric
+@attribute LIVRE numeric
+@attribute LIXEIRAS numeric
+@attribute LOBOS numeric
+@attribute LOCAL numeric
+@attribute LOCO numeric
+@attribute LOGICO numeric
+@attribute LOGO numeric
+@attribute LOUCURA numeric
+@attribute LS numeric
+@attribute LUA numeric
+@attribute LUAN numeric
+@attribute LUCIIILOL numeric
+@attribute LUGANO numeric
+@attribute LUGAR numeric
+@attribute LUISA numeric
+@attribute LUPIN numeric
+@attribute LUZ numeric
+@attribute MABELLA numeric
+@attribute MACHUCADO numeric
+@attribute MACONHA numeric
+@attribute MAE numeric
+@attribute MAIOR numeric
+@attribute MAIORIDADE numeric
+@attribute MAIS numeric
+@attribute MAL numeric
+@attribute MALABARISTA numeric
+@attribute MALADO numeric
+@attribute MALDICAO numeric
+@attribute MAMADEIRA numeric
+@attribute MAMIS numeric
+@attribute MANDA numeric
+@attribute MANDAR numeric
+@attribute MANDO numeric
+@attribute MANDOU numeric
+@attribute MANE numeric
+@attribute MANEIRINHO numeric
+@attribute MANGUEIRA numeric
+@attribute MANHA numeric
+@attribute MANIFESTOU numeric
+@attribute MANO numeric
+@attribute MANOGENTE numeric
+@attribute MANOO numeric
+@attribute MAO numeric
+@attribute MAOS numeric
+@attribute MAQUINA numeric
+@attribute MAR numeric
+@attribute MARANO numeric
+@attribute MARAVILHAS numeric
+@attribute MARAVILHOSO numeric
+@attribute MARAVILHOSOOOOO numeric
+@attribute MARCAR numeric
+@attribute MARCOS numeric
+@attribute MARCOU numeric
+@attribute MARIA numeric
+@attribute MARIDAO numeric
+@attribute MARIN numeric
+@attribute MARQUES numeric
+@attribute MAS numeric
+@attribute MATANDO numeric
+@attribute MATASTE numeric
+@attribute MATE numeric
+@attribute MATEMATICA numeric
+@attribute MATERIA numeric
+@attribute MATURIDADE numeric
+@attribute MAURITIALMIRANTE numeric
+@attribute MAURO numeric
+@attribute MAXIMO numeric
+@attribute MC numeric
+@attribute MCDONALDS numeric
+@attribute MDF numeric
+@attribute ME numeric
+@attribute MECATRONICA numeric
+@attribute MEDUSA numeric
+@attribute MEGA numeric
+@attribute MEIA numeric
+@attribute MEIO numeric
+@attribute MEL numeric
+@attribute MELANCIA numeric
+@attribute MELHOR numeric
+@attribute MELHORES numeric
+@attribute MELHOROU numeric
+@attribute MELITTA numeric
+@attribute MENGO numeric
+@attribute MENINA numeric
+@attribute MENINAS numeric
+@attribute MENINO numeric
+@attribute MENINOS numeric
+@attribute MENOS numeric
+@attribute MENSAGEM numeric
+@attribute MENSTRUACAO numeric
+@attribute MENTE numeric
+@attribute MENTIU numeric
+@attribute MERDA numeric
+@attribute MERECE numeric
+@attribute MERECER numeric
+@attribute MERECIA numeric
+@attribute MERMAO numeric
+@attribute MES numeric
+@attribute MESA numeric
+@attribute MESES numeric
+@attribute MESMO numeric
+@attribute METADE numeric
+@attribute METALICO numeric
+@attribute METE numeric
+@attribute METER numeric
+@attribute METRALHADO numeric
+@attribute MEU numeric
+@attribute MEXE numeric
+@attribute MICROLOTE numeric
+@attribute MIGA numeric
+@attribute MIGOS numeric
+@attribute MILENAFILIPPO numeric
+@attribute MILHOES numeric
+@attribute MILK numeric
+@attribute MIM numeric
+@attribute MIMA numeric
+@attribute MIN numeric
+@attribute MINEIRAO numeric
+@attribute MINHA numeric
+@attribute MINIMAMENTE numeric
+@attribute MINISTERIO numeric
+@attribute MINISTRO numeric
+@attribute MINS numeric
+@attribute MINUTOS numeric
+@attribute MIOJO numeric
+@attribute MIOLO numeric
+@attribute MISERA numeric
+@attribute MISTA numeric
+@attribute MISTURANDO numeric
+@attribute ML numeric
+@attribute MLK numeric
+@attribute MO numeric
+@attribute MOCA numeric
+@attribute MOCHILA numeric
+@attribute MOEDAS numeric
+@attribute MOLE numeric
+@attribute MOLEZA numeric
+@attribute MOLHADA numeric
+@attribute MOLHO numeric
+@attribute MONTAR numeric
+@attribute MORADORES numeric
+@attribute MORAL numeric
+@attribute MORANGO numeric
+@attribute MORAR numeric
+@attribute MORDIDA numeric
+@attribute MORNINHA numeric
+@attribute MORRE numeric
+@attribute MORRENDO numeric
+@attribute MORREU numeric
+@attribute MOSCANDO numeric
+@attribute MOTA numeric
+@attribute MOTO numeric
+@attribute MOTORISTA numeric
+@attribute MOVEIS numeric
+@attribute MOVIDO numeric
+@attribute MOVIE numeric
+@attribute MP numeric
+@attribute MSM numeric
+@attribute MT numeric
+@attribute MTAS numeric
+@attribute MTO numeric
+@attribute MUAMBA numeric
+@attribute MUDANDO numeric
+@attribute MUDAR numeric
+@attribute MUDO numeric
+@attribute MULHER numeric
+@attribute MULHERES numeric
+@attribute MULTA numeric
+@attribute MUNDO numeric
+@attribute MUNICIPAL numeric
+@attribute MUSICA numeric
+@attribute MUSICAS numeric
+@attribute MUSICO numeric
+@attribute MV numeric
+@attribute N numeric
+@attribute NA numeric
+@attribute NADA numeric
+@attribute NAMORADA numeric
+@attribute NAMORADO numeric
+@attribute NAMORO numeric
+@attribute NAO numeric
+@attribute NAOOOOOOOOOOOOO numeric
+@attribute NAQUELA numeric
+@attribute NARRAM numeric
+@attribute NASCE numeric
+@attribute NATUREZA numeric
+@attribute NAVEGANTES numeric
+@attribute ND numeric
+@attribute NDA numeric
+@attribute NE numeric
+@attribute NECESSARIO numeric
+@attribute NEGOCIO numeric
+@attribute NEGRA numeric
+@attribute NEGRO numeric
+@attribute NELE numeric
+@attribute NEM numeric
+@attribute NENHUMA numeric
+@attribute NESCAU numeric
+@attribute NETFLIX numeric
+@attribute NEVE numeric
+@attribute NEWS numeric
+@attribute NGM numeric
+@attribute NINA numeric
+@attribute NINGUEM numeric
+@attribute NINHO numeric
+@attribute NO numeric
+@attribute NOAH numeric
+@attribute NOITE numeric
+@attribute NOJENTA numeric
+@attribute NOME numeric
+@attribute NORMAL numeric
+@attribute NOSSA numeric
+@attribute NOTA numeric
+@attribute NOTRE numeric
+@attribute NOTREDAME numeric
+@attribute NOVA numeric
+@attribute NOVAMENTE numeric
+@attribute NOVINHO numeric
+@attribute NOVO numeric
+@attribute NUNCA numeric
+@attribute O numeric
+@attribute OBG numeric
+@attribute OBS numeric
+@attribute OBSERVANDO numeric
+@attribute OBSERVAR numeric
+@attribute ODEIO numeric
+@attribute ODIO numeric
+@attribute OI numeric
+@attribute OITENTA numeric
+@attribute OLHANDO numeric
+@attribute OLHEI numeric
+@attribute OLHEM numeric
+@attribute OLHO numeric
+@attribute OLHOU numeric
+@attribute OMEPRAZOL numeric
+@attribute ONDE numeric
+@attribute ONIBUS numeric
+@attribute ONTEM numeric
+@attribute OPA numeric
+@attribute OPCAO numeric
+@attribute OPCOES numeric
+@attribute OPEN numeric
+@attribute OQ numeric
+@attribute ORACAO numeric
+@attribute ORCAMENTO numeric
+@attribute ORGULHO numeric
+@attribute OS numeric
+@attribute OTARIOS numeric
+@attribute OTIMA numeric
+@attribute OUTRO numeric
+@attribute OUVIR numeric
+@attribute OVO numeric
+@attribute P numeric
+@attribute PAGA numeric
+@attribute PAGARAO numeric
+@attribute PAGODE numeric
+@attribute PAI numeric
+@attribute PALAVRAS numeric
+@attribute PALHACO numeric
+@attribute PANELA numeric
+@attribute PAO numeric
+@attribute PAR numeric
+@attribute PARA numeric
+@attribute PARABENS numeric
+@attribute PARADO numeric
+@attribute PARAIBA numeric
+@attribute PARAMORE numeric
+@attribute PARAR numeric
+@attribute PARE numeric
+@attribute PARECE numeric
+@attribute PAREI numeric
+@attribute PARIS numeric
+@attribute PARIUUUUU numeric
+@attribute PARK numeric
+@attribute PARLAMENTAR numeric
+@attribute PARO numeric
+@attribute PARTE numeric
+@attribute PARTICIPACAO numeric
+@attribute PASADENA numeric
+@attribute PASCHOAL numeric
+@attribute PASSA numeric
+@attribute PASSADA numeric
+@attribute PASSANDO numeric
+@attribute PASSAR numeric
+@attribute PASSAREMOS numeric
+@attribute PASSARO numeric
+@attribute PASSEI numeric
+@attribute PASSEIOS numeric
+@attribute PASSEM numeric
+@attribute PASSO numeric
+@attribute PASSOU numeric
+@attribute PASTELARIA numeric
+@attribute PATIFARIA numeric
+@attribute PATRICK numeric
+@attribute PATROCINIO numeric
+@attribute PAU numeric
+@attribute PAULO numeric
+@attribute PAZ numeric
+@attribute PC numeric
+@attribute PE numeric
+@attribute PECA numeric
+@attribute PECAM numeric
+@attribute PEDESTRE numeric
+@attribute PEDI numeric
+@attribute PEDINDO numeric
+@attribute PEDIR numeric
+@attribute PEDRO numeric
+@attribute PEGA numeric
+@attribute PEGANDO numeric
+@attribute PEGAR numeric
+@attribute PEGUEI numeric
+@attribute PELAMORDEDEUS numeric
+@attribute PELO numeric
+@attribute PENA numeric
+@attribute PENSA numeric
+@attribute PENSANDO numeric
+@attribute PENSAVA numeric
+@attribute PENSEI numeric
+@attribute PENSO numeric
+@attribute PENSOU numeric
+@attribute PERCEBE numeric
+@attribute PERCEBER numeric
+@attribute PERDER numeric
+@attribute PERDERAM numeric
+@attribute PERDES numeric
+@attribute PERDI numeric
+@attribute PERDIDA numeric
+@attribute PERFEITAMENTE numeric
+@attribute PERFEITO numeric
+@attribute PERGUNTA numeric
+@attribute PERGUNTANDO numeric
+@attribute PERIGOS numeric
+@attribute PERMANENTEMENTE numeric
+@attribute PERNA numeric
+@attribute PERTO numeric
+@attribute PERTURBANDO numeric
+@attribute PESADA numeric
+@attribute PESO numeric
+@attribute PESQUISAR numeric
+@attribute PESSOA numeric
+@attribute PESSOAL numeric
+@attribute PESSOAS numeric
+@attribute PETROBRAS numeric
+@attribute PETROLAO numeric
+@attribute PICAO numeric
+@attribute PICKOU numeric
+@attribute PICOLE numeric
+@attribute PINA numeric
+@attribute PING numeric
+@attribute PINGADO numeric
+@attribute PINGO numeric
+@attribute PIOR numeric
+@attribute PIORES numeric
+@attribute PISCINA numeric
+@attribute PISO numeric
+@attribute PISTA numeric
+@attribute PIZZARIA numeric
+@attribute PKAS numeric
+@attribute PLANO numeric
+@attribute PLANTAS numeric
+@attribute PLASTICO numeric
+@attribute PLATEIA numeric
+@attribute PLAY numeric
+@attribute PLENA numeric
+@attribute PLOT numeric
+@attribute PODE numeric
+@attribute PODEM numeric
+@attribute POEM numeric
+@attribute POIS numeric
+@attribute POLITICA numeric
+@attribute PONG numeric
+@attribute PONTES numeric
+@attribute PONTO numeric
+@attribute PORQUE numeric
+@attribute PORRA numeric
+@attribute PORRADA numeric
+@attribute PORTAS numeric
+@attribute POSSIVEL numeric
+@attribute POSTO numeric
+@attribute POTE numeric
+@attribute POTENCIA numeric
+@attribute POTENCIAL numeric
+@attribute POUCA numeric
+@attribute POVO numeric
+@attribute POXA numeric
+@attribute PQ numeric
+@attribute PQP numeric
+@attribute PRA numeric
+@attribute PRAIA numeric
+@attribute PRAS numeric
+@attribute PRATO numeric
+@attribute PRECISA numeric
+@attribute PRECISO numeric
+@attribute PREGAR numeric
+@attribute PREJUDICAR numeric
+@attribute PREOCUPE numeric
+@attribute PRESA numeric
+@attribute PRESENCA numeric
+@attribute PRESENTES numeric
+@attribute PRESO numeric
+@attribute PRESSAO numeric
+@attribute PRESTA numeric
+@attribute PRETO numeric
+@attribute PREU numeric
+@attribute PREVE numeric
+@attribute PRIMO numeric
+@attribute PRIVILEGIADO numeric
+@attribute PRO numeric
+@attribute PROBLEMA numeric
+@attribute PROBLEMAS numeric
+@attribute PROCURANDO numeric
+@attribute PROCURAR numeric
+@attribute PROCURAVA numeric
+@attribute PRODUTIVO numeric
+@attribute PROFESSOR numeric
+@attribute PROFESSORA numeric
+@attribute PROFISSAO numeric
+@attribute PROFUNDA numeric
+@attribute PROIBIDASKKKKKKKKKKKK numeric
+@attribute PROJETO numeric
+@attribute PRONTA numeric
+@attribute PROS numeric
+@attribute PROSAS numeric
+@attribute PROTAGONIZADA numeric
+@attribute PROTEGER numeric
+@attribute PROTESTAR numeric
+@attribute PROVA numeric
+@attribute PROVISORIA numeric
+@attribute PROXIMO numeric
+@attribute PRQ numeric
+@attribute PS numeric
+@attribute PSICOLOGICO numeric
+@attribute PUBLICAR numeric
+@attribute PUDE numeric
+@attribute PUDER numeric
+@attribute PURE numeric
+@attribute PURO numeric
+@attribute PUTA numeric
+@attribute PUTARIA numeric
+@attribute PVC numeric
+@attribute Q numeric
+@attribute QDO numeric
+@attribute QUALQUER numeric
+@attribute QUANDO numeric
+@attribute QUANTAS numeric
+@attribute QUARTA numeric
+@attribute QUASE numeric
+@attribute QUE numeric
+@attribute QUEBRADO numeric
+@attribute QUEBRAR numeric
+@attribute QUEBREI numeric
+@attribute QUEIRA numeric
+@attribute QUENTE numeric
+@attribute QUER numeric
+@attribute QUERENDO numeric
+@attribute QUERIA numeric
+@attribute QUERO numeric
+@attribute QUESTAO numeric
+@attribute QUETEMATITUD numeric
+@attribute QUINTA numeric
+@attribute QUINTAFEIRA numeric
+@attribute QUINTAL numeric
+@attribute QUISER numeric
+@attribute R numeric
+@attribute RABICHO numeric
+@attribute RACAO numeric
+@attribute RACHAR numeric
+@attribute RACISMO numeric
+@attribute RADIO numeric
+@attribute RAFA numeric
+@attribute RAFINHA numeric
+@attribute RAINHA numeric
+@attribute RAPIDO numeric
+@attribute RAQUETE numeric
+@attribute REAIS numeric
+@attribute REAL numeric
+@attribute REALIDADE numeric
+@attribute REALIZADO numeric
+@attribute REALMENTE numeric
+@attribute REATIVA numeric
+@attribute RECEBE numeric
+@attribute RECEBER numeric
+@attribute RECEITA numeric
+@attribute RECLAMAM numeric
+@attribute RECLAMANDO numeric
+@attribute RECLAMEI numeric
+@attribute RECREIO numeric
+@attribute REDE numeric
+@attribute REFEICAO numeric
+@attribute REFEITORIO numeric
+@attribute REFERENCIA numeric
+@attribute REFERENCIAS numeric
+@attribute REFINARIA numeric
+@attribute REFORCADO numeric
+@attribute REFORMA numeric
+@attribute REFRESCAR numeric
+@attribute REFRI numeric
+@attribute REGALO numeric
+@attribute REGISTRADO numeric
+@attribute REGISTRO numeric
+@attribute REGRA numeric
+@attribute REGUE numeric
+@attribute REINANDO numeric
+@attribute RELACIONAMENTO numeric
+@attribute RELEMBRAR numeric
+@attribute REMEDIO numeric
+@attribute REMOTO numeric
+@attribute RENARA numeric
+@attribute REPAREI numeric
+@attribute REPAROU numeric
+@attribute REPRESENTOU numeric
+@attribute RESOLVIDA numeric
+@attribute RESPONDE numeric
+@attribute RESPONDER numeric
+@attribute RESPOSTAS numeric
+@attribute RESTAURANTE numeric
+@attribute RESUME numeric
+@attribute RET numeric
+@attribute RETARDADO numeric
+@attribute RETINA numeric
+@attribute REUTILIZAVEIS numeric
+@attribute REVELACAO numeric
+@attribute REVOLUCIONANDO numeric
+@attribute REVOLUCIONAR numeric
+@attribute RI numeric
+@attribute RICARDO numeric
+@attribute RICO numeric
+@attribute RIDICULO numeric
+@attribute RIMEL numeric
+@attribute RIO numeric
+@attribute RIR numeric
+@attribute RISO numeric
+@attribute RIVOTRIL numeric
+@attribute ROBO numeric
+@attribute ROBOTICA numeric
+@attribute RODANDO numeric
+@attribute ROMANTICO numeric
+@attribute ROMANTIZARAM numeric
+@attribute ROMBO numeric
+@attribute ROSA numeric
+@attribute ROUBA numeric
+@attribute ROUBADO numeric
+@attribute ROUBAR numeric
+@attribute RS numeric
+@attribute RSRSRSR numeric
+@attribute RT numeric
+@attribute RUA numeric
+@attribute RUIM numeric
+@attribute SABE numeric
+@attribute SABEM numeric
+@attribute SABER numeric
+@attribute SABES numeric
+@attribute SABOR numeric
+@attribute SABORES numeric
+@attribute SABOTAR numeric
+@attribute SACADA numeric
+@attribute SAFADO numeric
+@attribute SAI numeric
+@attribute SAIDA numeric
+@attribute SAINDO numeric
+@attribute SAIO numeric
+@attribute SAIR numeric
+@attribute SAIU numeric
+@attribute SAL numeric
+@attribute SALA numeric
+@attribute SALVAR numeric
+@attribute SALVR numeric
+@attribute SAMBA numeric
+@attribute SANGUE numeric
+@attribute SANTO numeric
+@attribute SAPATO numeric
+@attribute SATIRA numeric
+@attribute SATISFATORIA numeric
+@attribute SATURANDO numeric
+@attribute SAUDADE numeric
+@attribute SAUDADES numeric
+@attribute SAUDE numeric
+@attribute SAUDOSO numeric
+@attribute SDDS numeric
+@attribute SE numeric
+@attribute SECO numeric
+@attribute SEDE numeric
+@attribute SEGUE numeric
+@attribute SEGUIMOS numeric
+@attribute SEGUNDA numeric
+@attribute SEGUNDAFEIRA numeric
+@attribute SEGUNDO numeric
+@attribute SEGUNDOS numeric
+@attribute SEGUNDOU numeric
+@attribute SEGURO numeric
+@attribute SEGUROPQ numeric
+@attribute SEI numeric
+@attribute SELCAS numeric
+@attribute SEMANA numeric
+@attribute SEMANAS numeric
+@attribute SEMENTE numeric
+@attribute SENAO numeric
+@attribute SENHORA numeric
+@attribute SENSUALIZANDO numeric
+@attribute SENTADO numeric
+@attribute SENTAR numeric
+@attribute SENTIDO numeric
+@attribute SENTIDOS numeric
+@attribute SENTIMENTOS numeric
+@attribute SENTINDO numeric
+@attribute SENTIR numeric
+@attribute SENTIRAM numeric
+@attribute SENTO numeric
+@attribute SER numeric
+@attribute SERA numeric
+@attribute SEREM numeric
+@attribute SEREMOS numeric
+@attribute SERIA numeric
+@attribute SERIE numeric
+@attribute SERIO numeric
+@attribute SERVE numeric
+@attribute SEXO numeric
+@attribute SEXTA numeric
+@attribute SEXTO numeric
+@attribute SEXUAL numeric
+@attribute SEXUALIDADE numeric
+@attribute SHAKESPEARE numeric
+@attribute SHOPPING numeric
+@attribute SHOW numeric
+@attribute SHOWQUER numeric
+@attribute SIGNIFICADO numeric
+@attribute SIM numeric
+@attribute SIMCAUTO numeric
+@attribute SIMPATICO numeric
+@attribute SIMPLESMENTE numeric
+@attribute SIMULAR numeric
+@attribute SINA numeric
+@attribute SINAL numeric
+@attribute SINTO numeric
+@attribute SITIO numeric
+@attribute SITIOGREMISTA numeric
+@attribute SITUACAO numeric
+@attribute SMALLVILLE numeric
+@attribute SO numeric
+@attribute SOBERBA numeric
+@attribute SOCIAL numeric
+@attribute SOCORRO numeric
+@attribute SOFRENDO numeric
+@attribute SOL numeric
+@attribute SOLTOU numeric
+@attribute SOLUCAO numeric
+@attribute SOM numeric
+@attribute SONDAS numeric
+@attribute SONECA numeric
+@attribute SONEQUINHA numeric
+@attribute SONHA numeric
+@attribute SONHAR numeric
+@attribute SONHO numeric
+@attribute SOPA numeric
+@attribute SOPHIA numeric
+@attribute SORMANI numeric
+@attribute SORRIR numeric
+@attribute SORTE numeric
+@attribute SORVETE numeric
+@attribute SORVETERIA numeric
+@attribute SORVETES numeric
+@attribute SOU numeric
+@attribute SOZINHO numeric
+@attribute SPAMMAR numeric
+@attribute SPLIT numeric
+@attribute SPRVETE numeric
+@attribute STRESS numeric
+@attribute STRIPPERS numeric
+@attribute STYLE numeric
+@attribute SUAVE numeric
+@attribute SUBORNO numeric
+@attribute SUCAO numeric
+@attribute SUFICIENTE numeric
+@attribute SUMIU numeric
+@attribute SUNDAE numeric
+@attribute SUPER numeric
+@attribute SUPERHEROI numeric
+@attribute SURTO numeric
+@attribute SUSPENSE numeric
+@attribute SUSTOS numeric
+@attribute T numeric
+@attribute TA numeric
+@attribute TABACARIA numeric
+@attribute TACANDO numeric
+@attribute TADINHOS numeric
+@attribute TAL numeric
+@attribute TALKEI numeric
+@attribute TALVEZ numeric
+@attribute TAMAJU numeric
+@attribute TAMBEM numeric
+@attribute TAMPA numeric
+@attribute TANTA numeric
+@attribute TANTO numeric
+@attribute TAO numeric
+@attribute TAQUICARDIA numeric
+@attribute TARDE numeric
+@attribute TARDEZINHA numeric
+@attribute TATUOU numeric
+@attribute TAVA numeric
+@attribute TB numeric
+@attribute TBM numeric
+@attribute TCODPZMVLPSAD numeric
+@attribute TCOIJBLWMNWD numeric
+@attribute TCONTPAZB numeric
+@attribute TE numeric
+@attribute TEATRO numeric
+@attribute TECNOLOGIAS numeric
+@attribute TEEN numeric
+@attribute TELA numeric
+@attribute TELEVISAO numeric
+@attribute TEM numeric
+@attribute TEMIA numeric
+@attribute TEMPESTADE numeric
+@attribute TEMPLO numeric
+@attribute TEMPO numeric
+@attribute TENHO numeric
+@attribute TENTA numeric
+@attribute TENTAM numeric
+@attribute TENTANDO numeric
+@attribute TENTAR numeric
+@attribute TENTE numeric
+@attribute TENTO numeric
+@attribute TENTOU numeric
+@attribute TERAPEUTICO numeric
+@attribute TERCEIRAO numeric
+@attribute TERCOS numeric
+@attribute TEREM numeric
+@attribute TERMICO numeric
+@attribute TERMINOU numeric
+@attribute TERREIRO numeric
+@attribute TERRESTRE numeric
+@attribute TERROR numeric
+@attribute TESTADA numeric
+@attribute TESTES numeric
+@attribute TEV numeric
+@attribute TEVE numeric
+@attribute THAINA numeric
+@attribute THAISPGAIOLA numeric
+@attribute THAYNARA numeric
+@attribute TIBOIM numeric
+@attribute TIGRES numeric
+@attribute TIME numeric
+@attribute TIO numeric
+@attribute TIPO numeric
+@attribute TIRANTE numeric
+@attribute TIRAR numeric
+@attribute TIRAVAM numeric
+@attribute TIROS numeric
+@attribute TITULAR numeric
+@attribute TITULO numeric
+@attribute TIVE numeric
+@attribute TIVERAM numeric
+@attribute TNC numeric
+@attribute TO numeric
+@attribute TOALHA numeric
+@attribute TOCANDO numeric
+@attribute TODA numeric
+@attribute TODINHO numeric
+@attribute TODO numeric
+@attribute TODOS numeric
+@attribute TOMA numeric
+@attribute TOMANDO numeric
+@attribute TOMAR numeric
+@attribute TOMARA numeric
+@attribute TOMEI numeric
+@attribute TOMO numeric
+@attribute TOMOU numeric
+@attribute TONELADA numeric
+@attribute TOP numeric
+@attribute TORBAL numeric
+@attribute TORCEDOR numeric
+@attribute TORCICOLO numeric
+@attribute TORNEI numeric
+@attribute TORROU numeric
+@attribute TORTA numeric
+@attribute TOTALMENTE numeric
+@attribute TOTIL numeric
+@attribute TOTO numeric
+@attribute TPM numeric
+@attribute TRABALHA numeric
+@attribute TRABALHAM numeric
+@attribute TRABALHANDO numeric
+@attribute TRABALHAR numeric
+@attribute TRABALHO numeric
+@attribute TRABALHOS numeric
+@attribute TRAILER numeric
+@attribute TRAMPO numeric
+@attribute TRANSFORMASE numeric
+@attribute TRANZA numeric
+@attribute TRASEIRA numeric
+@attribute TRAVOU numeric
+@attribute TRAZ numeric
+@attribute TRAZER numeric
+@attribute TREINADO numeric
+@attribute TREINAR numeric
+@attribute TREINO numeric
+@attribute TREMEDEIRAS numeric
+@attribute TREMENDA numeric
+@attribute TREMENDO numeric
+@attribute TRES numeric
+@attribute TRETA numeric
+@attribute TRIBOM numeric
+@attribute TRIBUTARIA numeric
+@attribute TRINCA numeric
+@attribute TRISTE numeric
+@attribute TRITURADO numeric
+@attribute TRIUNFAL numeric
+@attribute TROCANDO numeric
+@attribute TROCAR numeric
+@attribute TROCO numeric
+@attribute TROPICAL numeric
+@attribute TROUXE numeric
+@attribute TRUFADO numeric
+@attribute TT numeric
+@attribute TUDO numeric
+@attribute TURMA numeric
+@attribute TURNER numeric
+@attribute TWICE numeric
+@attribute TWITTER numeric
+@attribute UBER numeric
+@attribute UFMA numeric
+@attribute ULTIMATO numeric
+@attribute UM numeric
+@attribute UMA numeric
+@attribute UNICA numeric
+@attribute UNICO numeric
+@attribute UNIVERSITARIO numeric
+@attribute USANDO numeric
+@attribute USAR numeric
+@attribute VA numeric
+@attribute VAGA numeric
+@attribute VAGAS numeric
+@attribute VAGNER numeric
+@attribute VAI numeric
+@attribute VAIS numeric
+@attribute VALDIVIA numeric
+@attribute VALE numeric
+@attribute VALEU numeric
+@attribute VALORIZEM numeric
+@attribute VALSA numeric
+@attribute VAMO numeric
+@attribute VAMOS numeric
+@attribute VANTAGEM numeric
+@attribute VANTAGENS numeric
+@attribute VAO numeric
+@attribute VAR numeric
+@attribute VASCO numeric
+@attribute VAZADO numeric
+@attribute VC numeric
+@attribute VCS numeric
+@attribute VE numeric
+@attribute VEEEENHA numeric
+@attribute VEI numeric
+@attribute VEJA numeric
+@attribute VEJO numeric
+@attribute VELHA numeric
+@attribute VELHINHO numeric
+@attribute VELHO numeric
+@attribute VEM numeric
+@attribute VENCIDO numeric
+@attribute VENDA numeric
+@attribute VENDER numeric
+@attribute VENHO numeric
+@attribute VER numeric
+@attribute VERDADE numeric
+@attribute VERDE numeric
+@attribute VERGONHA numeric
+@attribute VESTIDO numeric
+@attribute VEZES numeric
+@attribute VI numeric
+@attribute VIA numeric
+@attribute VIAGEM numeric
+@attribute VIAJANDO numeric
+@attribute VICIADA numeric
+@attribute VIDA numeric
+@attribute VIDEO numeric
+@attribute VIDEOS numeric
+@attribute VILA numeric
+@attribute VIM numeric
+@attribute VINGADORES numeric
+@attribute VINICILA numeric
+@attribute VINIFACCHINI numeric
+@attribute VIOLENCIA numeric
+@attribute VIRAM numeric
+@attribute VIRANDO numeric
+@attribute VIRARAM numeric
+@attribute VIREI numeric
+@attribute VIROU numeric
+@attribute VISAO numeric
+@attribute VISITANDO numeric
+@attribute VISTA numeric
+@attribute VISTOS numeric
+@attribute VISUAIS numeric
+@attribute VITAMINAS numeric
+@attribute VIU numeric
+@attribute VIVENDO numeric
+@attribute VIVO numeric
+@attribute VMO numeric
+@attribute VO numeric
+@attribute VOANDO numeric
+@attribute VOAR numeric
+@attribute VOCE numeric
+@attribute VOCES numeric
+@attribute VODKA numeric
+@attribute VOLTA numeric
+@attribute VOLTADO numeric
+@attribute VOLTAM numeric
+@attribute VOLTAR numeric
+@attribute VOMITA numeric
+@attribute VOMITEI numeric
+@attribute VON numeric
+@attribute VONTADE numeric
+@attribute VOO numeric
+@attribute VORAZES numeric
+@attribute VOU numeric
+@attribute VOVO numeric
+@attribute VOYAGE numeric
+@attribute WARNER numeric
+@attribute WINWIN numeric
+@attribute WTT numeric
+@attribute X numeric
+@attribute XD numeric
+@attribute XICARA numeric
+@attribute XIOUUU numeric
+@attribute XR numeric
+@attribute YASMIN numeric
+@attribute YOGURT numeric
+@attribute YOUNG numeric
+@attribute YPU numeric
+@attribute ZEUS numeric
+@attribute ZOAMOS numeric
+@attribute ZOOLOGICO numeric
+@attribute ZZZ numeric
+@attribute º numeric
+@attribute AAAH numeric
+@attribute ABAIXAR numeric
+@attribute ABERRACOES numeric
+@attribute ABORTAR numeric
+@attribute ABORTEIRA numeric
+@attribute ABORTISTA numeric
+@attribute ABORTO numeric
+@attribute ABRACADOS numeric
+@attribute ABRIU numeric
+@attribute ABSOLUTAMENTE numeric
+@attribute ABSURDO numeric
+@attribute ACABA numeric
+@attribute ACABEM numeric
+@attribute ACABOOOO numeric
+@attribute ACEFALA numeric
+@attribute ACEFALO numeric
+@attribute ACEITA numeric
+@attribute ACEITO numeric
+@attribute ACESSO numeric
+@attribute ACHAM numeric
+@attribute ACOLHEU numeric
+@attribute ACONSELHOU numeric
+@attribute ACONTECA numeric
+@attribute ACONTECENDO numeric
+@attribute ACORDA numeric
+@attribute ACREDITA numeric
+@attribute ADMINISTRACAO numeric
+@attribute ADMINISTRAVA numeric
+@attribute ADMIRAVA numeric
+@attribute ADMITO numeric
+@attribute ADOLECENTES numeric
+@attribute ADORA numeric
+@attribute ADORARIA numeric
+@attribute ADVINHA numeric
+@attribute AFINAL numeric
+@attribute AGACHADA numeric
+@attribute AGE numeric
+@attribute AGUARDANDO numeric
+@attribute AGUARDO numeric
+@attribute AGUENTA numeric
+@attribute AHA numeric
+@attribute AJAX numeric
+@attribute AJUDOU numeric
+@attribute ALCOLUMBRE numeric
+@attribute ALGODOAL numeric
+@attribute ALGUNS numeric
+@attribute ALIMENTACAO numeric
+@attribute ALMOFADA numeric
+@attribute ALSKKSKSKSKSSKKSK numeric
+@attribute ALTERNATIVA numeric
+@attribute ALUNO numeric
+@attribute ALUNOS numeric
+@attribute AMA numeric
+@attribute AMADOR numeric
+@attribute AMALDICOANDO numeric
+@attribute AMANHA numeric
+@attribute AMARGAMENTE numeric
+@attribute AMIGUINHA numeric
+@attribute AMIGUINHO numeric
+@attribute AMIZADE numeric
+@attribute ANA numeric
+@attribute ANIMAL numeric
+@attribute ANITTER numeric
+@attribute ANNA numeric
+@attribute ANONIMO numeric
+@attribute ANSIOSA numeric
+@attribute ANTA numeric
+@attribute ANTEPASSADOS numeric
+@attribute ANTICRIME numeric
+@attribute APARECE numeric
+@attribute APARENCIA numeric
+@attribute APLAUDIA numeric
+@attribute APOIA numeric
+@attribute APOIADA numeric
+@attribute APOIAM numeric
+@attribute APOSENTADORIA numeric
+@attribute APRENDA numeric
+@attribute APROVEITANDO numeric
+@attribute ARCAR numeric
+@attribute AREA numeric
+@attribute ARGENTINO numeric
+@attribute ARGUMENTAR numeric
+@attribute ARMACAO numeric
+@attribute ARMADOR numeric
+@attribute ARMAS numeric
+@attribute ARMINHA numeric
+@attribute ARRANCO numeric
+@attribute ARRASANDO numeric
+@attribute ARREPENDO numeric
+@attribute ARROGANTE numeric
+@attribute ARROMBADA numeric
+@attribute ARROMBADINHO numeric
+@attribute ARROMBADO numeric
+@attribute ARTES numeric
+@attribute ASNO numeric
+@attribute ASNOSPAREM numeric
+@attribute ASQUEROSO numeric
+@attribute ASSALARIADOS numeric
+@attribute ASSASSINAR numeric
+@attribute ATACADO numeric
+@attribute ATACANTE numeric
+@attribute ATAQUE numeric
+@attribute ATE numeric
+@attribute ATEIA numeric
+@attribute ATENTADO numeric
+@attribute ATILA numeric
+@attribute ATITUDE numeric
+@attribute ATIVIDADE numeric
+@attribute ATOMICO numeric
+@attribute ATORMENTAR numeric
+@attribute ATROPELADA numeric
+@attribute ATROPELAR numeric
+@attribute ATUALIZA numeric
+@attribute ATUCANOU numeric
+@attribute ATURAR numeric
+@attribute AUC numeric
+@attribute AUFERIDO numeric
+@attribute AUMENTANDO numeric
+@attribute AUMENTAR numeric
+@attribute AUMENTO numeric
+@attribute AUTO numeric
+@attribute AUTORITARIO numeric
+@attribute AUTORIZADA numeric
+@attribute AVENGAYS numeric
+@attribute AVENGERS numeric
+@attribute AVISA numeric
+@attribute AVISO numeric
+@attribute AZIZ numeric
+@attribute BABACA numeric
+@attribute BACALHAU numeric
+@attribute BAGACEIRA numeric
+@attribute BAGULHO numeric
+@attribute BAGUNCA numeric
+@attribute BAITOLA numeric
+@attribute BAIXA numeric
+@attribute BALDAIA numeric
+@attribute BALEIA numeric
+@attribute BALOFA numeric
+@attribute BALOFO numeric
+@attribute BAN numeric
+@attribute BANDEIRA numeric
+@attribute BANDIDO numeric
+@attribute BANDIDOS numeric
+@attribute BANDO numeric
+@attribute BANHA numeric
+@attribute BARBOSA numeric
+@attribute BARROCA numeric
+@attribute BASTA numeric
+@attribute BATENDO numeric
+@attribute BATENTE numeric
+@attribute BB numeric
+@attribute BEBADO numeric
+@attribute BEBADOS numeric
+@attribute BELIEBER numeric
+@attribute BELISSIMO numeric
+@attribute BESTA numeric
+@attribute BGLH numeric
+@attribute BI numeric
+@attribute BIBLIA numeric
+@attribute BICHA numeric
+@attribute BICHO numeric
+@attribute BICUDA numeric
+@attribute BIEBER numeric
+@attribute BIO numeric
+@attribute BIROLIRO numeric
+@attribute BIRRAS numeric
+@attribute BISCATE numeric
+@attribute BISCATEIRA numeric
+@attribute BIXINHA numeric
+@attribute BIXO numeric
+@attribute BIXONA numeric
+@attribute BIZARRAS numeric
+@attribute BLASIO numeric
+@attribute BLOCK numeric
+@attribute BLOQUEADO numeric
+@attribute BLOQUEAR numeric
+@attribute BLOQUEIEM numeric
+@attribute BLOQUEOU numeric
+@attribute BLOW numeric
+@attribute BLZ numeric
+@attribute BOCAL numeric
+@attribute BOI numeric
+@attribute BOIOLA numeric
+@attribute BOLA numeric
+@attribute BOLHA numeric
+@attribute BOLSOMINION numeric
+@attribute BOLSOMINIONS numeric
+@attribute BOLSONARO numeric
+@attribute BOLSONAZI numeric
+@attribute BOMQUEM numeric
+@attribute BONDE numeric
+@attribute BONZAO numeric
+@attribute BONZINHO numeric
+@attribute BORBOLETINHA numeric
+@attribute BORJA numeric
+@attribute BOSTA numeric
+@attribute BOTA numeric
+@attribute BOTAS numeric
+@attribute BOX numeric
+@attribute BOZO numeric
+@attribute BOZONAURO numeric
+@attribute BRABO numeric
+@attribute BRACO numeric
+@attribute BRANCO numeric
+@attribute BRANCOS numeric
+@attribute BRASIL numeric
+@attribute BRIGA numeric
+@attribute BRINCA numeric
+@attribute BRUCUTU numeric
+@attribute BUCHA numeric
+@attribute BUEIRO numeric
+@attribute BUNDA numeric
+@attribute BURRA numeric
+@attribute BURRICE numeric
+@attribute BURRO numeric
+@attribute BUSCANDO numeric
+@attribute BUTIGAO numeric
+@attribute CABARE numeric
+@attribute CABECA numeric
+@attribute CABELO numeric
+@attribute CABELUDO numeric
+@attribute CABELUDOS numeric
+@attribute CACA numeric
+@attribute CACAMBA numeric
+@attribute CACAR numeric
+@attribute CADE numeric
+@attribute CADEIA numeric
+@attribute CAI numeric
+@attribute CAIA numeric
+@attribute CALA numeric
+@attribute CALADA numeric
+@attribute CALUNIADORA numeric
+@attribute CAMBUI numeric
+@attribute CAMPELLO numeric
+@attribute CANALHA numeric
+@attribute CANSA numeric
+@attribute CANSADO numeric
+@attribute CAPITAL numeric
+@attribute CARALUO numeric
+@attribute CARAMBA numeric
+@attribute CARASEM numeric
+@attribute CARATER numeric
+@attribute CARGO numeric
+@attribute CAROL numeric
+@attribute CARREIRA numeric
+@attribute CASADO numeric
+@attribute CASAR numeric
+@attribute CASAS numeric
+@attribute CASCUDO numeric
+@attribute CASO numeric
+@attribute CASOS numeric
+@attribute CASTRACAO numeric
+@attribute CATHEDRALE numeric
+@attribute CATINGA numeric
+@attribute CAVALO numeric
+@attribute CELULAR numeric
+@attribute CENAS numeric
+@attribute CENTRAL numeric
+@attribute CENTRODIREITA numeric
+@attribute CERTEZA numeric
+@attribute CHAMPINHA numeric
+@attribute CHAMPIONS numeric
+@attribute CHAMPS numeric
+@attribute CHANCE numeric
+@attribute CHATA numeric
+@attribute CHATO numeric
+@attribute CHATOOOO numeric
+@attribute CHEGADO numeric
+@attribute CHOCADA numeric
+@attribute CHUPA numeric
+@attribute CHUPAAAAAAAAAA numeric
+@attribute CHUPADA numeric
+@attribute CHUPAM numeric
+@attribute CHUPANDO numeric
+@attribute CHUPAR numeric
+@attribute CHUPETA numeric
+@attribute CHUTAR numeric
+@attribute CHUTE numeric
+@attribute CINTURA numeric
+@attribute CINTURAO numeric
+@attribute CIRCULAR numeric
+@attribute CIS numeric
+@attribute CLIMA numeric
+@attribute CLITORIS numeric
+@attribute CLTS numeric
+@attribute CM numeric
+@attribute COCO numeric
+@attribute COGNITIVA numeric
+@attribute COI numeric
+@attribute COITADA numeric
+@attribute COITADO numeric
+@attribute COLA numeric
+@attribute COLEGIO numeric
+@attribute COLEGUINHAS numeric
+@attribute COLHER numeric
+@attribute COLOBOROU numeric
+@attribute COLOMBIA numeric
+@attribute COLOMBIANA numeric
+@attribute COME numeric
+@attribute COMECA numeric
+@attribute COMECAR numeric
+@attribute COMEDIANTE numeric
+@attribute COMEDOR numeric
+@attribute COMERIA numeric
+@attribute COMETE numeric
+@attribute COMPARAR numeric
+@attribute COMPARTILHO numeric
+@attribute COMPROVADAMENTE numeric
+@attribute COMPULSIVA numeric
+@attribute COMUNIDADE numeric
+@attribute COMUNISTA numeric
+@attribute COMUNISTAS numeric
+@attribute COMUNISTINHA numeric
+@attribute CONCORDA numeric
+@attribute CONCORDO numeric
+@attribute CONDENAR numeric
+@attribute CONDICAO numeric
+@attribute CONHECI numeric
+@attribute CONHECO numeric
+@attribute CONSEQUENCIAS numeric
+@attribute CONSERVADORA numeric
+@attribute CONSIDERACAO numeric
+@attribute CONTA numeric
+@attribute CONTIGO numeric
+@attribute CONTINUA numeric
+@attribute CONTINUACAO numeric
+@attribute CONTINUAREM numeric
+@attribute CONTOS numeric
+@attribute CONTRATA numeric
+@attribute CONVERTER numeric
+@attribute CONVIDATIVAS numeric
+@attribute CONVOCADO numeric
+@attribute COPACABANA numeric
+@attribute CORINA numeric
+@attribute CORJA numeric
+@attribute CORNA numeric
+@attribute CORNO numeric
+@attribute COROCA numeric
+@attribute CORRETIVO numeric
+@attribute CORREU numeric
+@attribute COSTADOS numeric
+@attribute COVARDIA numeric
+@attribute COVINHAS numeric
+@attribute CR numeric
+@attribute CRACK numeric
+@attribute CREDIBILIDADE numeric
+@attribute CREDO numeric
+@attribute CRESCEM numeric
+@attribute CRESCENDO numeric
+@attribute CRESCER numeric
+@attribute CRETINA numeric
+@attribute CRIA numeric
+@attribute CRIME numeric
+@attribute CRIMINOSO numeric
+@attribute CRISTA numeric
+@attribute CRISTAOS numeric
+@attribute CRISTIANETE numeric
+@attribute CRISTIANO numeric
+@attribute CRITICAVA numeric
+@attribute CRITICO numeric
+@attribute CRITIQUEI numeric
+@attribute CU numeric
+@attribute CUIDAVA numeric
+@attribute CULPA numeric
+@attribute CULPAR numeric
+@attribute CUMPLICE numeric
+@attribute CUMULO numeric
+@attribute CURRICULO numeric
+@attribute CUSAO numeric
+@attribute CUSPIDEIRA numeric
+@attribute CUSPIDO numeric
+@attribute CUSTO numeric
+@attribute DAE numeric
+@attribute DANCANDO numeric
+@attribute DANCAVA numeric
+@attribute DANILO numeric
+@attribute DEFECANDO numeric
+@attribute DEFENDE numeric
+@attribute DEFENDENDO numeric
+@attribute DEFENDER numeric
+@attribute DEFENDEU numeric
+@attribute DEFESAS numeric
+@attribute DEIXAR numeric
+@attribute DEIXOU numeric
+@attribute DELITOS numeric
+@attribute DEMONIO numeric
+@attribute DENIGRE numeric
+@attribute DENTE numeric
+@attribute DENUNCIEM numeric
+@attribute DEPENDENTE numeric
+@attribute DEPOSTO numeric
+@attribute DESAPARECE numeric
+@attribute DESASTRE numeric
+@attribute DESCARADAMENTE numeric
+@attribute DESCASO numeric
+@attribute DESCENTES numeric
+@attribute DESCOBRIREM numeric
+@attribute DESCONSTRUIDA numeric
+@attribute DESEJO numeric
+@attribute DESESPERA numeric
+@attribute DESGRACADA numeric
+@attribute DESGRACADO numeric
+@attribute DESINTERESSE numeric
+@attribute DESPREZIVEL numeric
+@attribute DESPROVIDA numeric
+@attribute DESPROVIDO numeric
+@attribute DESSERVICO numeric
+@attribute DESTRUIDORA numeric
+@attribute DESTRUIR numeric
+@attribute DESVIAR numeric
+@attribute DI numeric
+@attribute DIBOA numeric
+@attribute DIFERENCIAR numeric
+@attribute DIGA numeric
+@attribute DIGITA numeric
+@attribute DIGO numeric
+@attribute DIPLOMATICO numeric
+@attribute DIRECTS numeric
+@attribute DIREITA numeric
+@attribute DIRETO numeric
+@attribute DISPUTA numeric
+@attribute DISSER numeric
+@attribute DISTANCIA numeric
+@attribute DIZERACORDEI numeric
+@attribute DOENTE numeric
+@attribute DOENTIAS numeric
+@attribute DOI numeric
+@attribute DOIDAAAA numeric
+@attribute DOIDAMARES numeric
+@attribute DOIDO numeric
+@attribute DOMINADO numeric
+@attribute DONOS numeric
+@attribute DORIA numeric
+@attribute DOU numeric
+@attribute DOUTRINADORA numeric
+@attribute DRAGAO numeric
+@attribute DROGADO numeric
+@attribute DUM numeric
+@attribute DURAR numeric
+@attribute DURO numeric
+@attribute DVE numeric
+@attribute EDUCADO numeric
+@attribute EDUKOF numeric
+@attribute EERR numeric
+@attribute EITA numeric
+@attribute ELA numeric
+@attribute ELEGER numeric
+@attribute ELEICAO numeric
+@attribute ELENCO numeric
+@attribute ELES numeric
+@attribute ELIMINAR numeric
+@attribute ELITE numeric
+@attribute ELITISTA numeric
+@attribute EMBAIXO numeric
+@attribute EMBRULHADA numeric
+@attribute EMBUSTE numeric
+@attribute EMILIO numeric
+@attribute EMOCAO numeric
+@attribute EMPODERAMENTO numeric
+@attribute EMPREENDEDOR numeric
+@attribute ENCHE numeric
+@attribute ENCONTRADA numeric
+@attribute ENFIA numeric
+@attribute ENFIAR numeric
+@attribute ENFIE numeric
+@attribute ENGAVETOU numeric
+@attribute ENGRACADO numeric
+@attribute ENORME numeric
+@attribute ENSINAR numeric
+@attribute ENTEDE numeric
+@attribute ENTENDI numeric
+@attribute ENTREVISTA numeric
+@attribute ENTT numeric
+@attribute ENTUPIR numeric
+@attribute ENVERGADURA numeric
+@attribute ENXERGA numeric
+@attribute ERAM numeric
+@attribute EROTICA numeric
+@attribute EROTICOS numeric
+@attribute ERRADO numeric
+@attribute ESCOLHA numeric
+@attribute ESCOLHIDO numeric
+@attribute ESCRITORKKKKK numeric
+@attribute ESCROTA numeric
+@attribute ESCROTO numeric
+@attribute ESCRUPULO numeric
+@attribute ESMAGAR numeric
+@attribute ESPALHANDO numeric
+@attribute ESPANTALHO numeric
+@attribute ESPECIE numeric
+@attribute ESPERAR numeric
+@attribute ESQUERDA numeric
+@attribute ESQUERDALHA numeric
+@attribute ESQUERDAS numeric
+@attribute ESQUERDINHA numeric
+@attribute ESQUERDISTA numeric
+@attribute ESQUERDOPATA numeric
+@attribute ESQUIZOFRENICO numeric
+@attribute ESTADO numeric
+@attribute ESTARIAM numeric
+@attribute ESTIMACAO numeric
+@attribute ESTIMULADOKKKKK numeric
+@attribute ESTIVER numeric
+@attribute ESTRAGAR numeric
+@attribute ESTRANGULAR numeric
+@attribute ESTUPRA numeric
+@attribute ESTUPRADA numeric
+@attribute ESTUPRADOR numeric
+@attribute ESTUPRAR numeric
+@attribute ESTUPRO numeric
+@attribute EUEM numeric
+@attribute EURICO numeric
+@attribute EUROPA numeric
+@attribute EVANGELHO numeric
+@attribute EVANGELICA numeric
+@attribute EVITEM numeric
+@attribute EX numeric
+@attribute EXGORDA numeric
+@attribute EXISTE numeric
+@attribute EXISTISSE numeric
+@attribute EXPULSAR numeric
+@attribute EXPULSOS numeric
+@attribute EXTERMINAR numeric
+@attribute EXTINCAO numeric
+@attribute EXTINTO numeric
+@attribute EXTREMA numeric
+@attribute FA numeric
+@attribute FACA numeric
+@attribute FACADA numeric
+@attribute FACE numeric
+@attribute FACEBOOKINSTAGRAM numeric
+@attribute FAKE numeric
+@attribute FALARAM numeric
+@attribute FALSAS numeric
+@attribute FAMOSINHA numeric
+@attribute FANTASIA numeric
+@attribute FARRA numeric
+@attribute FASCISTA numeric
+@attribute FATOR numeric
+@attribute FATOS numeric
+@attribute FAVOR numeric
+@attribute FAVORITO numeric
+@attribute FAZEDOR numeric
+@attribute FDASE numeric
+@attribute FECHADA numeric
+@attribute FEDENDO numeric
+@attribute FEDER numeric
+@attribute FEDIDO numeric
+@attribute FEDORENTA numeric
+@attribute FEIAS numeric
+@attribute FEIOSA numeric
+@attribute FEIOSO numeric
+@attribute FEMINAZI numeric
+@attribute FEMININO numeric
+@attribute FEMINISTA numeric
+@attribute FEMINISTAS numeric
+@attribute FESTA numeric
+@attribute FETO numeric
+@attribute FIGUEIRA numeric
+@attribute FILA numeric
+@attribute FILHA numeric
+@attribute FILHASAPUTA numeric
+@attribute FILHO numeric
+@attribute FIMOSE numeric
+@attribute FINGE numeric
+@attribute FIT numeric
+@attribute FK numeric
+@attribute FLAMENGUISTA numeric
+@attribute FODASE numeric
+@attribute FODE numeric
+@attribute FODEEE numeric
+@attribute FODEEEE numeric
+@attribute FODER numeric
+@attribute FODIDO numeric
+@attribute FOFOCAS numeric
+@attribute FOFOLETE numeric
+@attribute FOGUEIRA numeric
+@attribute FOI numeric
+@attribute FOLHA numeric
+@attribute FORCANDO numeric
+@attribute FRACASSADO numeric
+@attribute FRACASSOS numeric
+@attribute FRANJA numeric
+@attribute FRASE numeric
+@attribute FREGUES numeric
+@attribute FREIRE numeric
+@attribute FRESCO numeric
+@attribute FUDER numeric
+@attribute FUMADOR numeric
+@attribute FUNCIONOU numeric
+@attribute FUNDO numeric
+@attribute FUNK numeric
+@attribute FURADEIRA numeric
+@attribute FUTURO numeric
+@attribute GABRIEL numeric
+@attribute GALINHA numeric
+@attribute GARGALHAR numeric
+@attribute GAROTA numeric
+@attribute GAROTAS numeric
+@attribute GATINHA numeric
+@attribute GAYPOP numeric
+@attribute GERACAO numeric
+@attribute GESTAO numeric
+@attribute GIL numeric
+@attribute GILLETTE numeric
+@attribute GLEISI numeric
+@attribute GLOBO numeric
+@attribute GLR numeric
+@attribute GOIABEIRA numeric
+@attribute GORDA numeric
+@attribute GORDINHO numeric
+@attribute GORDO numeric
+@attribute GOSTAM numeric
+@attribute GOTICA numeric
+@attribute GOZA numeric
+@attribute GRELO numeric
+@attribute GREMISTA numeric
+@attribute GRINGO numeric
+@attribute GROSSO numeric
+@attribute GUERRA numeric
+@attribute GUERRILHEIRA numeric
+@attribute GUINDASTE numeric
+@attribute HAHAHAHAHA numeric
+@attribute HAHAHAHHAHAHAHHA numeric
+@attribute HAUAHAUAHAU numeric
+@attribute HEDIONDO numeric
+@attribute HEIN numeric
+@attribute HEROI numeric
+@attribute HEUHEUHEEHUEEHEEEE numeric
+@attribute HINODE numeric
+@attribute HIPOCRISIA numeric
+@attribute HIPOCRISIAS numeric
+@attribute HIPOCRITA numeric
+@attribute HISTERICA numeric
+@attribute HISTERICAMENTE numeric
+@attribute HOMEMBOMBA numeric
+@attribute HOMENS numeric
+@attribute HOMOFOBICA numeric
+@attribute HOMOFOBICAS numeric
+@attribute HOMOFOBICO numeric
+@attribute HORRIVEIS numeric
+@attribute HQ numeric
+@attribute HUEHEUHEUHEE numeric
+@attribute HUEHUHEUHE numeric
+@attribute HUMANIDADE numeric
+@attribute HUMILHADO numeric
+@attribute HUMORISTA numeric
+@attribute HUMPFFF numeric
+@attribute IDEIA numeric
+@attribute IDIOTA numeric
+@attribute IGNORANTE numeric
+@attribute IGREJA numeric
+@attribute IMAGEM numeric
+@attribute IMAGINAR numeric
+@attribute IMENSAMENTE numeric
+@attribute IMPEACHMENT numeric
+@attribute IMPOR numeric
+@attribute IMPORTADO numeric
+@attribute IMUNDA numeric
+@attribute IMUNDO numeric
+@attribute INCAPACIDADE numeric
+@attribute INCOMODA numeric
+@attribute INCONTROLAVEL numeric
+@attribute INFERIORIDADE numeric
+@attribute INFERNOS numeric
+@attribute INFORMADA numeric
+@attribute INICIAL numeric
+@attribute INJUSTICA numeric
+@attribute INOCENTE numeric
+@attribute INSEGURO numeric
+@attribute INSUPORTAVEL numeric
+@attribute INTELECTUAL numeric
+@attribute INTELIGENCIA numeric
+@attribute INTELIGENTE numeric
+@attribute INTERPRETAR numeric
+@attribute INUMERAS numeric
+@attribute INUTIL numeric
+@attribute INVEJOSO numeric
+@attribute INVENTAR numeric
+@attribute INVERTER numeric
+@attribute IRA numeric
+@attribute IRIA numeric
+@attribute IRIE numeric
+@attribute IRONIA numeric
+@attribute ISIS numeric
+@attribute ISLA numeric
+@attribute ISLAMISMO numeric
+@attribute JAMIL numeric
+@attribute JAPAO numeric
+@attribute JEOVA numeric
+@attribute JOGADOR numeric
+@attribute JOGAR numeric
+@attribute JOGAVA numeric
+@attribute JORNALISTA numeric
+@attribute JUDEU numeric
+@attribute JUDEUS numeric
+@attribute JULIANA numeric
+@attribute JUMENTOS numeric
+@attribute JUNTOS numeric
+@attribute JURIDICAS numeric
+@attribute JURO numeric
+@attribute JUSTIFICAR numeric
+@attribute JUVENTINOS numeric
+@attribute JUVENTUS numeric
+@attribute KIMI numeric
+@attribute KIT numeric
+@attribute KKKKKKK numeric
+@attribute KKKKKKKKKKKKKKKKK numeric
+@attribute KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK numeric
+@attribute KORDEIRO numeric
+@attribute KOTOKO numeric
+@attribute KPOP numeric
+@attribute KRL numeric
+@attribute KSKSKSKS numeric
+@attribute KSKSKSKSK numeric
+@attribute LACRACAO numeric
+@attribute LADRAO numeric
+@attribute LAG numeric
+@attribute LAMBE numeric
+@attribute LAMBER numeric
+@attribute LAMENTAVEL numeric
+@attribute LAMENTE numeric
+@attribute LAMENTO numeric
+@attribute LARGAR numeric
+@attribute LATERAL numeric
+@attribute LAVA numeric
+@attribute LEI numeric
+@attribute LEIGO numeric
+@attribute LEMANN numeric
+@attribute LENCO numeric
+@attribute LENDO numeric
+@attribute LENHA numeric
+@attribute LESBICA numeric
+@attribute LESBICAS numeric
+@attribute LEVE numeric
+@attribute LHAMA numeric
+@attribute LI numeric
+@attribute LIBEROU numeric
+@attribute LIBERTADOR numeric
+@attribute LICAO numeric
+@attribute LIGADO numeric
+@attribute LIXAO numeric
+@attribute LIXO numeric
+@attribute LIXOS numeric
+@attribute LOCA numeric
+@attribute LOJA numeric
+@attribute LOUCA numeric
+@attribute LULA numeric
+@attribute LUTADORA numeric
+@attribute MACACO numeric
+@attribute MACHISMO numeric
+@attribute MACHO numeric
+@attribute MACHUCOU numeric
+@attribute MACONHEIRA numeric
+@attribute MACONHEIRO numeric
+@attribute MACRO numeric
+@attribute MACRON numeric
+@attribute MADRI numeric
+@attribute MAIA numeric
+@attribute MAIORIA numeric
+@attribute MALANDRO numeric
+@attribute MALDITA numeric
+@attribute MALDITO numeric
+@attribute MALUCO numeric
+@attribute MAMADOR numeric
+@attribute MAMAE numeric
+@attribute MANCHADA numeric
+@attribute MANDANDO numeric
+@attribute MANDAVA numeric
+@attribute MANEQUIM numeric
+@attribute MANJA numeric
+@attribute MANUELA numeric
+@attribute MAPA numeric
+@attribute MARGINAL numeric
+@attribute MARINA numeric
+@attribute MARMITA numeric
+@attribute MATA numeric
+@attribute MATAM numeric
+@attribute MATAR numeric
+@attribute MATARAM numeric
+@attribute MATEM numeric
+@attribute MATO numeric
+@attribute MAU numeric
+@attribute MAUS numeric
+@attribute MDS numeric
+@attribute MEDO numeric
+@attribute MEMO numeric
+@attribute MENDIGO numeric
+@attribute MENINAAAAA numeric
+@attribute MENOR numeric
+@attribute MENTAL numeric
+@attribute MENTINDO numeric
+@attribute MENTIRAS numeric
+@attribute MENTIROSA numeric
+@attribute MENTIROSO numeric
+@attribute MERDAS numeric
+@attribute MERECEM numeric
+@attribute MERECO numeric
+@attribute MERFA numeric
+@attribute MERIDA numeric
+@attribute MESMOTADINHO numeric
+@attribute MESSI numeric
+@attribute META numeric
+@attribute METALURGICO numeric
+@attribute METIA numeric
+@attribute METIDO numeric
+@attribute MEXEU numeric
+@attribute MICRO numeric
+@attribute MIJO numeric
+@attribute MIL numeric
+@attribute MILENIO numeric
+@attribute MILICO numeric
+@attribute MILITONTA numeric
+@attribute MIMADA numeric
+@attribute MIMIMI numeric
+@attribute MINA numeric
+@attribute MINIMO numeric
+@attribute MINISTRA numeric
+@attribute MINUTO numeric
+@attribute MIRELLA numeric
+@attribute MISERAVEL numeric
+@attribute MISERIA numeric
+@attribute MISOGINIA numeric
+@attribute MISTURA numeric
+@attribute MMA numeric
+@attribute MOMENTO numeric
+@attribute MONOMA numeric
+@attribute MONTAGEM numeric
+@attribute MONTE numeric
+@attribute MORA numeric
+@attribute MORADOR numeric
+@attribute MORANDO numeric
+@attribute MORNING numeric
+@attribute MORRER numeric
+@attribute MORTE numeric
+@attribute MOSCA numeric
+@attribute MOSTRA numeric
+@attribute MOSTRANDO numeric
+@attribute MOSTRAR numeric
+@attribute MOSTRE numeric
+@attribute MOVIMENTO numeric
+@attribute MUCULMANOS numeric
+@attribute MUIE numeric
+@attribute MUITO numeric
+@attribute MUITOS numeric
+@attribute MULAMBO numeric
+@attribute MULHERZINHA numeric
+@attribute MUNDIAL numeric
+@attribute MUNDINHO numeric
+@attribute NACAO numeric
+@attribute NAQUELES numeric
+@attribute NARIZ numeric
+@attribute NASCER numeric
+@attribute NATIELE numeric
+@attribute NAZISMO numeric
+@attribute NAZISTA numeric
+@attribute NAZISTAS numeric
+@attribute NEAH numeric
+@attribute NEGAS numeric
+@attribute NEGROS numeric
+@attribute NERDS numeric
+@attribute NERVOSO numeric
+@attribute NESSE numeric
+@attribute NESSES numeric
+@attribute NET numeric
+@attribute NETINHO numeric
+@attribute NEUROTICO numeric
+@attribute NIGRINHA numeric
+@attribute NOIAS numeric
+@attribute NOIS numeric
+@attribute NOJENTO numeric
+@attribute NOJO numeric
+@attribute NOOOFA numeric
+@attribute NORMATIVOS numeric
+@attribute NOSSO numeric
+@attribute NUM numeric
+@attribute OAB numeric
+@attribute OBRIGACAO numeric
+@attribute OBRIGADO numeric
+@attribute OCORRE numeric
+@attribute ODEIA numeric
+@attribute ODIAVA numeric
+@attribute ODIOOOOOO numeric
+@attribute OFENSA numeric
+@attribute OFERECE numeric
+@attribute OFERECIDA numeric
+@attribute OK numeric
+@attribute OLHA numeric
+@attribute OLHAR numeric
+@attribute OLHAVA numeric
+@attribute OLHOS numeric
+@attribute OMG numeric
+@attribute OMITIR numeric
+@attribute OPINIAO numeric
+@attribute OPOE numeric
+@attribute ORDEM numeric
+@attribute ORIFICIOS numeric
+@attribute OROCHI numeric
+@attribute OSPINGOSNOSIS numeric
+@attribute OTARIA numeric
+@attribute OTARIO numeric
+@attribute OTIMO numeric
+@attribute OUCO numeric
+@attribute OW numeric
+@attribute PACOTE numeric
+@attribute PADROES numeric
+@attribute PAES numeric
+@attribute PAIS numeric
+@attribute PALERMA numeric
+@attribute PALESTINO numeric
+@attribute PALESTRA numeric
+@attribute PALIATIVOS numeric
+@attribute PALMEIRAS numeric
+@attribute PANO numeric
+@attribute PAPEL numeric
+@attribute PARAPLEGICA numeric
+@attribute PARECENDO numeric
+@attribute PARENTE numeric
+@attribute PARIU numeric
+@attribute PARLAMENTO numeric
+@attribute PASSADOR numeric
+@attribute PASSAPORTE numeric
+@attribute PASSASSE numeric
+@attribute PASTOR numeric
+@attribute PASTORAL numeric
+@attribute PATETICA numeric
+@attribute PAULADA numeric
+@attribute PAULISTA numeric
+@attribute PECADO numeric
+@attribute PEDACO numeric
+@attribute PEDIU numeric
+@attribute PEDRA numeric
+@attribute PEGO numeric
+@attribute PEGOU numeric
+@attribute PEGUESA numeric
+@attribute PEITO numeric
+@attribute PELUDO numeric
+@attribute PENALIZOU numeric
+@attribute PENIS numeric
+@attribute PENSAM numeric
+@attribute PENSAR numeric
+@attribute PEPPA numeric
+@attribute PERCAM numeric
+@attribute PERCAMOS numeric
+@attribute PERCEBI numeric
+@attribute PERDE numeric
+@attribute PERFIL numeric
+@attribute PERGUNTEI numeric
+@attribute PERIGOSA numeric
+@attribute PERNETA numeric
+@attribute PERSONAGEM numeric
+@attribute PERSONALIZA numeric
+@attribute PESADO numeric
+@attribute PETISTA numeric
+@attribute PETRALHA numeric
+@attribute PIADA numeric
+@attribute PIANINHO numeric
+@attribute PICA numeric
+@attribute PICANTE numeric
+@attribute PIG numeric
+@attribute PILANTRA numeric
+@attribute PILOTO numeric
+@attribute PINTAR numeric
+@attribute PINTO numeric
+@attribute PIRANHA numeric
+@attribute PIROCA numeric
+@attribute PIRU numeric
+@attribute PISCAR numeric
+@attribute PISSOL numeric
+@attribute PIVETE numeric
+@attribute PIXELS numeric
+@attribute PLANEJANDO numeric
+@attribute PLANETA numeric
+@attribute PLATINA numeric
+@attribute PLEONASMO numeric
+@attribute PMDB numeric
+@attribute POBRE numeric
+@attribute POBRES numeric
+@attribute POBREZA numeric
+@attribute PODEMOS numeric
+@attribute PODERES numeric
+@attribute PODRE numeric
+@attribute POLICIA numeric
+@attribute POLICIAS numeric
+@attribute POLUINDO numeric
+@attribute POMBOS numeric
+@attribute PONDO numeric
+@attribute PONTAPES numeric
+@attribute POOOOO numeric
+@attribute POPULACAO numeric
+@attribute PORCA numeric
+@attribute PORCO numeric
+@attribute POSANDO numeric
+@attribute POSER numeric
+@attribute POSTANDO numeric
+@attribute POSTAVA numeric
+@attribute POUPE numeric
+@attribute PPRT numeric
+@attribute PRAGA numeric
+@attribute PRAGAS numeric
+@attribute PRATICAVEL numeric
+@attribute PRAZER numeric
+@attribute PRECISAR numeric
+@attribute PRECO numeric
+@attribute PRECONCEITO numeric
+@attribute PRECONCEITUOSA numeric
+@attribute PRENDER numeric
+@attribute PRESENTE numeric
+@attribute PRESIDENCIA numeric
+@attribute PRESIDENTE numeric
+@attribute PRESIDIARIO numeric
+@attribute PRIMEIRA numeric
+@attribute PRIMEIRO numeric
+@attribute PRINCIPALMENTE numeric
+@attribute PRISAO numeric
+@attribute PRIVILEGIADA numeric
+@attribute PROCURADOR numeric
+@attribute PRODUTOS numeric
+@attribute PROGRAMA numeric
+@attribute PROJOTA numeric
+@attribute PRONTO numeric
+@attribute PROPOE numeric
+@attribute PROSTITUTA numeric
+@attribute PROVOCANDO numeric
+@attribute PROXIMA numeric
+@attribute PSICOPATA numeric
+@attribute PSICOPATIA numeric
+@attribute PT numeric
+@attribute PUBLICO numeric
+@attribute PUTAAAAAAAAAA numeric
+@attribute PUTINHA numeric
+@attribute PUTOS numeric
+@attribute QNTS numeric
+@attribute QQ numeric
+@attribute QUADRILHA numeric
+@attribute QUADRO numeric
+@attribute QUARTO numeric
+@attribute QUEBRE numeric
+@attribute QUEIMADO numeric
+@attribute QUEIMANDO numeric
+@attribute QUEIMAR numeric
+@attribute QUEIME numeric
+@attribute QUEIXINHO numeric
+@attribute QUEM numeric
+@attribute QUEREM numeric
+@attribute QUEREMOS numeric
+@attribute QUERER numeric
+@attribute QUIMICA numeric
+@attribute QUINTO numeric
+@attribute QUO numeric
+@attribute RAAAASPUTIAAAAA numeric
+@attribute RABO numeric
+@attribute RACA numeric
+@attribute RACHANDO numeric
+@attribute RACISTA numeric
+@attribute RAFAELA numeric
+@attribute RAIKKONEN numeric
+@attribute RAIVA numeric
+@attribute RALA numeric
+@attribute RANCINHO numeric
+@attribute RAPARIGA numeric
+@attribute RAPAZ numeric
+@attribute RAPIDINHO numeric
+@attribute RARAMENTE numeric
+@attribute RASGAAAAAAABALEIA numeric
+@attribute RASGANDO numeric
+@attribute RATO numeric
+@attribute RAZAO numeric
+@attribute RECALCADO numeric
+@attribute RECEBENDO numeric
+@attribute RECLAMAR numeric
+@attribute REDES numeric
+@attribute REDUZIREXTERMINAR numeric
+@attribute REFUTA numeric
+@attribute REGATA numeric
+@attribute RELACIONADAS numeric
+@attribute RELAXAR numeric
+@attribute RENAN numeric
+@attribute RENOVAR numeric
+@attribute REPORTEI numeric
+@attribute REPORTER numeric
+@attribute REPRODUZIR numeric
+@attribute RESERVA numeric
+@attribute RESOLVE numeric
+@attribute RESOLVEM numeric
+@attribute RESOLVIDO numeric
+@attribute RESPEITA numeric
+@attribute RESPEITO numeric
+@attribute RESPIRANDO numeric
+@attribute RESPONSABILIDADE numeric
+@attribute RESPOSTA numeric
+@attribute RESSOCIALIZAR numeric
+@attribute RESTO numeric
+@attribute RESUMINDO numeric
+@attribute RETARDADA numeric
+@attribute RETIRANTE numeric
+@attribute REVIRADA numeric
+@attribute REVOLUCIONARIA numeric
+@attribute RIDICULA numeric
+@attribute RINDO numeric
+@attribute ROLA numeric
+@attribute RONALDO numeric
+@attribute ROQUEIRA numeric
+@attribute ROSARIO numeric
+@attribute ROSCA numeric
+@attribute ROUBAREM numeric
+@attribute ROUPA numeric
+@attribute ROUPAS numeric
+@attribute ROXO numeric
+@attribute RUY numeric
+@attribute SABIA numeric
+@attribute SACANAGEM numeric
+@attribute SACO numeric
+@attribute SAFADA numeric
+@attribute SAFADINHO numeric
+@attribute SAFADOCOMUNISTA numeric
+@attribute SAIAO numeric
+@attribute SALARIO numeric
+@attribute SALVOU numeric
+@attribute SAMIA numeric
+@attribute SANDALIA numeric
+@attribute SANTA numeric
+@attribute SANTOS numeric
+@attribute SAPATAO numeric
+@attribute SARRO numeric
+@attribute SATANAS numeric
+@attribute SCRIPT numeric
+@attribute SEGUIDORES numeric
+@attribute SEGUIR numeric
+@attribute SEGURAR numeric
+@attribute SELO numeric
+@attribute SEMEAR numeric
+@attribute SEMPRE numeric
+@attribute SENSO numeric
+@attribute SENSOR numeric
+@attribute SENTI numeric
+@attribute SENTIRA numeric
+@attribute SERTAO numeric
+@attribute SERVICO numeric
+@attribute SERVIR numeric
+@attribute SEU numeric
+@attribute SHEILINHA numeric
+@attribute SHORT numeric
+@attribute SILENCIADO numeric
+@attribute SIMPATICA numeric
+@attribute SINDICALISTA numeric
+@attribute SINDROME numeric
+@attribute SITE numeric
+@attribute SITUACOES numeric
+@attribute SMART numeric
+@attribute SOCADO numeric
+@attribute SOCIAIS numeric
+@attribute SOCIALISTA numeric
+@attribute SOCIEDADE numeric
+@attribute SOME numeric
+@attribute SOMENTE numeric
+@attribute SONIC numeric
+@attribute SOROS numeric
+@attribute SOZINHA numeric
+@attribute SOZINHOA numeric
+@attribute SPFC numeric
+@attribute SPOILER numeric
+@attribute STATUS numeric
+@attribute STF numeric
+@attribute SUA numeric
+@attribute SUBIR numeric
+@attribute SUBJETIVO numeric
+@attribute SUCESSO numeric
+@attribute SUFICIENTES numeric
+@attribute SUJA numeric
+@attribute SUJEIRA numeric
+@attribute SUJO numeric
+@attribute SUL numeric
+@attribute SUMIDAAAAA numeric
+@attribute SUPERIOR numeric
+@attribute SUPERPRIVILEGIADA numeric
+@attribute SUSTENTAR numeric
+@attribute SUVACO numeric
+@attribute TAXA numeric
+@attribute TCHAU numeric
+@attribute TCORZRYGWJNHR numeric
+@attribute TECNICO numeric
+@attribute TEE numeric
+@attribute TELEFONE numeric
+@attribute TELEFONEOU numeric
+@attribute TELEFONEZINHO numeric
+@attribute TEME numeric
+@attribute TEMOS numeric
+@attribute TEMPERA numeric
+@attribute TENS numeric
+@attribute TERCEIRA numeric
+@attribute TERMO numeric
+@attribute TERRA numeric
+@attribute TERRAS numeric
+@attribute TERRORISTA numeric
+@attribute TESAO numeric
+@attribute TESTEMUNHA numeric
+@attribute TEXTAO numeric
+@attribute TEXTAUM numeric
+@attribute TEXTOS numeric
+@attribute TIA numeric
+@attribute TIFFANY numeric
+@attribute TIPICA numeric
+@attribute TIPINHO numeric
+@attribute TIRA numeric
+@attribute TIRIRICA numeric
+@attribute TIROU numeric
+@attribute TMNC numeric
+@attribute TOBINHA numeric
+@attribute TODAS numeric
+@attribute TOMARAM numeric
+@attribute TOPADA numeric
+@attribute TORCESSEM numeric
+@attribute TORNA numeric
+@attribute TORTURADOR numeric
+@attribute TORTURAR numeric
+@attribute TOSCO numeric
+@attribute TOTAL numeric
+@attribute TOXICO numeric
+@attribute TRABALHAVA numeric
+@attribute TRAI numeric
+@attribute TRANQUILO numeric
+@attribute TRANSFOBICA numeric
+@attribute TRANSPORTALA numeric
+@attribute TRANSTRAVESTI numeric
+@attribute TRANSVIADA numeric
+@attribute TRASTE numeric
+@attribute TRATA numeric
+@attribute TRAVESTI numeric
+@attribute TRI numeric
+@attribute TROUXAS numeric
+@attribute TRUCULENTO numeric
+@attribute TSUNAMI numeric
+@attribute TU numeric
+@attribute TUDINHO numeric
+@attribute TURMINHA numeric
+@attribute TWEET numeric
+@attribute UCL numeric
+@attribute UE numeric
+@attribute UNHA numeric
+@attribute UNIAO numeric
+@attribute UNIDAS numeric
+@attribute URINADA numeric
+@attribute URU numeric
+@attribute USA numeric
+@attribute USARA numeric
+@attribute UTIL numeric
+@attribute UTILIZE numeric
+@attribute VACA numeric
+@attribute VADIA numeric
+@attribute VADIAS numeric
+@attribute VAGABA numeric
+@attribute VAGABUNDA numeric
+@attribute VAGABUNDO numeric
+@attribute VAJ numeric
+@attribute VALOR numeric
+@attribute VARA numeric
+@attribute VARIAS numeric
+@attribute VAZOU numeric
+@attribute VEA numeric
+@attribute VEGANA numeric
+@attribute VEGANISMOVEGETARIANISMO numeric
+@attribute VEGONHA numeric
+@attribute VEIO numeric
+@attribute VELHOS numeric
+@attribute VENDEDOR numeric
+@attribute VENHA numeric
+@attribute VERME numeric
+@attribute VERSAO numeric
+@attribute VESPEIRO numeric
+@attribute VEZ numeric
+@attribute VEZSE numeric
+@attribute VIADINHO numeric
+@attribute VIADO numeric
+@attribute VIADOS numeric
+@attribute VIAJA numeric
+@attribute VIAJO numeric
+@attribute VIGIA numeric
+@attribute VINGAM numeric
+@attribute VIRAR numeric
+@attribute VISSE numeric
+@attribute VIXIRACA numeric
+@attribute VIZINHA numeric
+@attribute VIZINHO numeric
+@attribute VLW numeric
+@attribute VOMITAR numeric
+@attribute VOMITO numeric
+@attribute VOTA numeric
+@attribute VOTAMOS numeric
+@attribute VOTAR numeric
+@attribute VOTOU numeric
+@attribute VSF numeric
+@attribute VULGAR numeric
+@attribute VZS numeric
+@attribute WHINDERSSON numeric
+@attribute XENOFOBIA numeric
+@attribute XINGOU numeric
+@attribute XINGUEM numeric
+@attribute ZAGUEIRO numeric
+@attribute ZE numeric
+@attribute ZOAR numeric
+@attribute ZOOFILIA numeric
+@attribute ZULIVRE numeric
+@attribute ZUMBIS numeric
+@attribute ~PIADA~ numeric
+
+@data
+{53 1,61 1,78 1,103 1,158 1,162 1,244 1,317 1,402 1,737 1,753 1,802 1,1035 1,1058 1,1106 1,1368 1,1503 1,1506 1,1663 1,1724 1,1814 1,1949 1}
+{107 1,903 1,1139 1,1277 1,1398 1,1899 1,2044 1}
+{235 1,425 1,533 1,699 1,766 1,801 1,949 1,1136 1,1286 1,1287 1,1537 1,1725 1,2030 1}
+{157 1,317 1,737 1,789 1,802 1,1012 1,1044 1,1349 1,1400 1,1431 1,1503 1,1758 1,1844 1}
+{328 1,737 1,877 1,1217 1,1566 1,1673 1,2019 1}
+{19 1,29 1,124 1,496 1,500 1,655 1,773 1,976 1,1032 1,1728 1,2004 1}
+{218 1,818 1,1186 1}
+{225 1,265 1,621 1,651 1,788 1,1155 1,1226 1,1693 1}
+{167 1,333 1,794 1,1000 1,1039 1,1401 1}
+{328 1,333 1,742 1,780 1,1015 1,1302 1,1399 1,1947 1}
+{55 1,474 1,546 1,737 1,796 1,877 1,1070 1,1290 1,1612 1}
+{481 1,1264 1,1401 1}
+{32 1,437 1,526 1,624 1,658 1,659 1,906 1,1086 1,1206 1,1234 1,1553 1,1569 1,1670 1,1767 1,1990 1,2027 1,2030 1}
+{55 1,345 1,775 1,1281 1,1504 1,1656 1,1674 1,1714 1,1922 1,1972 1,1991 1}
+{55 1,139 1,338 1,351 1,364 1,528 1,848 1,1329 1,1387 1}
+{360 1,442 1,1109 1,1930 1}
+{280 1,1194 1,1357 1,1902 1}
+{41 1,1379 1}
+{51 1,61 1,360 1,537 1,743 1,1387 1,1501 1,1571 1,1642 1,1797 1,1831 1,1877 1,1968 1,2027 1}
+{55 1,258 1,593 1,977 1,1463 1,1662 1,1734 1,1855 1}
+{270 1,333 1,691 1,1248 1,1318 1,1494 1,1503 1,1544 1,1775 1,1967 1}
+{349 1,802 1,1322 1,2030 1}
+{277 1,333 1,375 1,446 1,608 1,770 1,1007 1,1050 1,1254 1,1307 1,1419 1,1503 1,1523 1,1556 1,1568 1,1641 1}
+{360 1,1460 1,1938 1}
+{188 1,279 1,333 1,360 1,1209 1,1503 1,1596 1,1695 1,1949 1,2017 1}
+{1130 1,1169 1,1312 1,1316 1,1402 1,1775 1,1982 1}
+{306 1,579 1,806 1,813 1,1012 1,1198 1,1709 1,1730 1,1974 1,2030 1}
+{613 1,714 1,746 1,867 1,962 1,1139 1,1961 1}
+{225 1,550 1,690 1,775 1,1695 1,1772 1}
+{802 1,977 1,1200 1,1334 1,1869 1,1966 1}
+{95 1,297 1,589 1,764 1,1025 1,1080 1,1139 1,1162 1,1377 1,1385 1,1428 1,1652 1,1954 1,2018 1}
+{55 1,138 1,212 1,341 1,458 1,593 1,1164 1,1503 1,1563 1,1564 1,1568 1,1582 1,1680 1,1759 1,1797 1,1936 1}
+{130 1,280 1,1203 1,1396 1,1428 1}
+{196 1,342 1,802 1,1065 1,1238 1,1869 1,1963 1,1995 1}
+{279 1,360 1,642 1,939 1,1139 1,1203 1,1878 1}
+{326 1,1239 1}
+{647 1,1194 1,1350 1,1355 1}
+{1 1,280 1,901 1}
+{446 1,448 1,833 1,860 1,1048 1,1054 1,1073 1,1142 1,1258 1,1320 1,1367 1,1768 1,1774 1,1775 1,1925 1,1928 1,1955 1}
+{355 1,1378 1,1772 1}
+{108 1,154 1,399 1,441 1,446 1,596 1,834 1,1007 1,1009 1,1049 1,1396 1,1503 1,1775 1,1949 1,1973 1,2047 1}
+{153 1,211 1,360 1,772 1,948 1,1288 1,1863 1,1938 1}
+{329 1,532 1,802 1,1163 1,1498 1,1783 1,1998 1}
+{8 1,61 1,182 1,208 1,317 1,328 1,779 1,1219 1,1286 1,1492 1,1661 1,1762 1,1797 1,1897 1,1974 1}
+{140 1,328 1,427 1,466 1,559 1,667 1,689 1,829 1,1152 1,1751 1,1873 1,1889 1}
+{478 1,593 1,717 1,851 1,1077 1,1243 1,1390 1,1393 1,1485 1,1513 1,1544 1,1610 1}
+{55 1,722 1}
+{91 1,173 1,277 1,632 1,647 1,955 1,1949 1,2017 1}
+{70 1,546 1,766 1,1323 1,1504 1,1508 1}
+{132 1,691 1,1140 1,1276 1,1290 1,1372 1,1398 1,1628 1,1869 1}
+{235 1,733 1,818 1,1773 1,1805 1}
+{12 1,1489 1,1619 1,1949 1}
+{27 1,319 1,674 1,678 1,682 1,1083 1,1126 1,1507 1,1864 1,1946 1}
+{453 1,828 1,1289 1,1290 1,1556 1,1772 1,1933 1}
+{271 1,306 1,948 1,951 1,1007 1,1139 1,1433 1,1866 1,2023 1}
+{86 1,156 1,715 1,802 1,803 1,1046 1,1139 1}
+{124 1,751 1,752 1,817 1,995 1,1069 1,1154 1,1178 1,1296 1,1306 1,1724 1,1957 1}
+{61 1,818 1,823 1,963 1,1043 1,1089 1,1301 1,1349 1,1503 1,1676 1,1838 1}
+{132 1,280 1,358 1,1363 1,1503 1,1974 1,2008 1,2013 1}
+{35 1,114 1,390 1,593 1,707 1,802 1,1114 1,1729 1,1791 1,1874 1}
+{46 1,304 1,307 1,360 1,1297 1,1572 1}
+{89 1,357 1,646 1}
+{45 1,198 1,204 1,328 1,551 1,595 1,1309 1}
+{360 1,737 1,1240 1,1878 1,2030 1}
+{374 1,378 1,434 1,691 1,832 1,851 1,1556 1,1970 1}
+{346 1,404 1,501 1,737 1,786 1,1139 1,1199 1,1257 1,1284 1,1777 1,1821 1,2030 1}
+{137 1,147 1,360 1,654 1,813 1,852 1,1290 1,1291 1,1437 1,1503 1,1507 1,1571 1,1591 1,1797 1}
+{282 1,521 1,593 1,1153 1,1875 1}
+{108 1,211 1,360 1,874 1,1013 1,1034 1,1053 1,1214 1,1816 1,1870 1}
+{340 1,430 1,1878 1}
+{36 1,37 1,280 1,471 1,1593 1,1721 1,1878 1,2030 1}
+{62 1,69 1,112 1,360 1,889 1,982 1,1194 1,1261 1,1550 1,1551 1,1769 1,1774 1,2009 1}
+{165 1,394 1,440 1,647 1,913 1,1057 1,1775 1}
+{691 1,935 1,955 1,1095 1,2030 1}
+{280 1,648 1,649 1,703 1,741 1,1076 1,1103 1,1125 1,1197 1,1224 1,1684 1,1976 1}
+{572 1,786 1,911 1,912 1,1170 1,1373 1,1503 1,1777 1,1788 1,1831 1,1990 1}
+{25 1,492 1,549 1,737 1,965 1,1096 1,1216 1,1959 1,1961 1}
+{253 1,280 1,291 1,517 1,588 1,1192 1,1296 1,1325 1,1385 1,1495 1,1707 1}
+{65 1,111 1,175 1,180 1,207 1,328 1,333 1,377 1,593 1,859 1,934 1,942 1,945 1,992 1,1352 1,1503 1,1673 1,1745 1,1814 1,1817 1,2023 1}
+{589 1,605 1,651 1,890 1,1222 1,1385 1,1401 1}
+{55 1,62 1,216 1,935 1,1290 1}
+{119 1,202 1,280 1,388 1,520 1,687 1,710 1,1007 1,1050 1,1416 1,1558 1,1667 1,1878 1,1892 1}
+{691 1,1050 1,1304 1}
+{582 1,737 1,802 1}
+{27 1,137 1,280 1,593 1,798 1,1194 1,1230 1,1345 1,1469 1,1503 1,1604 1,1723 1,1811 1,1988 1}
+{11 1,1247 1,1348 1}
+{10 1,61 1,137 1,238 1,280 1,317 1,506 1,529 1,545 1,556 1,647 1,1060 1,1292 1,1383 1,1499 1,1503 1,1562 1,1621 1,1646 1,1647 1,1797 1,1808 1,1814 1,1869 1,1877 1,1880 1,2027 1}
+{154 1,280 1,488 1,701 1}
+{55 1,163 1,813 1,888 1,1193 1,1787 1}
+{107 1,137 1,328 1,473 1,1014 1,1425 1,1431 1,1556 1,1814 1,1879 1,1974 1}
+{27 1,92 1,280 1,737 1,1839 1,1891 1}
+{306 1,314 1,448 1,593 1,1331 1,1503 1,1878 1}
+{289 1,691 1,1007 1,1053 1,1055 1,1234 1,1253 1,1273 1,1368 1,1571 1,1797 1}
+{61 1,121 1,333 1,599 1,1024 1,1183 1,1234 1,1556 1,1571 1,1675 1,1700 1,1775 1,1852 1,2001 1}
+{22 1,55 1,389 1,486 1,565 1,886 1,1232 1,1483 1,1511 1,1785 1,1797 1}
+{593 1,867 1,935 1,1529 1,1724 1,1911 1,1949 1}
+{280 1,757 1,1230 1,1503 1,1695 1}
+{360 1,887 1,1989 1}
+{360 1,720 1,934 1,941 1,1139 1,1802 1,1811 1,1899 1}
+{281 1,737 1,1270 1,1530 1,2002 1}
+{266 1,306 1,357 1,623 1,707 1,934 1,1556 1,1835 1,2030 1}
+{72 1,280 1,306 1,333 1,674 1,861 1,1731 1,1950 1}
+{11 1,959 1,1045 1,1115 1,1120 1,1229 1,1325 1,1737 1,1775 1}
+{1 1,118 1,194 1,1504 1}
+{317 1,370 1,375 1,432 1,584 1,802 1,1060 1,1279 1,1321 1,1414 1,1501 1,1646 1,1680 1,1814 1,1824 1,1834 1,1906 1}
+{1 1,26 1,68 1,267 1,396 1,556 1,802 1,864 1,904 1,1041 1,1136 1,1143 1,1503 1,1558 1,1663 1,1672 1,1847 1,1945 1,1949 1,2017 1}
+{48 1,802 1,894 1,1137 1}
+{61 1,328 1,1208 1,1317 1,1553 1,1779 1,1797 1}
+{636 1,972 1,1137 1,1449 1,1797 1,1869 1}
+{1500 1}
+{259 1,280 1,306 1,378 1,628 1,639 1,726 1,798 1,1273 1,1274 1,1600 1,1777 1,1869 1,1880 1}
+{383 1,384 1,514 1,818 1,821 1,1284 1,1296 1,1569 1,1617 1,1777 1}
+{328 1,620 1,1481 1,1626 1,1725 1}
+{280 1,469 1,750 1,841 1,900 1,1552 1,1853 1}
+{145 1,277 1,431 1,647 1,1134 1,1213 1,1260 1,1415 1,1503 1,1793 1,1887 1}
+{96 1,98 1,362 1,712 1,767 1,929 1,953 1,961 1,1139 1,1412 1,1755 1,1875 1}
+{247 1,280 1,860 1,948 1,1473 1,1556 1,1663 1,1697 1,1797 1}
+{912 1,1133 1}
+{262 1,569 1,1296 1,1478 1,1523 1,1664 1}
+{328 1,446 1,660 1,683 1,723 1,807 1,1438 1,1503 1,2006 1}
+{702 1,890 1,933 1,1188 1,1826 1}
+{335 1,360 1,365 1,397 1,574 1,1057 1,1339 1,1368 1,1422 1,1869 1}
+{138 1,180 1,458 1,589 1,771 1,796 1,802 1,1337 1,1368 1,1707 1,1763 1,1811 1}
+{55 1,1011 1,1202 1,1362 1,1799 1}
+{58 1,280 1,360 1,589 1,796 1,1139 1,1222 1,1290 1,1877 1}
+{61 1,252 1,280 1,373 1,593 1,1225 1,1538 1,1878 1,1957 1}
+{137 1,360 1,534 1,1503 1,1974 1}
+{55 1,447 1,624 1,878 1,879 1,1068 1,1347 1,1466 1,1636 1,1977 1,2007 1,2018 1}
+{238 1,1007 1,1195 1,1305 1,1503 1,1669 1,1775 1,1797 1}
+{589 1,691 1,802 1,916 1,973 1,1222 1,1385 1,1503 1,1677 1,1899 1,1949 1,1992 1}
+{14 1,360 1,446 1,870 1,887 1,1113 1,1191 1,1949 1}
+{185 1,197 1,332 1,1234 1,1425 1,1503 1,1899 1}
+{213 1,235 1,360 1,593 1,1033 1,1138 1,1234 1,1399 1,1503 1,1830 1,1990 1}
+{651 1,1121 1,1958 1}
+{61 1,639 1,766 1,802 1,1050 1,1055 1,1100 1,1246 1,1314 1,1695 1,1974 1}
+{691 1,981 1,1341 1}
+{345 1,691 1,1053 1,1274 1,1556 1,1640 1,1674 1,1985 1}
+{225 1,1583 1}
+{767 1,867 1,1174 1,1517 1,1961 1}
+{818 1,1337 1}
+{76 1,235 1,356 1,360 1,705 1,1292 1}
+{154 1,360 1,932 1,960 1,1002 1,1136 1,1149 1,1204 1,1234 1,1420 1,1580 1}
+{63 1,191 1,328 1,383 1,401 1,417 1,589 1,1421 1,1426 1,1935 1,1994 1}
+{172 1,226 1,323 1,500 1,898 1,1241 1,1450 1,1549 1,1918 1,1996 1,2005 1}
+{802 1,871 1,956 1,1131 1,1334 1,1378 1,1901 1,2010 1}
+{221 1,238 1,360 1,891 1,1097 1,1201 1,1586 1,1958 1}
+{81 1,83 1,225 1,306 1,523 1,737 1,840 1,1091 1,1334 1,1444 1,1848 1,1956 1}
+{78 1,88 1,273 1,306 1,849 1,901 1,1556 1,1738 1}
+{31 1,137 1,211 1,360 1,452 1,485 1,590 1,1010 1,1850 1,1978 1}
+{360 1,844 1,908 1,1878 1,1945 1}
+{7 1,328 1,333 1,515 1,534 1,736 1,758 1,1005 1,1006 1,1139 1,1359 1,1370 1,1404 1,1525 1,1558 1,1615 1,1712 1,1724 1,1746 1,1761 1,1829 1,1845 1,1960 1,1965 1,2030 1}
+{441 1,854 1,1029 1,1255 1,1317 1,1435 1,1775 1,2042 1}
+{332 1,333 1,558 1,670 1,796 1,937 1,1122 1,1208 1,1215 1,1290 1,1303 1,1368 1,1677 1,1898 1,1970 1}
+{306 1,409 1,534 1,603 1,2030 1}
+{306 1,711 1,1336 1,1660 1,1686 1,1907 1,1908 1,1942 1}
+{69 1,280 1,437 1,446 1,860 1,882 1,1503 1,1590 1}
+{438 1,593 1,817 1,872 1,1035 1,1051 1,1194 1,1893 1,1962 1,1985 1,2046 1}
+{100 1,151 1,236 1,380 1,526 1,703 1,796 1,968 1,1088 1,1230 1,1287 1,1348 1,1366 1,1503 1,1562 1,1741 1,1809 1}
+{92 1,802 1,1547 1,1794 1,1795 1}
+{350 1,360 1,419 1,441 1,489 1,504 1,1007 1,1454 1,1503 1,1523 1,1527 1}
+{95 1,218 1,657 1,818 1,1927 1,2028 1}
+{328 1,1267 1}
+{51 1,360 1,725 1,813 1,852 1,1021 1,1366 1,1434 1,1501 1,1503 1,1571 1,1671 1,1707 1,1716 1,1831 1,2043 1}
+{92 1,737 1,925 1,1286 1}
+{775 1,804 1,867 1,964 1,1031 1,1034 1,1159 1,1166 1,1296 1,1392 1,1501 1,1503 1,1616 1,1731 1}
+{50 1,211 1,360 1,1775 1}
+{306 1,450 1,562 1,902 1,1230 1,1368 1,1569 1,1683 1,1812 1,1945 1}
+{137 1,209 1,568 1,766 1,802 1,806 1,986 1,1155 1,1211 1,1271 1,1490 1,1823 1,1851 1,1957 1}
+{697 1,1286 1,1715 1,1775 1,1778 1,1869 1,1988 1}
+{61 1,154 1,233 1,249 1,317 1,1503 1,1707 1,1808 1,1809 1}
+{92 1,220 1,342 1,375 1,769 1,884 1,903 1,1058 1,1201 1,1230 1,1336 1,1775 1,1797 1,1809 1}
+{55 1,311 1,358 1,942 1,1002 1,1234 1,1819 1,1990 1}
+{464 1,652 1,989 1,1110 1,1503 1,1698 1,1899 1}
+{62 1,214 1,796 1,1007 1,1503 1,1618 1,2030 1}
+{177 1,297 1,587 1,744 1,983 1,1119 1,1172 1,1531 1,1532 1,1899 1}
+{280 1,317 1,342 1,512 1,529 1,860 1,1057 1,1101 1,1257 1,1305 1,1368 1,1556 1,1760 1,1797 1,1878 1}
+{275 1,593 1,1007 1,1109 1,1368 1,1504 1,1556 1,1902 1}
+{328 1,796 1,1467 1}
+{24 1,61 1,192 1,354 1,642 1,775 1,890 1,1007 1,1472 1,1503 1,1775 1,2030 1}
+{328 1,574 1,662 1,740 1,1022 1,1023 1,1421 1,1831 1}
+{328 1,629 1,857 1,918 1,1503 1,1949 1,1956 1}
+{62 1,110 1,749 1,818 1,1503 1,1869 1}
+{213 1,280 1,556 1,1063 1,1869 1}
+{627 1,869 1,1401 1,1430 1,1515 1,1938 1,2016 1}
+{125 1,199 1,800 1,1038 1,1169 1,1171 1,1228 1,1283 1,1448 1,1579 1,1786 1}
+{240 1,328 1,456 1,534 1,1007 1}
+{15 1,845 1,1472 1,1548 1,1775 1,1804 1}
+{59 1,360 1,674 1,1207 1,1230 1,1368 1}
+{301 1,404 1,534 1,708 1,1007 1,1194 1,1445 1,1724 1,1740 1,1771 1}
+{187 1,647 1,826 1,1401 1}
+{168 1,306 1,339 1,1332 1,1339 1,1916 1}
+{159 1,348 1,433 1,737 1,802 1,977 1,1314 1,1322 1,1334 1,1558 1,1601 1,1689 1,1797 1}
+{577 1,691 1,730 1,860 1,1156 1,1177 1,1292 1,1296 1,1503 1,1542 1,1707 1,1868 1,1869 1,2030 1}
+{404 1,842 1,1093 1,1118 1,1856 1,1896 1}
+{44 1,122 1,154 1,338 1,556 1,802 1,1353 1,1797 1,1814 1,1920 1}
+{404 1,460 1,829 1,1336 1,1374 1,1423 1,1523 1,2017 1}
+{530 1,736 1,737 1,911 1,1182 1,1457 1,1493 1,1514 1,1724 1,1837 1}
+{63 1,280 1,682 1,1194 1,1336 1,1650 1}
+{11 1,169 1,446 1,450 1,705 1,706 1,805 1,810 1,851 1,937 1,1503 1,1556 1,1567 1,1774 1,1775 1,2041 1}
+{404 1,1336 1,1374 1,1477 1,1739 1}
+{404 1,829 1,899 1,1064 1,1336 1,1425 1,1886 1}
+{350 1,586 1,969 1,1167 1,1237 1,1336 1,1381 1,1487 1,1822 1,1849 1}
+{22 1,38 1,322 1,802 1,1045 1,1259 1,1661 1,1732 1,1800 1}
+{820 1,957 1,1102 1,1139 1,1354 1,1388 1,1462 1,1553 1,1754 1,1775 1,1890 1,1971 1,1993 1}
+{1379 1,1409 1,1574 1}
+{77 1,360 1,410 1,428 1,832 1,1756 1,1981 1}
+{280 1,1609 1,1659 1,1754 1,1811 1}
+{64 1,280 1,606 1,835 1,1042 1,1342 1,1797 1,1898 1}
+{193 1,246 1,276 1,306 1,347 1,378 1,588 1,651 1,1136 1,1222 1,1230 1,1251 1,1290 1,1372 1,1503 1,1556 1,1655 1,1739 1,2010 1}
+{280 1,391 1,634 1,643 1,726 1,737 1,851 1,1245 1,1399 1}
+{360 1,585 1,931 1,1205 1,1872 1,1877 1}
+{320 1,332 1,333 1,559 1,580 1,729 1,860 1,1030 1,1098 1,1455 1,1503 1,1512 1,1561 1,1754 1,1797 1,1949 1,2010 1}
+{497 1,498 1,548 1,1399 1,1695 1,1788 1,1830 1,1903 1}
+{110 1,306 1,1595 1,1860 1}
+{20 1,228 1,360 1,958 1,991 1,1067 1,1148 1,1695 1}
+{61 1,219 1,1199 1,1334 1,1346 1,1703 1,1814 1,2002 1}
+{534 1,1079 1,1508 1,1775 1}
+{262 1,522 1,694 1,1470 1,1503 1}
+{3 1,328 1,862 1,1286 1,1502 1,1584 1,1694 1,1857 1,2032 1}
+{95 1,513 1,770 1,818 1,996 1,1020 1,1300 1,1351 1}
+{344 1,635 1,647 1,1094 1,1194 1,1724 1}
+{262 1,1281 1,1384 1,1719 1}
+{149 1,328 1,1124 1,1885 1,1977 1,2030 1}
+{328 1,589 1,909 1,1292 1,1706 1,1948 1}
+{1 1,137 1,333 1,539 1,552 1,618 1,1136 1,1185 1,1269 1,1398 1,1503 1,1899 1}
+{308 1,424 1,695 1,696 1,1139 1,1332 1,1710 1,1750 1,1811 1,1836 1,1979 1,2023 1}
+{272 1,280 1,283 1,380 1,527 1,657 1,673 1,728 1,735 1,1086 1,1147 1,1321 1,1556 1,1749 1,1797 1,1881 1,2027 1}
+{55 1,90 1,93 1,137 1,158 1,189 1,273 1,335 1,380 1,392 1,614 1,802 1,1057 1,1194 1,1348 1,1368 1,1797 1,1814 1,1816 1}
+{360 1,728 1,812 1,1305 1,1876 1,1964 1}
+{446 1,472 1,760 1,818 1,1129 1,1139 1,1336 1,1679 1,1707 1,1941 1}
+{61 1,110 1,159 1,263 1,435 1,449 1,676 1,748 1,775 1,802 1,940 1,1092 1,1242 1,1501 1,1503 1,1588 1,1606 1,1607 1,1859 1,1937 1}
+{154 1,310 1,332 1,588 1,1199 1,1345 1,1499 1,1503 1,1797 1,1859 1}
+{90 1,459 1,924 1,1391 1,1772 1}
+{280 1,456 1,474 1,493 1,737 1,1139 1,1292 1,1808 1,1869 1}
+{143 1,250 1,328 1,825 1,1158 1,1219 1,1372 1,1427 1}
+{27 1,123 1,225 1,407 1,443 1,570 1,624 1,774 1,781 1,1069 1,1184 1,1397 1,1707 1,1709 1,1775 1,1790 1,1814 1,1894 1,1899 1,1920 1}
+{80 1,186 1,332 1,374 1,897 1,934 1,1283 1,1543 1,1657 1,1762 1,1842 1,1869 1}
+{280 1,607 1,1007 1,1709 1,1878 1,1910 1,2030 1}
+{99 1,360 1,727 1,756 1,860 1,1501 1,1523 1,1920 1}
+{229 1,269 1,317 1,529 1,737 1,818 1,1062 1,1991 1}
+{631 1,1169 1,1175 1,1501 1}
+{360 1,927 1}
+{672 1,1402 1,1811 1,1899 1}
+{280 1,737 1,865 1,1153 1}
+{328 1,661 1,1699 1,1957 1}
+{47 1,51 1,137 1,158 1,174 1,230 1,248 1,373 1,671 1,761 1,802 1,1503 1,1789 1,1854 1,1858 1,1869 1,1994 1}
+{109 1,328 1,763 1,798 1,890 1,1223 1,1449 1,1456 1,1807 1,1831 1,1914 1}
+{73 1,178 1,254 1,436 1,530 1,651 1,838 1,1045 1,1181 1,1194 1,1555 1,1742 1,1899 1,1919 1}
+{14 1,280 1,306 1,1342 1,1563 1,1565 1,1881 1,1899 1}
+{321 1,691 1,1031 1,1056 1,1072 1,1464 1,1486 1,1501 1,1556 1,1589 1,1866 1}
+{294 1,328 1,508 1,1490 1,1764 1,1861 1,1994 1}
+{135 1,280 1,755 1,1465 1}
+{189 1,203 1,601 1,818 1,855 1,1658 1,1708 1,1899 1}
+{333 1,814 1,1087 1,1556 1,1623 1,1821 1}
+{360 1,922 1}
+{656 1,1079 1,1472 1,1775 1,1926 1}
+{74 1,328 1,554 1,639 1,794 1,1112 1,1155 1,1276 1}
+{67 1,245 1,328 1,644 1,721 1,930 1,990 1,1969 1}
+{818 1,1135 1,1343 1}
+{61 1,136 1,206 1,467 1,502 1,575 1,602 1,802 1,1274 1,1275 1,1455 1,1532 1,1556 1,1766 1,1801 1}
+{280 1,393 1,1239 1,1503 1,1571 1,1811 1,1944 1}
+{89 1,923 1,1503 1,1585 1,1775 1,1798 1,1994 1}
+{302 1,1139 1,1672 1,1951 1,2017 1}
+{34 1,148 1,280 1,366 1,461 1,684 1,896 1,1032 1,1127 1,1293 1,1296 1,1461 1,1501 1,1523 1,1648 1,1649 1,1722 1,1780 1,1909 1,1944 1,1957 1,2026 1,2049 1}
+{63 1,166 1,377 1,540 1,737 1,937 1,1263 1,1386 1,1869 1,1899 1}
+{338 1,732 1,795 1,947 1,967 1,970 1,984 1,1290 1,1330 1,1336 1,1387 1,1899 1,2012 1}
+{152 1,195 1,616 1,1342 1,1775 1,1776 1,1917 1}
+{92 1,137 1,280 1,333 1,382 1,385 1,946 1,2031 1}
+{42 1,201 1,1570 1,1775 1,1869 1,1924 1}
+{32 1,137 1,328 1,333 1,559 1,875 1}
+{360 1,950 1,1013 1,1637 1,1814 1}
+{176 1,243 1,262 1,345 1,482 1,1025 1,1139 1,1155 1,1326 1,1424 1,1666 1,1749 1,1797 1,1884 1,1966 1,2017 1}
+{243 1,626 1,1348 1,1401 1,1813 1,1964 1,1981 1}
+{129 1,328 1,650 1,678 1,691 1,731 1,767 1,786 1,798 1,934 1,935 1,978 1,1099 1,1168 1,1268 1,1280 1,1285 1,1325 1,1336 1,1343 1,1426 1,1501 1,1707 1,1748 1,1935 1,1990 1}
+{328 1,553 1,612 1,651 1,1904 1,2017 1}
+{137 1,142 1,769 1,1047 1,1052 1,1358 1,1446 1,1556 1,1797 1,1869 1}
+{280 1,293 1,948 1,1266 1,1938 1,2020 1}
+{241 1,306 1,555 1,799 1,813 1,1274 1}
+{1 1,287 1,705 1,1096 1,1392 1,1501 1,1503 1,1663 1,1775 1,1949 1,2023 1}
+{95 1,297 1,589 1,764 1,1016 1,1025 1,1080 1,1139 1,1162 1,1377 1,1385 1,1652 1,1661 1,1954 1,2018 1}
+{13 1,40 1,181 1,280 1,316 1,617 1,998 1,1139 1,1160 1,1605 1,2030 1}
+{328 1,524 1,559 1,745 1,772 1,991 1,1155 1,1221 1,1344 1,1863 1}
+{205 1,328 1,402 1,656 1,762 1,1180 1,1380 1,1418 1,1479 1}
+{543 1,761 1,777 1,802 1,955 1,1226 1,1227 1,1661 1,1900 1}
+{55 1,72 1,278 1,543 1,593 1,704 1,937 1,938 1,1105 1,1129 1,1298 1,1501 1,1581 1,1665 1,1858 1,1949 1,2000 1}
+{55 1,211 1,393 1,441 1,1140 1,1808 1}
+{68 1,691 1,698 1,860 1,1292 1,1371 1}
+{170 1,237 1,305 1,337 1,398 1,536 1,575 1,721 1,775 1,802 1,837 1,933 1,936 1,942 1,1036 1,1037 1,1309 1,1526 1,1539 1,1717 1,1724 1,1753 1,1818 1,1846 1,2033 1}
+{360 1,474 1,593 1,796 1,1296 1,1878 1}
+{360 1,1274 1,1353 1,1880 1,1981 1}
+{260 1,818 1,1613 1,1913 1}
+{1 1,297 1,519 1,693 1,765 1,1436 1,1455 1,1630 1,1797 1,1899 1}
+{126 1,318 1,680 1,700 1,787 1,1308 1,1443 1,1503 1,1643 1,1770 1,1797 1,1932 1}
+{845 1,1146 1,1772 1}
+{441 1,468 1,802 1,900 1,1792 1}
+{197 1,332 1,387 1,914 1,1342 1,1563 1}
+{4 1,26 1,332 1,1490 1,1899 1}
+{313 1,360 1,1102 1,1685 1}
+{55 1,69 1,133 1,294 1,333 1,439 1,462 1,852 1,980 1,1132 1,1216 1,1292 1,1447 1,1540 1,1611 1,1707 1,1831 1,1980 1,2018 1}
+{280 1,311 1,444 1,636 1,726 1,1518 1,1598 1,1990 1}
+{261 1,262 1,503 1,785 1,1013 1,1044 1,1139 1,1361 1,1625 1,1952 1,2022 1}
+{104 1,222 1,373 1,457 1,664 1,758 1,1285 1,1455 1,1821 1,1993 1}
+{198 1,360 1,2048 1}
+{150 1,241 1,280 1,343 1,389 1,437 1,521 1,1139 1,1186 1,1368 1,1503 1,1830 1,1878 1,2014 1}
+{218 1,647 1,818 1,893 1,1020 1,1108 1,1139 1}
+{79 1,149 1,333 1,474 1,1286 1,1296 1}
+{521 1,797 1,802 1,805 1,1284 1,1364 1,1383 1,1439 1,1488 1,1811 1,1939 1}
+{360 1,414 1,635 1,1139 1,1431 1,1509 1}
+{338 1,732 1,795 1,947 1,967 1,970 1,984 1,1330 1,1336 1,1387 1,1899 1,2012 1}
+{360 1,943 1,1001 1,1468 1,1724 1}
+{15 1,285 1,1055 1,1252 1,1429 1,1504 1,1591 1}
+{360 1,376 1,593 1,1030 1,1572 1}
+{75 1,89 1,92 1,350 1,446 1,677 1,692 1,763 1,768 1,818 1,822 1,860 1,881 1,890 1,893 1,1194 1,1199 1,1230 1,1274 1,1292 1,1502 1,1503 1,1949 1,1956 1,1970 1}
+{679 1,816 1,901 1,1571 1,1754 1,1775 1}
+{280 1,647 1,794 1,1051 1,1201 1,1351 1}
+{11 1,371 1,404 1,502 1,810 1,934 1,1139 1,1141 1,1155 1,1262 1,1273 1,1557 1,1571 1,1572 1,1631 1,1724 1,1971 1}
+{89 1,109 1,280 1,593 1,992 1,1194 1,1244 1,1810 1}
+{656 1,1104 1,1407 1,1775 1}
+{97 1,128 1,273 1,415 1,525 1,633 1,724 1,928 1,934 1,1190 1,1325 1,1389 1,1614 1,1883 1}
+{108 1,155 1,802 1,1010 1,1055 1,1294 1,1559 1}
+{55 1,306 1,423 1,597 1,790 1,794 1,1200 1,1239 1,1254 1,1333 1,1505 1,1644 1,1696 1}
+{328 1,330 1,332 1,412 1,625 1,870 1,1233 1,1353 1,1441 1,1474 1,1692 1,1705 1}
+{389 1,440 1,809 1,818 1,866 1,1191 1,1773 1,1807 1}
+{292 1,360 1,793 1,847 1,892 1,1009 1,1165 1,1353 1,1502 1,1523 1}
+{161 1,669 1,1173 1,1189 1,1278 1,1869 1}
+{489 1,691 1,1007 1,1503 1,1877 1}
+{352 1,420 1,486 1,526 1,637 1,737 1,754 1,921 1,1385 1,1562 1,1707 1,1828 1,1869 1,1949 1}
+{306 1,426 1,1086 1,1313 1}
+{85 1,328 1,333 1,977 1,1334 1,1503 1}
+{56 1,59 1,262 1,333 1,360 1,373 1,502 1,575 1,591 1,593 1,737 1,767 1,796 1,801 1,1139 1,1413 1,1503 1,1556 1,1742 1,1831 1,1838 1,1878 1,1895 1,1899 1,2014 1,2017 1,2031 1,2036 1}
+{149 1,691 1,1007 1,1368 1,1503 1,2030 1}
+{342 1,465 1,653 1,1194 1,1225 1,1290 1,1730 1}
+{360 1,1571 1,1754 1}
+{137 1,273 1,333 1,860 1,1145 1,1331 1,1450 1,1775 1}
+{51 1,1675 1,1869 1,1899 1}
+{113 1,257 1,691 1,1097 1,1234 1,1315 1,1775 1}
+{486 1,874 1,1843 1}
+{117 1,328 1,593 1,600 1,1743 1,1898 1}
+{280 1,389 1,959 1,1144 1,1568 1,1713 1,1724 1}
+{109 1,164 1,280 1,775 1,1290 1,1501 1,1707 1,1881 1}
+{224 1,561 1,1017 1,1045 1,1395 1,1806 1,1899 1}
+{332 1,333 1,372 1,1010 1,1075 1,1402 1,1682 1}
+{101 1,360 1,428 1,890 1,1534 1,1664 1,1859 1,1934 1,1943 1}
+{306 1,890 1,1040 1,1365 1,1507 1,1797 1,1831 1}
+{507 1,647 1,793 1,1312 1,1556 1,1597 1,1688 1,1899 1,2017 1}
+{596 1,935 1,997 1,1139 1,1286 1,1353 1,1452 1,1662 1,1820 1,1985 1}
+{107 1,794 1,873 1,1139 1,1292 1,1544 1,1803 1,1865 1}
+{6 1,61 1,484 1,622 1,818 1,1578 1,1797 1}
+{818 1,832 1,1797 1}
+{92 1,624 1,872 1,1899 1}
+{61 1,418 1,422 1,620 1,793 1,1292 1,1503 1,1570 1,1638 1,1639 1,1899 1,1974 1}
+{57 1,867 1,1034 1,1155 1,1299 1,1830 1}
+{306 1,715 1,780 1,987 1,1441 1,1442 1,1562 1,1713 1,1807 1,1815 1,1985 1}
+{215 1,280 1,368 1,451 1,541 1,630 1,734 1,791 1,1111 1,1440 1,1496 1,1735 1,1841 1}
+{765 1,870 1,890 1,905 1,1556 1,1600 1,1797 1,1869 1}
+{286 1,367 1,647 1,1191 1,1250 1,1775 1}
+{21 1,317 1,802 1,1336 1,1480 1,1865 1}
+{280 1,401 1,1923 1}
+{70 1,137 1,280 1,333 1,1503 1}
+{818 1,1673 1}
+{907 1,1541 1,1569 1,1821 1,1945 1}
+{43 1,464 1,678 1,1284 1,1336 1,1524 1,1619 1,2017 1}
+{317 1,334 1,455 1,677 1,705 1,763 1,794 1,1136 1,1248 1,1291 1,1296 1,1425 1,1431 1,1554 1,1744 1,1774 1,1775 1,1791 1,1920 1,1945 1}
+{223 1,491 1,818 1,1020 1,1139 1,1351 1,1777 1,2011 1}
+{127 1,296 1,808 1,872 1,885 1,1003 1,1004 1,1082 1,1109 1,1123 1,1272 1,1569 1,1635 1,1661 1,1824 1,1905 1,2040 1}
+{39 1,404 1,737 1,829 1,1340 1,1425 1,1869 1}
+{604 1,775 1,1081 1,1725 1,1775 1}
+{325 1,328 1,1338 1,1673 1}
+{87 1,227 1,802 1,901 1,1296 1}
+{280 1,320 1,594 1,596 1,624 1,737 1,813 1,935 1,1372 1,1503 1,1594 1,1707 1,1869 1,1881 1}
+{50 1,280 1,386 1,686 1,1869 1}
+{280 1,306 1,905 1,1234 1}
+{69 1,146 1,593 1,793 1,1335 1,1772 1}
+{698 1,954 1,1182 1,1194 1,1284 1,1286 1}
+{683 1,747 1,1292 1,1356 1,1857 1,1920 1}
+{281 1,641 1,691 1,737 1,948 1}
+{55 1,796 1,979 1,1345 1,2030 1}
+{52 1,178 1,867 1,993 1,1186 1,1857 1}
+{73 1,108 1,477 1,630 1,775 1,890 1,1087 1,1441 1,1562 1,1698 1,1707 1,1830 1,1915 1}
+{33 1,55 1,210 1,429 1,886 1,1240 1,1497 1}
+{280 1,306 1,554 1,1060 1,1190 1,1232 1,1290 1,1720 1,1810 1,1869 1,1880 1,1912 1}
+{952 1,1417 1,1774 1}
+{818 1,819 1,1695 1}
+{69 1,405 1,423 1,547 1,681 1,863 1,988 1,1128 1,1516 1,1832 1,1941 1}
+{360 1,1556 1,1663 1,1664 1,1752 1,1797 1,1882 1,1964 1,2024 1}
+{488 1,581 1,776 1,1335 1,1772 1}
+{360 1,480 1,483 1,647 1,999 1,1149 1,1199 1,1295 1,1322 1,1397 1,1503 1,1533 1,1709 1,1726 1,1736 1,1747 1,1811 1,1867 1}
+{231 1,610 1,811 1,831 1,1360 1,1520 1,1535 1,1579 1,1654 1,1986 1}
+{61 1,306 1,666 1,815 1,1187 1,1572 1,1695 1,2030 1}
+{268 1,393 1,430 1,578 1,783 1,860 1,1324 1,1501 1,1718 1,1745 1,1777 1,1899 1}
+{478 1,593 1,717 1,851 1,1077 1,1243 1,1390 1,1393 1,1485 1,1513 1,1544 1,1610 1}
+{55 1,214 1,684 1,1222 1}
+{198 1,333 1,360 1,1782 1,1869 1,1880 1}
+{17 1,410 1,656 1,1775 1}
+{61 1,190 1,353 1,660 1,1438 1,1949 1}
+{243 1,1530 1,1728 1,1821 1,1997 1}
+{82 1,214 1,737 1,810 1,1057 1,1074 1,1139 1,1179 1,1353 1,1634 1,1831 1,1921 1}
+{5 1,54 1,55 1,400 1,476 1,1018 1,1412 1,1603 1,1645 1}
+{137 1,328 1,369 1,638 1,1034 1,1216 1,1265 1,1292 1,1385 1,2003 1}
+{243 1,404 1,467 1,593 1,632 1,1319 1,1374 1}
+{309 1,509 1,592 1,801 1,1545 1,1664 1,2045 1}
+{94 1,193 1,306 1,446 1,510 1,1218 1,1431 1}
+{60 1,593 1,691 1}
+{234 1,255 1,714 1,1286 1,1633 1}
+{1691 1,1733 1,1775 1}
+{134 1,531 1,1157 1,1331 1,1775 1}
+{15 1,308 1,1522 1,1695 1,1742 1,2017 1}
+{71 1,168 1,306 1,679 1,1536 1,1884 1}
+{243 1,647 1,1475 1,1577 1}
+{360 1,1051 1,1150 1,1151 1,1353 1,1375 1,1521 1}
+{280 1,1571 1,1754 1,2038 1}
+{16 1,179 1,691 1,1010 1,1249 1,1336 1,1990 1,2021 1}
+{299 1,360 1,794 1,843 1,1139 1,1186 1,1455 1,1827 1,1877 1,1888 1}
+{306 1,778 1,1202 1,1311 1,1451 1,1503 1,1777 1,1840 1,1931 1}
+{55 1,61 1,280 1,402 1,487 1,538 1,630 1,663 1,834 1,1035 1,1050 1,1107 1,1426 1,1503 1,1797 1,1814 1,1859 1}
+{463 1,1051 1,1484 1,1797 1}
+{55 1,1117 1,1256 1,1412 1,1476 1,1599 1}
+{135 1,360 1,985 1,1078 1,1086 1,1432 1,1518 1,1556 1,1591 1,1663 1}
+{404 1,593 1,632 1,668 1,1084 1,1176 1,1296 1}
+{30 1,288 1,411 1,1013 1,1061 1,1673 1,1775 1}
+{61 1,159 1,802 1,901 1,971 1,1334 1,1524 1,1831 1}
+{105 1,115 1,328 1,367 1,470 1,719 1,1139 1,1651 1,1680 1,1986 1,2025 1}
+{328 1,381 1,516 1,716 1,1010 1}
+{18 1,256 1,389 1,413 1,454 1,647 1,1008 1,1097 1,1258 1,1425 1,1668 1,1775 1,1781 1,1784 1,1796 1}
+{262 1,547 1,876 1}
+{141 1,404 1,406 1,1797 1}
+{264 1,522 1,818 1,1300 1,1711 1}
+{824 1,1213 1,1327 1,1713 1,1797 1,2010 1}
+{615 1,656 1,1775 1}
+{715 1,802 1,1164 1}
+{61 1,280 1,860 1,1523 1}
+{131 1,235 1,737 1,1274 1,1328 1,1861 1,1899 1,1956 1}
+{328 1,402 1,593 1,604 1,718 1,794 1,966 1,1222 1,1267 1,1399 1,1503 1,1768 1,1808 1,1946 1,2030 1}
+{399 1,1690 1,1775 1}
+{116 1,306 1,737 1,1331 1,1745 1,1869 1,2029 1}
+{685 1,1378 1,1620 1}
+{40 1,737 1,802 1,1056 1}
+{28 1,262 1,300 1,609 1,772 1,944 1,1236 1,1281 1,1296 1,1503 1,1990 1,1991 1}
+{49 1,331 1,421 1,576 1,784 1,916 1,920 1,935 1,1059 1,1411 1,1501 1,1562 1,1571 1,1702 1,1757 1,1814 1,1851 1,1899 1,1931 1}
+{55 1,563 1,680 1,813 1,860 1,1113 1,1164 1,1310 1,1899 1}
+{144 1,284 1,328 1,535 1,611 1,850 1,1061 1,1556 1}
+{1754 1,1775 1}
+{105 1,290 1,298 1,333 1,373 1,379 1,499 1,526 1,535 1,560 1,937 1,1129 1,1239 1,1399 1,1403 1,1471 1,1503 1,1866 1}
+{759 1,935 1}
+{1311 1,1467 1,1490 1,1653 1}
+{588 1,818 1,868 1,1196 1,1234 1,1709 1}
+{469 1,571 1,660 1,806 1,830 1,1007 1,1194 1,1503 1,1504 1,1709 1,2030 1}
+{647 1,1284 1,1467 1,1775 1}
+{158 1,657 1,737 1,782 1,905 1,948 1,1408 1,1501 1,1556 1,1775 1,1866 1}
+{403 1,494 1,792 1,1286 1,1410 1,1458 1,1821 1}
+{557 1,771 1,926 1,939 1,1429 1,1503 1,1765 1,1861 1,1911 1,1953 1}
+{1122 1,1503 1,1772 1,1930 1}
+{55 1,295 1,486 1,521 1,1173 1,1425 1,1592 1,1862 1}
+{14 1,239 1,280 1,1086 1,1878 1}
+{589 1,605 1,651 1,890 1,917 1,1385 1,1401 1,1661 1}
+{55 1,361 1,416 1,895 1,1556 1}
+{372 1,490 1,640 1,738 1,1028 1,1987 1}
+{201 1,217 1,274 1,1066 1,1139 1,1212 1,1775 1,1990 1}
+{80 1,160 1,280 1,408 1,518 1,544 1,1027 1,1282 1,1596 1}
+{84 1,221 1,312 1,645 1,836 1,1341 1,1899 1}
+{27 1,200 1,1161 1,1504 1,1878 1,2030 1}
+{656 1,675 1,1010 1,1026 1,1139 1,1334 1,1569 1,1576 1,1774 1,1775 1,1877 1,1966 1,2034 1}
+{332 1,446 1,1331 1,1508 1}
+{23 1,61 1,422 1,495 1,534 1,1284 1,1681 1,1831 1,1949 1,1974 1}
+{171 1,1116 1,1194 1,1721 1}
+{328 1,858 1,1136 1,1234 1,1382 1,1678 1,1797 1,1871 1,2037 1}
+{27 1,243 1,251 1,280 1,321 1,336 1,357 1,389 1,564 1,566 1,588 1,663 1,794 1,910 1,915 1,971 1,997 1,1025 1,1155 1,1235 1,1399 1,1425 1,1503 1,1524 1,1774 1,1940 1,1985 1}
+{66 1,262 1,327 1,479 1,883 1,974 1,1502 1,1519 1,1622 1,1724 1,1973 1}
+{593 1,739 1,818 1,937 1,1194 1,1980 1}
+{315 1,434 1,1774 1,1775 1,1877 1}
+{2 1,106 1,243 1,786 1,818 1}
+{180 1,445 1,1122 1,1222 1,1546 1,1556 1,1575 1,1709 1,1733 1,1858 1,1899 1,2030 1,2039 1}
+{221 1,233 1,239 1,241 1,363 1,440 1,593 1,763 1,1336 1}
+{357 1,534 1,665 1,709 1,802 1,1220 1,1321 1,1491 1,1503 1,1510 1,1663 1,1727 1,1833 1,1859 1}
+{102 1,105 1,232 1,328 1,475 1,573 1,598 1,834 1,880 1,1139 1,1173 1,1352 1,1457 1,1503 1,1528 1,1826 1,1984 1,2036 1}
+{333 1,360 1,521 1,760 1,1296 1,1331 1,1707 1}
+{78 1,225 1,360 1,737 1,853 1,856 1,935 1,994 1,1019 1,1161 1,1353 1,1367 1,1632 1}
+{50 1,280 1,360 1,1153 1,1602 1,1674 1,1811 1}
+{1587 1,1974 1}
+{9 1,542 1,688 1,737 1,1394 1,1406 1,1432 1,1458 1,1459 1,1569 1,1608 1,1677 1,1687 1,1929 1,2017 1}
+{51 1,184 1,317 1,332 1,583 1,827 1,975 1,1268 1,1369 1,1503 1,1517 1,1562 1,1573 1,1590 1,1627 1,1629 1,1797 1,1861 1,1869 1,2030 1,2035 1}
+{395 1,526 1,538 1,1071 1,1336 1,1659 1,1797 1,1807 1}
+{61 1,120 1,303 1,505 1,619 1,839 1,870 1,1090 1,1453 1,1482 1,1742 1,1797 1,2018 1}
+{860 1,1139 1,1335 1,1504 1}
+{277 1,567 1,1208 1,1222 1,1553 1,1825 1}
+{55 1,92 1,242 1,324 1,439 1,511 1,713 1,737 1,775 1,936 1,1030 1,1140 1,1230 1,1231 1,1405 1,1773 1,1831 1}
+{280 1,306 1,359 1,846 1,935 1,1085 1,1560 1,1701 1,1704 1,1999 1}
+{183 1,235 1,818 1,919 1,1210 1,1624 1,1983 1}
+{280 1,306 1,317 1,434 1,1372 1,1376 1,1431 1,1975 1,2015 1}
+{0 hate,317 1,534 1,1336 1,1949 1,1974 1,2096 1,2230 1,2517 1,2525 1,2622 1,2661 1,2789 1}
+{0 hate,663 1,765 1,766 1,796 1,1406 1,1455 1,1980 1,2018 1,2066 1,2162 1,2624 1,2699 1,2949 1,3094 1,3162 1}
+{0 hate,1754 1,2017 1,2600 1}
+{0 hate,1262 1,3323 1}
+{0 hate,140 1,308 1,317 1,783 1,1139 1,1396 1,1501 1,1503 1,1535 1,1556 1,1874 1,2118 1,2188 1,2372 1,2515 1,2661 1,2726 1,2766 1,2808 1,2957 1,3294 1}
+{0 hate,22 1,1662 1,2107 1,2269 1,2336 1,2508 1,2602 1,2603 1,2889 1,3012 1}
+{0 hate,589 1,890 1,939 1,1503 1,1571 1,1826 1,2193 1,2404 1,2569 1,2572 1}
+{0 hate,243 1,1450 1,1503 1,1507 1,1754 1,2792 1,3096 1,3183 1}
+{0 hate,321 1,1169 1}
+{0 hate,61 1,929 1,1503 1,1878 1,1949 1,2411 1,2557 1,2963 1,2970 1,3172 1}
+{0 hate,437 1,2051 1,2071 1,2411 1,3094 1,3101 1}
+{0 hate,1191 1,1281 1,1553 1,1634 1,1876 1,1878 1,1945 1,1949 1,1964 1,2189 1,2411 1,2612 1,3023 1}
+{0 hate,2280 1,3219 1,3299 1}
+{0 hate,1949 1,3090 1,3154 1}
+{0 hate,1367 1,1522 1,1553 1,1695 1,2342 1,2344 1,2612 1,2762 1}
+{0 hate,775 1,1282 1,2558 1}
+{0 hate,1324 1,3299 1}
+{0 hate,1309 1,2030 1,2074 1,2296 1,2473 1,2799 1}
+{0 hate,2863 1}
+{0 hate,647 1,909 1,1363 1,2111 1,2164 1,2969 1,3048 1,3237 1}
+{0 hate,2941 1,3011 1,3244 1}
+{0 hate,1324 1,1455 1,1553 1,2610 1,2792 1,3148 1}
+{0 hate,647 1,870 1,1702 1,2374 1,2489 1,2665 1,2766 1,2797 1,2841 1,3077 1}
+{0 hate,1139 1,1415 1,2837 1,3221 1}
+{0 hate,1374 1,2050 1,2674 1}
+{0 hate,1553 1,2364 1,3299 1}
+{0 hate,936 1,1046 1,1970 1,2412 1,2651 1,2974 1,3111 1,3275 1}
+{0 hate,651 1,1358 1,1556 1,1797 1,2073 1,2187 1}
+{0 hate,647 1,1830 1,2223 1,2469 1,2602 1,2993 1}
+{0 hate,1324 1,1553 1,2610 1,2932 1,3104 1}
+{0 hate,533 1,547 1,604 1,1230 1,1421 1,1503 1,1673 1,1964 1,1994 1,2699 1,3105 1,3148 1}
+{0 hate,1282 1,2392 1}
+{0 hate,936 1,1324 1,2883 1,3102 1}
+{0 hate,92 1,225 1,851 1,1293 1,1503 1,2030 1,2558 1,2888 1}
+{0 hate,1698 1,2017 1,2081 1,2482 1,2496 1,2792 1,3006 1,3026 1,3039 1,3059 1}
+{0 hate,333 1,745 1,1503 1,2275 1,2541 1,2570 1,2945 1,3320 1}
+{0 hate,70 1,188 1,899 1,1281 1,1556 1,2187 1,2217 1,2317 1,2535 1,2754 1,2843 1,3106 1,3351 1}
+{0 hate,691 1,949 1,1191 1,1503 1,2100 1,2151 1,2157 1,2381 1,2485 1,2640 1,2767 1,2839 1,2998 1,3280 1}
+{0 hate,1578 1,2214 1,2249 1,2250 1}
+{0 hate,273 1,1569 1,2865 1,2893 1,2935 1,3083 1}
+{0 hate,1296 1,1553 1,2364 1,3299 1}
+{0 hate,70 1,588 1,2175 1,2187 1,2550 1,2971 1,3060 1}
+{0 hate,248 1,1139 1,1183 1,2598 1,2935 1,3342 1}
+{0 hate,775 1,1012 1,1392 1,1634 1,2178 1,2193 1,2792 1,2914 1,3180 1}
+{0 hate,51 1,805 1,1591 1,2169 1,2238 1,2468 1,2637 1,2792 1,2866 1,3026 1,3071 1,3167 1,3340 1}
+{0 hate,651 1,1122 1,1158 1,2245 1,2534 1,2636 1,2668 1,2732 1,2760 1,2773 1,2801 1,2855 1,2920 1,3062 1}
+{0 hate,13 1,1399 1,1982 1,2285 1,2542 1,2602 1,2708 1}
+{0 hate,779 1,1208 1,1324 1,1553 1,1949 1,2245 1,2336 1,2450 1,2622 1,2791 1,2823 1,2949 1,3302 1}
+{0 hate,363 1,410 1,715 1,954 1,1493 1,1861 1,1949 1,2442 1,2557 1,2631 1,2752 1,2996 1,3174 1,3287 1}
+{0 hate,467 1,1273 1,1569 1,1724 1,2186 1,2495 1,3014 1}
+{0 hate,936 1,1324 1,1336 1,1801 1,3102 1}
+{0 hate,703 1,1013 1,1158 1,1374 1,2058 1,2125 1}
+{0 hate,108 1,674 1,793 1,1139 1,1290 1,1295 1,1553 1,1556 1,2610 1,2927 1,3270 1}
+{0 hate,786 1,1070 1,1563 1,2188 1,2243 1}
+{0 hate,890 1,1025 1,1122 1,1324 1,1503 1,2087 1,2115 1,2446 1,2572 1,2686 1,3102 1,3131 1}
+{0 hate,1457 1,1571 1,1931 1,2572 1}
+{0 hate,321 1,1378 1,1643 1,1724 1,2257 1,2699 1}
+{0 hate,942 1,1292 1,1324 1,1411 1,1553 1,1956 1,2258 1,2414 1,2612 1,2613 1,3031 1,3200 1,3230 1}
+{0 hate,317 1,683 1,1503 1,1814 1,2420 1,3135 1}
+{0 hate,367 1,1012 1,1263 1,1553 1,1797 1,2108 1,2612 1,3063 1}
+{0 hate,61 1,1144 1,1875 1,1949 1,2541 1,2589 1,2904 1,3015 1,3229 1}
+{0 hate,1053 1,2166 1,2546 1,2550 1,2602 1,2680 1,3180 1,3217 1}
+{0 hate,402 1,512 1,890 1,937 1,943 1,1094 1,1149 1,1274 1,1386 1,1634 1,1773 1,1869 1,2226 1,2235 1,2438 1,2633 1,2786 1,2792 1,3061 1,3107 1,3161 1,3211 1,3286 1,3347 1}
+{0 hate,1806 1,2260 1,2449 1}
+{0 hate,321 1,737 1,1324 1,1553 1,1556 1,1869 1,1879 1,2387 1,2437 1,2784 1,3087 1,3261 1,3309 1}
+{0 hate,2264 1,2757 1,2799 1}
+{0 hate,1 1,1140 1,2099 1,2187 1,2291 1,2443 1,2700 1,2715 1,2832 1,2841 1}
+{0 hate,935 1,1114 1,2088 1,2709 1,2744 1,3334 1}
+{0 hate,1742 1,2495 1,2935 1}
+{0 hate,2922 1,3147 1}
+{0 hate,108 1,173 1,483 1,884 1,1336 1,1503 1,1729 1,2063 1,2127 1,2167 1,2253 1,2751 1,3109 1}
+{0 hate,378 1,560 1,1457 1,1501 1,1503 1,1666 1,1797 1,1809 1,1949 1,2276 1,2349 1,2354 1,2402 1,2434 1,2572 1,2579 1,2675 1,2846 1,3094 1,3141 1,3189 1,3242 1}
+{0 hate,1 1,651 1,1139 1,1324 1,2382 1,2828 1,2880 1,3035 1,3102 1,3314 1}
+{0 hate,655 1,1569 1,1666 1,2186 1}
+{0 hate,647 1,1501 1,1742 1,2413 1,2537 1,2562 1,2570 1,2891 1,3048 1}
+{0 hate,317 1,570 1,593 1,1324 1,1503 1,1553 1,1830 1,2017 1,2086 1,2132 1,2278 1,2372 1,2408 1,2467 1,2474 1,2580 1,2581 1,2690 1,2742 1,2818 1,2931 1,3121 1,3201 1}
+{0 hate,108 1,721 1,2120 1,2367 1,2368 1,2520 1,2543 1,2662 1,2809 1,2837 1,2913 1,3221 1}
+{0 hate,1051 1,2186 1,2424 1,2903 1,3085 1,3160 1}
+{0 hate,1055 1,1503 1,2193 1,2211 1,2602 1,2731 1,2854 1,2938 1,3093 1,3330 1}
+{0 hate,320 1,657 1,1684 1,2030 1,2912 1,3221 1}
+{0 hate,61 1,1246 1,1311 1,1797 1,2030 1,2213 1,2368 1,2558 1,2833 1,2920 1,3254 1,3332 1}
+{0 hate,3089 1,3154 1}
+{0 hate,108 1,173 1,431 1,848 1,1330 1,1387 1,1695 1,2302 1,2405 1,2570 1,2571 1,2736 1,2940 1,3017 1,3243 1}
+{0 hate,225 1,2384 1,2429 1,2541 1,2980 1,3029 1,3073 1,3219 1,3299 1}
+{0 hate,273 1,1965 1,1990 1,2030 1,2622 1}
+{0 hate,55 1,214 1,1055 1,1556 1,1572 1,1666 1,1836 1,2323 1}
+{0 hate,22 1,82 1,714 1,890 1,1102 1,1385 1,1411 1,1506 1,1797 1,2137 1,2160 1,2266 1,2533 1,2538 1,2600 1,2645 1,2795 1,2819 1,2963 1,3148 1,3157 1,3306 1}
+{0 hate,824 1,845 1,1246 1,1521 1,2158 1,2191 1,2245 1,2304 1,2352 1,2394 1,2418 1,2617 1,2638 1,2792 1,2885 1,2895 1,3072 1,3278 1,3323 1}
+{0 hate,1945 1,2186 1,2615 1,2936 1,3199 1}
+{0 hate,317 1,801 1,1055 1,1139 1,1317 1,1503 1,1553 1,1571 1,2883 1,2938 1}
+{0 hate,2055 1,2153 1,2360 1,2567 1,2803 1}
+{0 hate,91 1,737 1,1777 1,1831 1,2909 1,3104 1}
+{0 hate,363 1,527 1,1728 1,2933 1,3299 1,3300 1}
+{0 hate,1246 1,1634 1,2699 1}
+{0 hate,95 1,1281 1,1455 1,1664 1,1724 1,2454 1,2495 1}
+{0 hate,225 1,317 1,588 1,775 1,1208 1,1305 1,1399 1,1503 1,1553 1,1982 1,2187 1,2262 1,2285 1,2361 1,2612 1,2659 1,2729 1,2797 1,3128 1,3283 1}
+{0 hate,1553 1,1695 1,2612 1,2621 1,2661 1}
+{0 hate,588 1,934 1,2261 1,3082 1,3343 1}
+{0 hate,1949 1,2229 1,2319 1,2801 1,3013 1}
+{0 hate,137 1,440 1,1411 1,1634 1,2065 1,2289 1,2341 1,2411 1,2455 1,2547 1,2634 1,2661 1,2681 1,2682 1,2722 1,2727 1,2792 1,2842 1,2844 1,2878 1,2908 1,3303 1,3307 1}
+{0 hate,663 1,1324 1,1501 1,1960 1,2541 1,2605 1,2735 1,3102 1,3162 1}
+{0 hate,1324 1,1553 1,2184 1,2233 1,2610 1,3137 1}
+{0 hate,149 1,1053 1,1056 1,1139 1,1499 1,1503 1,1797 1,1934 1,2030 1,2173 1,2174 1,2256 1,2650 1,2761 1}
+{0 hate,647 1,2269 1,2270 1,2328 1,2564 1,2602 1,2659 1,3158 1,3166 1,3227 1}
+{0 hate,1053 1,1664 1,2489 1,2664 1,2665 1}
+{0 hate,936 1,1139 1,1208 1,1324 1,1553 1,3022 1,3102 1}
+{0 hate,1296 1,2191 1,2247 1,2284 1,2557 1,2768 1,2861 1,3236 1,3264 1}
+{0 hate,321 1,1324 1,1553 1}
+{0 hate,655 1,1290 1,1949 1,2558 1,2915 1,3304 1}
+{0 hate,1053 1,1814 1,2813 1,2837 1,2966 1}
+{0 hate,1119 1,2154 1,2951 1,3244 1}
+{0 hate,1012 1,2584 1,2865 1,3096 1,3144 1}
+{0 hate,534 1,1695 1,2483 1,2578 1}
+{0 hate,425 1,1634 1,1724 1,1826 1,2357 1,2417 1,2628 1,2743 1}
+{0 hate,937 1,1190 1,1949 1,2411 1}
+{0 hate,361 1,522 1,796 1,936 1,955 1,1203 1,1949 1,2602 1,3074 1,3169 1}
+{0 hate,647 1,2017 1,2055 1,3338 1}
+{0 hate,112 1,1012 1,1055 1,1281 1,2602 1,2654 1,3142 1}
+{0 hate,1221 1,1499 1,2540 1,2700 1,2718 1,2771 1,2772 1,2884 1,3026 1,3281 1,3293 1}
+{0 hate,70 1,238 1,547 1,766 1,2110 1,2279 1,2602 1,2928 1}
+{0 hate,267 1}
+{0 hate,350 1,432 1,1034 1,1137 1,1558 1,1742 1,2030 1,2067 1,2307 1,2308 1,2421 1,2500 1,2526 1,2541 1,2669 1,2716 1,2964 1,3025 1,3077 1,3099 1,3212 1,3221 1}
+{0 hate,1949 1,2622 1,2792 1}
+{0 hate,372 1,801 1,1503 1,1869 1,2129 1,2144 1,2236 1,2261 1,2326 1,2747 1,3177 1}
+{0 hate,763 1,2055 1}
+{0 hate,936 1,1282 1,1284 1,1724 1,2480 1,2574 1}
+{0 hate,1643 1,1672 1,2534 1,2920 1,3322 1}
+{0 hate,943 1,2144 1,3143 1}
+{0 hate,775 1,884 1,1569 1,2602 1}
+{0 hate,1 1,2746 1,2887 1,2956 1,3144 1}
+{0 hate,154 1,890 1,1007 1,1201 1,1336 1,1503 1,1517 1,2027 1,2201 1,2486 1,2606 1,2679 1,2739 1,2804 1,3110 1,3173 1,3246 1,3315 1,3323 1}
+{0 hate,943 1,2017 1,2792 1}
+{0 hate,317 1,647 1,763 1,907 1,1182 1,1494 1,2237 1,2389 1,2419 1,2489 1,2957 1}
+{0 hate,715 1,2141 1,2661 1}
+{0 hate,593 1,959 1,1366 1,1503 1,2006 1,2659 1,2865 1}
+{0 hate,61 1,108 1,333 1,362 1,647 1,775 1,779 1,1111 1,1120 1,1136 1,1150 1,1208 1,1305 1,1515 1,1553 1,1658 1,1797 1,1834 1,2209 1,2231 1,2276 1,2586 1,2612 1,2794 1,2823 1,2878 1,2984 1,3041 1,3118 1,3298 1,3302 1,3345 1,3349 1}
+{0 hate,1144 1,1949 1,2324 1,2623 1,3015 1}
+{0 hate,604 1,1208 1,1362 1,1457 1,2117 1,2124 1,2445 1,2745 1,2829 1}
+{0 hate,1643 1,2017 1,2851 1}
+{0 hate,1797 1,1949 1,2018 1,2144 1,2190 1,2276 1,2427 1,2756 1,2871 1,2996 1,3084 1,3353 1}
+{0 hate,534 1,1964 1,2027 1,2237 1,2712 1,3258 1}
+{0 hate,1424 1,1695 1,1728 1,2017 1,2471 1,3002 1,3024 1}
+{0 hate,321 1,1553 1,1949 1,2610 1,2612 1,2622 1,2699 1,2753 1,3231 1}
+{0 hate,317 1,556 1,589 1,632 1,901 1,1108 1,1116 1,1290 1,1504 1,1724 1,1859 1,2094 1,2366 1,2396 1,2706 1,2792 1,2870 1,2943 1,3026 1,3034 1,3095 1,3216 1,3263 1,3268 1}
+{0 hate,1 1,2227 1,2358 1,2672 1,2843 1}
+{0 hate,317 1,627 1,1411 1,1869 1,2318 1}
+{0 hate,22 1,589 1,761 1,1501 1,1556 1,1571 1,1875 1,2183 1,2572 1,2636 1,2834 1}
+{0 hate,2030 1,2188 1,3327 1}
+{0 hate,317 1,943 1,1724 1,1831 1,1964 1,2709 1,2792 1,2921 1}
+{0 hate,674 1,1208 1,1878 1,1949 1,2411 1,2602 1}
+{0 hate,1569 1,1634 1,1797 1,2092 1,2122 1,2144 1,2466 1,2496 1,2792 1,2971 1}
+{0 hate,27 1,766 1,1139 1,1247 1,1570 1,2112 1,2203 1,2212 1,2294 1,2493 1,2568 1,2816 1,2837 1,3220 1,3221 1}
+{0 hate,317 1,529 1,535 1,639 1,1523 1,2868 1}
+{0 hate,775 1,1284 1,1503 1,2146 1,2441 1,2590 1,2899 1,2920 1,3204 1}
+{0 hate,27 1,61 1,775 1,1501 1,1717 1,2299 1,2839 1,2912 1,3145 1,3187 1,3196 1}
+{0 hate,715 1,834 1,899 1,937 1,1139 1,1396 1,1399 1,1445 1,1501 1,1980 1,1982 1,2077 1,2084 1,2149 1,2233 1,2252 1,2345 1,2541 1,2778 1,2825 1,3018 1,3077 1,3194 1,3207 1,3244 1,3285 1}
+{0 hate,61 1,1208 1,1876 1,2411 1,2557 1,2758 1}
+{0 hate,1553 1,1857 1,2612 1,2702 1,3219 1,3283 1}
+{0 hate,1139 1,1754 1,2232 1,2699 1,2759 1}
+{0 hate,321 1,339 1,715 1,796 1,948 1,1139 1,1153 1,1246 1,1503 1,1569 1,1634 1,1814 1,2228 1,3044 1,3046 1,3247 1,3305 1}
+{0 hate,715 1,1914 1,2699 1,2813 1}
+{0 hate,317 1,1411 1,1502 1,2400 1,2893 1}
+{0 hate,3093 1,3219 1,3299 1}
+{0 hate,22 1,955 1,2017 1,2602 1,3144 1,3224 1}
+{0 hate,1341 1,2641 1,2792 1,2950 1}
+{0 hate,321 1,1280 1,1286 1,1553 1,1584 1,1964 1,1973 1,2612 1,2792 1,2952 1}
+{0 hate,2188 1,2340 1}
+{0 hate,556 1,589 1,1199 1,1208 1,1222 1,1324 1,1553 1,3272 1}
+{0 hate,638 1,1898 1,1945 1,1964 1,2186 1,2659 1}
+{0 hate,715 1,1556 1,2534 1,2801 1}
+{0 hate,533 1,647 1,764 1,1002 1,1155 1,1276 1,1501 1,1673 1,1724 1,1869 1,2069 1,2131 1,2481 1,2516 1,2602 1,2673 1,3003 1,3103 1,3117 1,3302 1}
+{0 hate,642 1,2380 1,2539 1,2573 1}
+{0 hate,1309 1,1583 1,3005 1}
+{0 hate,211 1,1553 1,2433 1,2534 1,2548 1,2612 1,2937 1,3107 1}
+{0 hate,425 1,615 1,737 1,948 1,1053 1,1139 1,1281 1,1501 1,1503 1,1898 1,2030 1,2396 1,2935 1}
+{0 hate,589 1,950 1,1055 1,1634 1,1826 1,2475 1}
+{0 hate,1426 1,2597 1,2601 1,3107 1}
+{0 hate,58 1,1220 1,1296 1,1491 1,1569 1,1677 1,2089 1,2114 1,2251 1,2601 1,3257 1,3288 1}
+{0 hate,1324 1,1553 1,2385 1,2610 1,2647 1,2720 1,2958 1}
+{0 hate,884 1,2377 1,2528 1,2532 1,2743 1}
+{0 hate,1499 1,2744 1,2985 1,3108 1}
+{0 hate,1503 1,1831 1,2017 1,2453 1,2456 1,2921 1,3203 1}
+{0 hate,936 1,1326 1,3005 1}
+{0 hate,2012 1,2144 1,2644 1,2653 1}
+{0 hate,22 1,249 1,1634 1,1724 1,2792 1}
+{0 hate,70 1,1291 1,1752 1,1869 1,2483 1,2578 1}
+{0 hate,1055 1,1317 1,1569 1,2825 1,2935 1}
+{0 hate,22 1,107 1,108 1,200 1,317 1,356 1,589 1,794 1,1147 1,1199 1,1341 1,1556 1,1562 1,1797 1,1808 1,1878 1,2416 1,3144 1,3208 1}
+{0 hate,784 1,1208 1,1230 1,1869 1,2505 1,2661 1,2792 1,2921 1,3026 1,3276 1}
+{0 hate,647 1,1139 1,1399 1,1785 1,2091 1,2557 1,2963 1,3067 1,3297 1}
+{0 hate,1563 1,2210 1,2935 1,3163 1}
+{0 hate,2264 1,2360 1,2844 1}
+{0 hate,770 1,775 1,793 1,1296 1,1523 1,2255 1,3175 1}
+{0 hate,137 1,651 1,981 1,1502 1,2197 1,2533 1,2534 1,2616 1,2801 1,3173 1}
+{0 hate,333 1,611 1,1251 1,1425 1,1572 1,2199 1,2602 1,3139 1,3191 1,3208 1,3226 1}
+{0 hate,1563 1,2935 1}
+{0 hate,2991 1,3009 1}
+{0 hate,259 1,1467 1,1499 1,2144 1,2695 1}
+{0 hate,1139 1,3219 1,3259 1,3299 1}
+{0 hate,1281 1,1634 1,2930 1}
+{0 hate,1063 1,1964 1,2264 1,2614 1}
+{0 hate,1216 1,1499 1,2905 1,2930 1}
+{0 hate,1826 1,1861 1,2572 1,3049 1,3321 1,3328 1}
+{0 hate,638 1,647 1,763 1,899 1,1553 1,2017 1,2136 1,2552 1,2592 1,2612 1}
+{0 hate,317 1,1310 1,1556 1,1695 1,1807 1,1995 1,2306 1,2483 1,2578 1,2982 1,3308 1}
+{0 hate,1216 1,1305 1,2339 1,2600 1}
+{0 hate,1169 1,1281 1,1949 1,2017 1,2083 1,2427 1,2429 1,2558 1,3153 1,3160 1}
+{0 hate,378 1,444 1,467 1,541 1,1139 1,1158 1,1199 1,1331 1,1878 1,1940 1,1941 1,2017 1,2064 1,2113 1,2131 1,2156 1,2225 1,2298 1,2337 1,2602 1,2610 1,2710 1,2713 1,2723 1,3252 1}
+{0 hate,1342 1,1411 1,1450 1,1524 1,2300 1,2301 1,2411 1,2514 1,2552 1,2555 1,2557 1,2577 1,2726 1,2809 1,2926 1,2960 1,2961 1,2979 1,2981 1,2988 1,3051 1,3066 1,3097 1,3113 1,3134 1,3186 1,3295 1}
+{0 hate,3219 1,3299 1}
+{0 hate,616 1,943 1,1724 1,1949 1,1964 1,2128 1,2369 1,2749 1,2792 1}
+{0 hate,1659 1,1933 1,2223 1,3173 1}
+{0 hate,137 1,726 1,1144 1,1405 1,1872 1,2075 1,2237 1,2282 1,2502 1,2657 1,2879 1,2990 1,3015 1,3146 1,3225 1,3337 1}
+{0 hate,717 1,867 1,979 1,1282 1,1834 1,2036 1,2221 1,2448 1,2568 1,2699 1,2704 1,2725 1,2929 1,2972 1,3054 1,3122 1,3140 1,3198 1,3205 1,3277 1}
+{0 hate,33 1,1296 1,1964 1,2056 1,2639 1}
+{0 hate,541 1,2411 1,2512 1,2661 1}
+{0 hate,1305 1,1345 1,1814 1,3015 1,3164 1}
+{0 hate,238 1,440 1,545 1,1139 1,1412 1,1501 1,1541 1,1869 1,1949 1,2198 1,2223 1,2410 1,2602 1,2635 1,2796 1,2911 1,3112 1,3133 1,3149 1,3352 1}
+{0 hate,2186 1,3214 1}
+{0 hate,68 1,589 1,770 1,1178 1,1222 1,1502 1,1553 1,1724 1,2359 1,2733 1,2792 1,2872 1,3137 1,3274 1}
+{0 hate,317 1,2144 1,2937 1}
+{0 hate,543 1,655 1,884 1,1194 1}
+{0 hate,154 1,225 1,382 1,1194 1,2053 1,2200 1,2439 1,2850 1,2902 1}
+{0 hate,1502 1,2102 1,2602 1,2786 1,2862 1,3248 1}
+{0 hate,1949 1,2030 1,2348 1,3238 1,3350 1}
+{0 hate,98 1,696 1,1208 1,1503 1,1553 1,1634 1,1646 1,1664 1,1934 1,2612 1,2630 1,2643 1,2792 1,2837 1,2840 1,2845 1,2939 1,3045 1,3176 1,3203 1}
+{0 hate,321 1,580 1,981 1,1324 1,1542 1,1553 1,2245 1,2411 1,2435 1,2512 1,2611 1}
+{0 hate,1518 1,2017 1,2632 1,3144 1,3152 1,3294 1}
+{0 hate,2892 1,2921 1,3253 1,3302 1}
+{0 hate,2163 1,2333 1,2489 1,2551 1,2665 1}
+{0 hate,630 1,2793 1}
+{0 hate,137 1,1809 1,1906 1,2305 1,2627 1,3002 1}
+{0 hate,1490 1,2700 1,2757 1,3019 1}
+{0 hate,547 1,715 1,981 1,1222 1,1553 1,1949 1,2274 1,2451 1,2612 1,2620 1,3188 1}
+{0 hate,1878 1,1949 1,2220 1,2411 1,2792 1,3278 1,3323 1}
+{0 hate,321 1,772 1,1324 1,1553 1,2968 1}
+{0 hate,1013 1,1435 1,1979 1,2082 1,2090 1,2828 1}
+{0 hate,2055 1,2453 1,2806 1}
+{0 hate,1 1,1801 1,2314 1,2602 1}
+{0 hate,154 1,1050 1,1398 1,1455 1,1634 1,1938 1,2792 1,2921 1,2963 1}
+{0 hate,1129 1,1208 1,1523 1,1553 1,1949 1,2245 1,2319 1,2407 1,2557 1,2612 1,2714 1,3098 1,3151 1}
+{0 hate,714 1,1281 1,2273 1,2792 1,2796 1}
+{0 hate,464 1,647 1,1144 1,1292 1,1556 1,2059 1,2144 1,2255 1,2519 1,2700 1,3015 1}
+{0 hate,73 1,238 1,793 1,1208 1,1290 1,1316 1,1317 1,1634 1,2168 1,2279 1,2487 1,2581 1,2792 1,2797 1,2987 1,3027 1,3028 1,3228 1,3256 1}
+{0 hate,1814 1,1816 1,2297 1,2570 1,2745 1,2776 1}
+{0 hate,1136 1,1336 1,1372 1,2017 1,2222 1,2360 1,2362 1,2390 1,2593 1,2602 1,2849 1,2943 1}
+{0 hate,3283 1,3323 1}
+{0 hate,642 1,1531 1,2235 1,2397 1,2452 1,2484 1,2546 1,2602 1,3245 1,3267 1}
+{0 hate,608 1,715 1,1208 1,1742 1,2060 1,2103 1,2133 1,2150 1,2196 1,2409 1,2444 1,2498 1,2530 1,2699 1,2774 1,3059 1,3132 1,3237 1,3348 1}
+{0 hate,512 1,2659 1}
+{0 hate,332 1,1268 1,1503 1,1861 1,2101 1,2161 1,2501 1}
+{0 hate,132 1,1503 1,1966 1,2119 1,2483 1,2578 1}
+{0 hate,730 1,890 1,1094 1,1960 1,2145 1,2208 1,2262 1,2700 1,2867 1,3177 1,3205 1}
+{0 hate,1684 1,2499 1,2830 1,2924 1,3221 1}
+{0 hate,101 1,2272 1,2348 1,2661 1}
+{0 hate,490 1,2054 1,2152 1,2599 1,2602 1,3222 1}
+{0 hate,1097 1,1964 1,2268 1,3292 1}
+{0 hate,225 1,793 1,1209 1,2545 1,2602 1,3102 1}
+{0 hate,1013 1,1960 1,1985 1,2276 1,2558 1,3265 1}
+{0 hate,772 1,1457 1,1571 1,2572 1}
+{0 hate,342 1,547 1,1372 1,1507 1,1724 1,1949 1,2017 1,2177 1,2699 1,2737 1,2942 1,3269 1}
+{0 hate,70 1,238 1,1144 1,2478 1,2512 1,3015 1}
+{0 hate,1949 1,2191 1,3056 1,3302 1}
+{0 hate,589 1,1116 1,2811 1,3102 1}
+{0 hate,890 1,1831 1,2027 1,2262 1,2572 1}
+{0 hate,2565 1,2602 1,2717 1,2906 1,3241 1}
+{0 hate,737 1,894 1,1503 1,2309 1,2483 1,2578 1,2802 1,3232 1}
+{0 hate,2600 1,3283 1}
+{0 hate,137 1,350 1,380 1,1662 1,2597 1,2793 1,2837 1,2918 1,3221 1}
+{0 hate,684 1,1137 1,2144 1,3058 1}
+{0 hate,317 1,655 1,691 1,1139 1,1290 1,1658 1,1835 1,1974 1,2604 1,2828 1,3070 1,3096 1}
+{0 hate,1284 1,1964 1,1982 1}
+{0 hate,2285 1,2457 1,3244 1}
+{0 hate,1 1,437 1,775 1,971 1,983 1,1396 1,1523 1,1717 1,1835 1,1985 1,2068 1,2073 1,2234 1,2379 1,2805 1,2857 1,2875 1,2912 1,3050 1,3065 1,3310 1,3311 1}
+{0 hate,2186 1,2262 1,2325 1,2494 1,2676 1}
+{0 hate,108 1,1490 1,1563 1,2602 1}
+{0 hate,857 1,1949 1,2188 1,2492 1}
+{0 hate,769 1,1139 1,1281 1,1610 1,1898 1,1949 1,1980 1,2188 1,2810 1}
+{0 hate,647 1,935 1,2483 1,2578 1,2666 1}
+{0 hate,1343 1,3219 1,3299 1}
+{0 hate,589 1,1413 1,1797 1,1938 1,2030 1,2391 1,2460 1,2461 1,2792 1,2828 1}
+{0 hate,1281 1,1878 1,1949 1,2411 1,3144 1}
+{0 hate,714 1,1281 1,1968 1,3144 1}
+{0 hate,714 1,1209 1,1490 1,2884 1}
+{0 hate,1878 1,1949 1,2093 1,2188 1,2411 1,3127 1,3318 1}
+{0 hate,766 1,828 1,1553 1,1571 1,1707 1,1809 1,1984 1,2017 1,2612 1,3092 1,3179 1}
+{0 hate,321 1,1053 1,2894 1,3020 1}
+{0 hate,736 1,890 1,1724 1,2055 1,2098 1,2545 1,3202 1}
+{0 hate,588 1,1012 1,2144 1,2670 1,3145 1,3339 1}
+{0 hate,363 1,647 1,1282 1,1563 1,2489 1,2665 1,2797 1}
+{0 hate,446 1,1805 1,1826 1,2671 1,3273 1}
+{0 hate,824 1,1563 1,2792 1}
+{0 hate,1503 1,1946 1,2685 1,3182 1}
+{0 hate,1553 1,2319 1,2407 1,2557 1,2610 1,3151 1}
+{0 hate,552 1,589 1,1222 1,1925 1,1949 1,2503 1,2536 1}
+{0 hate,15 1,224 1,321 1,802 1,829 1,937 1,981 1,1493 1,1501 1,1502 1,1553 1,1634 1,1724 1,1745 1,1879 1,1964 1,1995 1,2030 1,2140 1,2287 1,2507 1,2612 1,2792 1,2978 1,3091 1,3308 1}
+{0 hate,321 1,1324 1,1503 1,1553 1,1945 1,2649 1,2968 1}
+{0 hate,1336 1,2240 1,2489 1,2665 1}
+{0 hate,441 1,765 1,1814 1,1949 1,2246 1,2587 1,2769 1}
+{0 hate,1724 1,1809 1,1826 1,1985 1,2264 1,2574 1}
+{0 hate,845 1,1100 1,1281 1,1435 1,1982 1,1990 1,2036 1,2085 1,2123 1,2248 1,2255 1,2329 1,2338 1,2426 1,2470 1,2602 1,2626 1,2697 1,2781 1,2798 1,2874 1,3036 1,3042 1,3251 1,3312 1}
+{0 hate,890 1,1051 1,1290 1,1406 1,1493 1,1724 1,1809 1,1984 1,2144 1,2263 1,2609 1,3307 1}
+{0 hate,61 1,69 1,684 1,775 1,908 1,1051 1,1139 1,1399 1,1724 1,2121 1,2310 1,2558 1,2696 1,2937 1,3008 1,3162 1}
+{0 hate,441 1,2572 1,2686 1}
+{0 hate,1040 1,1281 1,1351 1,1949 1,2105 1,2656 1,2992 1,3130 1,3144 1}
+{0 hate,1553 1,2612 1,2856 1,3319 1}
+{0 hate,1503 1,1634 1,2553 1,2741 1,2792 1,3182 1}
+{0 hate,1324 1,1553 1,1562 1,2831 1,2919 1,3214 1}
+{0 hate,1290 1,1628 1,1964 1,3299 1}
+{0 hate,1325 1,1385 1,1474 1,2118 1,2677 1,2691 1,2954 1,3000 1,3266 1}
+{0 hate,1 1,799 1,2625 1,2711 1}
+{0 hate,2618 1,3299 1}
+{0 hate,647 1,1139 1,2602 1,3004 1,3104 1}
+{0 hate,1012 1,2508 1}
+{0 hate,1055 1,2188 1,3325 1}
+{0 hate,1809 1,1939 1,2489 1,2665 1,2835 1}
+{0 hate,1334 1,2030 1,2558 1}
+{0 hate,589 1,661 1,863 1,1372 1,2265 1,2292 1,2398 1,2509 1,2511 1}
+{0 hate,1949 1,2558 1,2876 1}
+{0 hate,1 1,936 1,1503 1,1535 1,2365 1,2853 1,2957 1,3064 1,3145 1,3195 1}
+{0 hate,1183 1,1826 1,2187 1,2293 1}
+{0 hate,647 1,1022 1,2111 1,2355 1,2785 1,2792 1,2933 1,3026 1}
+{0 hate,1673 1,2422 1,3144 1}
+{0 hate,647 1,1216 1,2699 1}
+{0 hate,250 1,335 1,737 1,1572 1,1724 1,2148 1,3057 1}
+{0 hate,766 1,936 1,1336 1,1503 1,1768 1,2148 1,3032 1}
+{0 hate,317 1,1296 1,1366 1,1563 1,2205 1,2720 1,2948 1,3266 1}
+{0 hate,629 1,810 1,1563 1,2052 1,2080 1,2572 1,3102 1}
+{0 hate,775 1,2017 1,2372 1,2796 1}
+{0 hate,623 1,763 1,1556 1,2483 1,2578 1}
+{0 hate,763 1,2699 1,2907 1,2977 1}
+{0 hate,1326 1,2253 1,3005 1}
+{0 hate,137 1,1324 1,2320 1,2610 1,2709 1,2897 1,3041 1,3079 1,3102 1,3279 1}
+{0 hate,1222 1,1553 1,1949 1,2474 1,2612 1,2622 1,2840 1,3333 1}
+{0 hate,1045 1,1129 1,1139 1,1334 1,1438 1,1553 1,2017 1,2497 1,2612 1,2730 1,2766 1,2797 1,2950 1,3010 1,3074 1,3165 1,3317 1}
+{0 hate,211 1,317 1,324 1,779 1,799 1,1502 1,1563 1,2030 1,2148 1,2937 1,3107 1}
+{0 hate,1509 1,1949 1,2563 1,2973 1}
+{0 hate,356 1,848 1,1803 1,1940 1,2156 1,2570 1,2745 1}
+{0 hate,533 1,552 1,955 1,1797 1,2343 1,2986 1,3227 1}
+{0 hate,250 1,890 1,937 1,1305 1,1499 1,1634 1,1797 1,1861 1,2303 1,2399 1,2777 1,2858 1}
+{0 hate,1336 1,2440 1,2705 1,2801 1,3158 1}
+{0 hate,1284 1,1324 1,1553 1,1874 1,2610 1,3332 1}
+{0 hate,154 1,647 1,1467 1,2144 1,2989 1}
+{0 hate,61 1,802 1,1053 1,1055 1,1136 1,1292 1,1348 1,1523 1,1797 1,2119 1,2195 1,2423 1,2656 1,2792 1,2824 1,3069 1,3159 1,3278 1}
+{0 hate,321 1,2811 1,3102 1}
+{0 hate,3100 1}
+{0 hate,317 1,647 1,936 1,1490 1,2055 1,2327 1,2331 1,2604 1}
+{0 hate,390 1,591 1,636 1,737 1,848 1,907 1,1284 1,2072 1,2134 1,2356 1,2570 1,2669 1,2891 1,3033 1,3240 1}
+{0 hate,1728 1,1768 1,2572 1,2686 1,3022 1,3242 1}
+{0 hate,243 1,1290 1,1695 1,2483 1,2578 1}
+{0 hate,1161 1,1695 1,2105 1,2277 1,2738 1,3282 1}
+{0 hate,333 1,380 1,440 1,737 1,1199 1,1324 1,1553 1,1869 1,2030 1,2182 1,2432 1,2554 1,2610 1,2879 1,3040 1,3162 1,3326 1}
+{0 hate,1010 1,1290 1,1490 1,1553 1,1868 1,1876 1,1886 1,1949 1,2315 1,2411 1,2510 1,2612 1,2618 1,2762 1,3162 1}
+{0 hate,317 1,3031 1}
+{0 hate,655 1,1457 1,1501 1,2081 1,2152 1,2735 1}
+{0 hate,1324 1,2017 1,2602 1,2659 1,3299 1}
+{0 hate,900 1,955 1,1169 1,1484 1,1569 1,1572 1,1724 1,1949 1,2388 1,2425 1,2447 1,2448 1,2463 1,2488 1,2556 1,2557 1,2558 1,2559 1,2646 1,3078 1,3153 1,3316 1,3354 1}
+{0 hate,23 1,333 1,798 1,935 1,1673 1,1830 1,1869 1,2595 1,2837 1,3124 1,3185 1,3221 1}
+{0 hate,138 1,1007 1,1324 1,1455 1,1503 1,1553 1,1702 1,1797 1,2017 1,2207 1,2581 1,2782 1,2792 1,2968 1,3138 1}
+{0 hate,108 1,356 1,589 1,677 1,691 1,916 1,1284 1,1499 1,1673 1,1949 1,2165 1,2170 1,2346 1,2347 1,2431 1,2468 1,2518 1,2531 1,2575 1,2667 1,2709 1,2744 1,2745 1,2790 1,2859 1,3096 1,3142 1,3244 1,3291 1}
+{0 hate,545 1,765 1,1208 1,1553 1,1797 1,2206 1,2223 1,2612 1,2817 1,3093 1,3129 1,3136 1}
+{0 hate,1563 1,2896 1}
+{0 hate,1385 1,2435 1,2601 1,3088 1}
+{0 hate,959 1,1055 1,1155 1,1797 1,2411 1,2875 1,2912 1,3107 1,3115 1,3289 1}
+{0 hate,23 1,937 1,1191 1,1208 1,1634 1,1707 1,1777 1,1814 1,1878 1,1884 1,2241 1,2678 1,2692 1,2693 1,2792 1,2937 1,3101 1,3120 1}
+{0 hate,1399 1,1455 1,1467 1,1503 1,1899 1,2078 1,2178 1,2291 1,2744 1,2792 1,2886 1,2963 1,3344 1}
+{0 hate,1305 1,1396 1,1830 1,1985 1,2374 1,2699 1}
+{0 hate,126 1,317 1,715 1,1634 1,1724 1,2374 1,2792 1,3031 1}
+{0 hate,1 1,1140 1,2321 1,2756 1}
+{0 hate,27 1,2734 1,2744 1,2995 1}
+{0 hate,1937 1,2095 1,2314 1,2602 1,2765 1,2864 1,2883 1,2910 1}
+{0 hate,317 1,1362 1,1960 1,2558 1}
+{0 hate,687 1,961 1,1140 1,2188 1,2403 1,2491 1,3184 1,3190 1}
+{0 hate,770 1,1013 1,1033 1,1857 1,2271 1,2432 1,2602 1,2946 1,3227 1}
+{0 hate,91 1,737 1,1777 1,1831 1,2687 1,2936 1,3324 1}
+{0 hate,550 1,1724 1,2126 1,2187 1,2659 1,2724 1,3249 1}
+{0 hate,418 1,2935 1,3053 1,3305 1}
+{0 hate,593 1,874 1,1361 1,1563 1,2139 1,2224 1,2281 1,2602 1}
+{0 hate,1305 1,1319 1,2826 1,3323 1}
+{0 hate,1296 1,1374 1,2997 1}
+{0 hate,363 1,547 1,593 1,674 1,766 1,935 1,1309 1,2130 1,2799 1,3054 1}
+{0 hate,50 1,533 1,1144 1,1878 1,1949 1,3015 1,3204 1}
+{0 hate,380 1,2188 1,2943 1}
+{0 hate,235 1,1136 1,1949 1,2312 1,2558 1,2579 1,2820 1,2893 1,2934 1,3155 1,3250 1}
+{0 hate,61 1,715 1,1499 1,2070 1,3244 1}
+{0 hate,1378 1,1724 1,2935 1}
+{0 hate,1136 1,2700 1,3062 1}
+{0 hate,1553 1,2610 1,3323 1}
+{0 hate,467 1,647 1,1139 1,1457 1,1590 1,1809 1,2219 1,2264 1,2462 1,2583 1,2684 1,2916 1}
+{0 hate,1503 1,1634 1,1673 1}
+{0 hate,2116 1,2144 1,2770 1,2873 1,3093 1,3255 1,3340 1}
+{0 hate,333 1,1503 1,1634 1,1665 1,1960 1,2018 1,2245 1,2288 1,2459 1}
+{0 hate,3301 1}
+{0 hate,1281 1,2800 1,3005 1}
+{0 hate,2464 1,2495 1,2901 1,2965 1}
+{0 hate,238 1,765 1,936 1,1208 1,1488 1,1503 1,1724 1,1797 1,2529 1,2574 1,2594 1}
+{0 hate,61 1,321 1,2319 1,2393 1,2557 1,3016 1}
+{0 hate,1 1,238 1,306 1,845 1,2097 1,2279 1,2610 1,2740 1,2877 1,3001 1}
+{0 hate,317 1,1964 1,2699 1}
+{0 hate,1094 1,1949 1,2699 1}
+{0 hate,391 1,2557 1}
+{0 hate,1643 1,1754 1,2465 1}
+{0 hate,238 1,2279 1,2661 1}
+{0 hate,674 1,1087 1,1228 1,1457 1,2148 1,2852 1}
+{0 hate,1183 1,1324 1,1553 1,2848 1,2869 1,3031 1}
+{0 hate,1634 1,2792 1,3190 1}
+{0 hate,1 1,24 1,249 1,528 1,829 1,970 1,1329 1,1490 1,1503 1,1634 1,2143 1,2663 1,2701 1,2860 1,2983 1}
+{0 hate,59 1,61 1,225 1,798 1,1031 1,1096 1,1139 1,1292 1,1431 1,1556 1,1634 1,1663 1,1724 1,2239 1,2368 1,2371 1,2378 1,2582 1,2792 1,2900 1,3210 1,3346 1}
+{0 hate,1139 1,1324 1,1439 1,1553 1,1797 1,2075 1,2395 1,2544 1,2864 1,3075 1,3267 1,3313 1}
+{0 hate,27 1,534 1,899 1,1368 1,1429 1,1430 1,1442 1,1455 1,1494 1,1556 1,1569 1,1664 1,1724 1,1739 1,2086 1,2336 1,2339 1,2370 1,2521 1,2602 1,2655 1,2821 1,2882 1,2994 1,3052 1,3137 1}
+{0 hate,321 1,1336 1,1945 1,2144 1,2185 1}
+{0 hate,2322 1,2799 1,3007 1}
+{0 hate,1502 1,1634 1,2660 1}
+{0 hate,68 1,2264 1}
+{0 hate,1724 1,2030 1,2383 1,2558 1,2642 1,2928 1}
+{0 hate,238 1,317 1,1139 1,1292 1,1634 1,1876 1,1982 1,2017 1,2076 1,2259 1,2283 1,2375 1,2415 1,2561 1,2652 1,2660 1,2792 1,2801 1,2814 1,2975 1,3150 1,3256 1}
+{0 hate,529 1,884 1,1324 1,1373 1,1501 1,1995 1,3125 1,3193 1,3211 1,3308 1}
+{0 hate,722 1,2787 1,2807 1,2838 1,3154 1,3223 1}
+{0 hate,1754 1,2935 1}
+{0 hate,24 1,295 1,538 1,948 1,1222 1,1809 1,1814 1,2750 1,2837 1,2881 1,3086 1,3221 1}
+{0 hate,321 1,1324 1,1878 1,1949 1,2411 1,3102 1}
+{0 hate,418 1,1664 1,2180 1,2411 1,2512 1,2606 1,2792 1,2943 1,3026 1,3156 1}
+{0 hate,364 1,1572 1,2267 1,3114 1}
+{0 hate,243 1,317 1,766 1,1411 1,1797 1,2506 1,3068 1}
+{0 hate,588 1,2027 1,3335 1}
+{0 hate,2155 1,2557 1,2591 1}
+{0 hate,68 1,2102 1,2614 1,2709 1,2744 1,3031 1,3043 1,3206 1}
+{0 hate,534 1,937 1,1190 1,1208 1,1553 1,1949 1,2411 1,2612 1,2953 1}
+{0 hate,155 1,1062 1,1953 1,2311 1,2406 1,2557 1,2576 1,2779 1,2851 1}
+{0 hate,2186 1,2229 1}
+{0 hate,90 1,147 1,593 1,1137 1,1139 1,1553 1,1572 1,1831 1,1982 1,2017 1,2268 1,2373 1,2472 1,2610 1,2682 1,2707 1,2728 1,2792 1,3031 1,3102 1,3197 1,3283 1}
+{0 hate,1122 1,2062 1,3219 1,3299 1}
+{0 hate,775 1,884 1,1144 1,1158 1,1425 1,2135 1,2658 1,2755 1,2780 1,2925 1,3015 1,3126 1,3215 1}
+{0 hate,948 1,1563 1,2237 1,2275 1,2314 1,2572 1,3022 1,3102 1}
+{0 hate,1069 1,1503 1,1949 1,2017 1,2637 1}
+{0 hate,244 1,535 1,1490 1,1503 1,2286 1,2572 1,2741 1,2898 1,2923 1,2955 1,3055 1,3203 1,3284 1}
+{0 hate,1411 1,2411 1,3144 1}
+{0 hate,1481 1,1634 1,2427 1,2792 1,3093 1}
+{0 hate,1 1,89 1,321 1,1290 1,1294 1,1305 1,1324 1,1349 1,1501 1,1523 1,1524 1,1553 1,1556 1,1809 1,1835 1,2061 1,2109 1,2216 1,2566 1,3031 1,3076 1,3178 1}
+{0 hate,1509 1,1732 1,1832 1,2602 1,2603 1,3224 1}
+{0 hate,493 1,573 1,1274 1,1444 1,1503 1,1684 1,2330 1,3221 1}
+{0 hate,2437 1,2601 1,3116 1}
+{0 hate,2811 1,3331 1}
+{0 hate,61 1,537 1,794 1,857 1,1139 1,1556 1,1965 1,2147 1,2169 1,2193 1,2237 1,2334 1,2836 1,2866 1,3167 1,3340 1}
+{0 hate,61 1,317 1,770 1,775 1,1553 1,1695 1,2142 1,2386 1,2557 1,2612 1,2619 1,2637 1,3239 1}
+{0 hate,243 1,593 1,934 1,2159 1,2483 1,2578 1}
+{0 hate,2572 1,2694 1}
+{0 hate,884 1,890 1,1491 1,1503 1,1878 1,3329 1}
+{0 hate,1246 1,1491 1,1503 1,1553 1,1869 1,2479 1,2523 1,2610 1,2612 1,2999 1,3047 1}
+{0 hate,321 1,533 1,541 1,1251 1,1276 1,1342 1,1385 1,1553 1,1556 1,1673 1,2335 1,2489 1,2490 1,2612 1,2719 1,3013 1,3341 1}
+{0 hate,85 1,201 1,923 1,1069 1,1501 1,1523 1,1562 1,1869 1,2057 1,2079 1,2202 1,2244 1,2346 1,2549 1,2572 1,2588 1,2744 1,2748 1,2822 1,2827 1,2959 1,2962 1,3021 1,3081 1,3262 1,3290 1}
+{0 hate,1216 1,1296 1,2247 1,2587 1,2768 1}
+{0 hate,981 1,1523 1,1949 1,2792 1,2921 1,3038 1,3278 1,3323 1,3336 1}
+{0 hate,238 1,2144 1,2279 1}
+{0 hate,51 1,321 1,1139 1,1191 1,1324 1,1342 1,1490 1,1552 1,1553 1,1949 1,2411 1,2450 1,2513 1,2533 1,2560 1,2610 1,2698 1}
+{0 hate,243 1,508 1,593 1,1949 1,2407 1,2557 1,2622 1,3151 1}
+{0 hate,291 1,1205 1,1949 1,2546 1,2775 1,3219 1,3299 1}
+{0 hate,745 1,1139 1,1324 1,3032 1,3102 1}
+{0 hate,69 1,225 1,238 1,775 1,1209 1,1336 1,1372 1,1490 1,1949 1,2279 1,2558 1,2622 1,2847 1,3080 1,3119 1,3296 1}
+{0 hate,1572 1,2602 1,3123 1}
+{0 hate,908 1,1296 1,2568 1,2811 1,3102 1}
+{0 hate,311 1,930 1,1230 1,2148 1,2788 1,2828 1,2944 1,3181 1}
+{0 hate,339 1,502 1,1259 1,1553 1,1721 1,1742 1,2027 1,2204 1,2215 1,2242 1,2570 1,2612 1,3037 1}
+{0 hate,1155 1,1324 1,1553 1,1556 1,2610 1}
+{0 hate,361 1,510 1,647 1,1503 1,2602 1,3004 1,3271 1}
+{0 hate,321 1,884 1,2316 1}
+{0 hate,2122 1,2587 1,2744 1,2792 1}
+{0 hate,511 1,1553 1,2017 1,2106 1,2138 1,2612 1,2792 1,2957 1,2968 1}
+{0 hate,1556 1,2055 1,2295 1,2607 1,2608 1,3168 1}
+{0 hate,22 1,711 1,715 1,1310 1,1949 1,2188 1,2290 1,2313 1,2524 1,2721 1,3339 1}
+{0 hate,2181 1,2763 1,2764 1,3323 1}
+{0 hate,1324 1,1553 1,1572 1,1695 1,2017 1,2703 1}
+{0 hate,238 1,763 1,890 1,1503 1,2596 1}
+{0 hate,373 1,1013 1,1556 1,1869 1,2172 1,2176 1,2211 1,2534 1,2689 1,2801 1,3104 1}
+{0 hate,441 1,2017 1,2144 1,2171 1,3213 1,3266 1}
+{0 hate,1056 1,2477 1,2602 1,2937 1}
+{0 hate,824 1,1553 1,1695 1,2254 1,2612 1}
+{0 hate,1430 1,1826 1,1966 1,2648 1,2803 1,3173 1}
+{0 hate,137 1,333 1,765 1,1155 1,1282 1,1695 1,2030 1,2376 1,2570 1,2688 1,2976 1}
+{0 hate,763 1,1282 1,1326 1,2428 1,2430 1,2489 1,2604 1,2665 1,2783 1,2797 1,2800 1,3277 1}
+{0 hate,1219 1,1503 1,2483 1,2578 1}
+{0 hate,948 1,1305 1,1503 1,1571 1,1664 1,1690 1,1721 1,1724 1,2476 1,2527 1,2556 1,2558 1,2585 1,2784 1,3233 1,3234 1,3235 1,3260 1,3303 1}
+{0 hate,761 1,765 1,860 1,955 1,1063 1,1501 1,2815 1,2917 1,3170 1,3192 1}
+{0 hate,647 1,770 1,1501 1,1724 1,1754 1,2504 1,2935 1}
+{0 hate,1869 1,2104 1,2194 1,2233 1,2661 1,2812 1}
+{0 hate,737 1,2353 1}
+{0 hate,1563 1,2315 1,2629 1,2661 1,3005 1}
+{0 hate,382 1,1324 1,1553 1,1709 1,1797 1,2179 1,2332 1,2610 1,2865 1,3171 1}
+{0 hate,1869 1,2224 1,2659 1,3160 1}
+{0 hate,44 1,70 1,961 1,997 1,1010 1,1136 1,1155 1,1290 1,1372 1,1455 1,1728 1,1748 1,1858 1,1859 1,2030 1,2458 1,2947 1,2967 1,3254 1}
+{0 hate,317 1,1324 1,1336 1,1503 1,1553 1,1949 1,1966 1,1982 1,2401 1,2522 1,2968 1}
+{0 hate,1208 1,1281 1,1442 1,1834 1,2262 1,2363 1,2436 1,2602 1,2683 1,2702 1,2706 1,2890 1}
+{0 hate,418 1,1324 1}
+{0 hate,24 1,851 1,936 1,1503 1,1570 1,1646 1,1949 1,2246 1,2350 1,2351 1,2516 1,2558 1,2864 1,3209 1}
+{0 hate,979 1,1122 1,1159 1,1296 1,2500 1,3218 1,3237 1}
+{0 hate,425 1,937 1,1013 1,1406 1,1565 1,1878 1,1990 1,2192 1,2981 1,3030 1,3142 1}
+{0 hate,1 1,121 1,2218 1,2419 1}
