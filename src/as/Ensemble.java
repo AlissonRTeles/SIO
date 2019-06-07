@@ -91,59 +91,64 @@ public class Ensemble {
 
 		return nReturn;
 	}
-
-	public Instances montaTeste(String cTexto,int classe) {
+	
+	public Instances montaTeste(String[][] aTexto) {
 		PreProcessamento preproc = new PreProcessamento();
-		String    cTeste = cTexto.trim();
 		Instances teste = new Instances(iBaseTreinamento, 0);
-
-		cTeste = preproc.exec(cTeste);
-
-		ArrayList<String> wordArrayList = new ArrayList<String>();
-		for(String word : cTeste.split(" ")) {
-			wordArrayList.add(word);
-		}
-
-
-		int numAttributes = teste.numAttributes();
-
-		// Cria a instância de teste
-		Instance instance = new DenseInstance(numAttributes);
-		instance.setDataset(teste);
-
-
-
-		for (int i = 0; i < numAttributes; i++) {
-			instance.setValue(i, 0);
-
-			for (Iterator iterator = wordArrayList.iterator(); iterator.hasNext();) {
-				String string = (String) iterator.next();
-
-				if (string.equalsIgnoreCase(instance.attribute(i).name())) {
-					instance.setValue(i, 1);
-
-				}
-
+		
+		for (int j = 0;j<aTexto.length;j++) {
+			String    cTeste = aTexto[j][0].trim();
+	
+			cTeste = preproc.exec(cTeste);
+	
+			ArrayList<String> wordArrayList = new ArrayList<String>();
+			for(String word : cTeste.split(" ")) {
+				wordArrayList.add(word);
 			}
-
+	
+	
+			int numAttributes = teste.numAttributes();
+	
+			// Cria a instância de teste
+			Instance instance = new DenseInstance(numAttributes);
+			instance.setDataset(teste);
+	
+	
+	
+			for (int i = 0; i < numAttributes; i++) {
+				instance.setValue(i, 0);
+	
+				for (Iterator iterator = wordArrayList.iterator(); iterator.hasNext();) {
+					String string = (String) iterator.next();
+	
+					if (string.equalsIgnoreCase(instance.attribute(i).name())) {
+						instance.setValue(i, 1);
+	
+					}
+	
+				}
+	
+			}
+			
+			int classe = Integer.parseInt(aTexto[j][1]);
+	
+			switch (classe) {
+			case 0:
+				instance.setClassValue("hate");
+				break;
+			case 1:
+				instance.setClassValue("neutro");
+				break;
+	
+			default:
+				instance.setClassMissing();
+				break;
+			}
+	
+	
+			teste.add(instance);
 		}
-
-		switch (classe) {
-		case 0:
-			instance.setClassValue("hate");
-			break;
-		case 1:
-			instance.setClassValue("neutro");
-			break;
-
-		default:
-			instance.setClassMissing();
-			break;
-		}
-
-
-		teste.add(instance);
-
+		
 		iBaseTeste = teste;
 		
 		return teste;
@@ -224,10 +229,38 @@ public class Ensemble {
 	}
 
 	public static void main(String[] args) {
+		
 		Ensemble e = new Ensemble();
+		String aTestes[][] = {{"vc já levou muita urinada na cabeça?","1"},
+							  {"vc e uma vergonha para mundo.","1"},
+							  {"tava olhando a piroca né safadinho???","1"}};
+		
+		e.setcTreinamento("treinamento.arff");
 		e.montaClassificadores();
-		e.montaTeste("seu filho da puta arrombado do caralho",0);
-		e.predicao();
+		e.montaTeste(aTestes);
+		Prediction predicao = e.predicao();
+		
+		
+		NominalPrediction np = (NominalPrediction) predicao;
+		
+		String saida;
+		String cAux;
+		
+		try {
+			saida  = e.getEvaluation()[0].toMatrixString("** Naive Bayes **");
+			saida += e.getEvaluation()[1].toMatrixString("** SMO **");
+			saida += e.getEvaluation()[2].toMatrixString("** Bayes Net **");
+			saida += "Resultado Predição \n";
+			saida += e.getiBaseTeste().classAttribute().value((int)np.predicted());
+			
+			System.out.println(saida);
+			
+			
+			
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 
 
 	}

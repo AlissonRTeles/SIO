@@ -473,6 +473,7 @@ public class PreProcessamento {
 		p.setcPastaDestino("classes/neutro/");
 		p.geraArquivos();
 		
+		p.setcArquivoOrigem("teste_final.arff");
 		p.setcPastaDestino("classes/");
 		p.geraBaseTreinamento();
 	}
