@@ -6,7 +6,10 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Iterator;
+import java.util.LinkedList;
 
+import util.ArquivoBase;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
 import weka.core.converters.TextDirectoryLoader;
@@ -365,43 +368,36 @@ public class PreProcessamento {
 		return(passa);
 	}
 	
-	public String geraArquivos() {
+	public String geraArquivos(ArquivoBase antes) {
 		String cReturn = "";
-		
-		FileReader arq;
-		int nCount = 1;
-		
+
 		try {
-			arq = new FileReader(this.cArquivoOrigem);
-			BufferedReader lerArq = new BufferedReader(arq);
-		
-			String linha = lerArq.readLine();
+			LinkedList<String> lista_antes = antes.getaLinhasArquivo();
 			
-			while(linha != null) {
-				linha = linha.trim();					
-				String aux = exec(linha);
+			for (Iterator iterator = lista_antes.iterator(); iterator.hasNext();) {
+				
+				String string = exec( (String) iterator.next());
 				
 				if (!this.cPastaDestino.isEmpty()) {
-					File arqProc = new File(this.cPastaDestino + aux);
-					FileWriter fileW = new FileWriter(arqProc);
-					BufferedWriter buffW = new BufferedWriter (fileW);
-				
-					buffW.write(aux);
 					
-					buffW.flush();
-					buffW.close();
+					ArquivoBase destino = new ArquivoBase();
+					LinkedList<String> lista_destino = new LinkedList<String>();
+					
+					lista_destino.add(string);
+					
+					destino.setsNomeArquivo(cPastaDestino+string);
+					destino.setaLinhasArquivo(lista_destino);
+					
+					destino.MatrixParaArquivo();
+					
+					cReturn +=  string+ "\n";
+					
 				}
 				
-				linha = lerArq.readLine();
-				cReturn += aux + "\n";
-				nCount++;
-				
 			}
-			
-		} catch (FileNotFoundException e ) {
-			e.printStackTrace();
-		} catch (IOException e ) {
-			e.printStackTrace();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
 		}
 		
 		return cReturn;
@@ -462,19 +458,28 @@ public class PreProcessamento {
 	}
 	
 	
-	public static void main(String[] args) {
-		PreProcessamento p = new PreProcessamento();
-		
-		p.setcArquivoOrigem("teste1.txt");
-		p.setcPastaDestino("classes/hate/");
-		p.geraArquivos();
-		
-		p.setcArquivoOrigem("teste2.txt");
-		p.setcPastaDestino("classes/neutro/");
-		p.geraArquivos();
-		
-		p.setcArquivoOrigem("teste_final.arff");
-		p.setcPastaDestino("classes/");
-		p.geraBaseTreinamento();
-	}
+//	public static void main(String[] args) {
+//		PreProcessamento p = new PreProcessamento();
+//		ArquivoBase      arqOrigem = new ArquivoBase("teste1.txt");
+//		
+//		p.setcPastaDestino("classes/hate/");
+//		p.geraArquivos(arqOrigem);
+//		
+//
+//		arqOrigem.setFile(new File("teste2.txt"));
+//		p.setcPastaDestino("classes/neutro/");
+//		
+//		try {
+//			arqOrigem.ArquivoParaMatriz();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//		
+//		p.geraArquivos(arqOrigem);
+//				
+//		p.setcArquivoOrigem("Teste_alisson_final.arff");
+//		p.setcPastaDestino("classes/");
+//		p.geraBaseTreinamento();
+//	}
 }
